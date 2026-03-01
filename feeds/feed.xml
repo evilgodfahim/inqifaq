@@ -4,39 +4,51 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 16:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 17:29:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 16:38:00 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 17:29:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[No confiscation of legally imported vapes: High Court]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/no-confiscation-legally-imported-vapes-high-court-4118056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/no-confiscation-legally-imported-vapes-high-court-4118056</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Analysis / Iraq, Libya, and now Iran?]]></title>
+            <description><![CDATA[The US-Israeli strike revives a familiar belief: that removing strongmen brings stability; record says otherwise]]></description>
             <link>https://www.thedailystar.net/news-analysis/news/iraq-libya-and-now-iran-4117946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/iraq-libya-and-now-iran-4117946</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Cox’s Bazar LPG station blast: CNG driver died from severe burns in Dhaka’s burn institute, son says]]></title>
-            <description><![CDATA[Victim suffered around 90 percent burns, says doctor]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/coxs-bazar-lpg-station-blast-cng-driver-died-severe-burns-dhakas-burn-institute-son-says-4118096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/coxs-bazar-lpg-station-blast-cng-driver-died-severe-burns-dhakas-burn-institute-son-says-4118096</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistan PM condoles Khamenei's death, voices concern over 'violation of international law']]></title>
+            <description><![CDATA[President Asif Ali Zardari also expressed profound sorrow]]></description>
             <link>https://www.thedailystar.net/news/world/news/pakistan-pm-condoles-khameneis-death-voices-concern-over-violation-international-law-4118036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/pakistan-pm-condoles-khameneis-death-voices-concern-over-violation-international-law-4118036</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia's Healy lights up Hobart in ODI farewell]]></title>
-            <description><![CDATA[Alyssa Healy delivered a farewell for the ages, producing a breathtaking 158 off 98 balls in her final ODI as Australia piled on 409 for 7 and thrashed India by 185 runs in the third ODI of the three-match series Hobart on Sunday.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/australias-healy-lights-hobart-odi-farewell-4118071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australias-healy-lights-hobart-odi-farewell-4118071</guid>
+            <title><![CDATA[ICT finds ‘gross anomalies’ in probe, prosecution of Chankharpul killings]]></title>
+            <description><![CDATA[Tribunal questions why 3 constables were mainly targeted despite evidence of widespread gunfire and unaccounted police weapons]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-finds-gross-anomalies-probe-prosecution-chankharpul-killings-4118176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-finds-gross-anomalies-probe-prosecution-chankharpul-killings-4118176</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live updates / 3 US service members killed; 'Will be talking' to Iranian leaders, says Trump]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Over $3 billion remittance came in February]]></title>
-            <description><![CDATA[This is the highest amount in at least seven fiscal years]]></description>
             <link>https://www.thedailystar.net/business/news/over-3-billion-remittance-came-february-4117926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/over-3-billion-remittance-came-february-4117926</guid>
             <pubDate>Invalid Date</pubDate>
@@ -60,21 +72,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live updates / 3 US service members killed; 'Will be talking' to Iranian leaders, says Trump]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[One Bangladeshi killed in UAE after Iranian attacks: Defence Ministry]]></title>
             <link>https://www.thedailystar.net/news/world/news/one-bangladeshi-killed-uae-after-iranian-attacks-defence-ministry-4118001</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/one-bangladeshi-killed-uae-after-iranian-attacks-defence-ministry-4118001</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No confiscation of legally imported vapes: High Court]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/no-confiscation-legally-imported-vapes-high-court-4118056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/no-confiscation-legally-imported-vapes-high-court-4118056</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -140,9 +140,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iran-US conflict: Bangladesh in close contact with vessel at UAE port]]></title>
-            <link>https://www.thedailystar.net/business/news/iran-us-conflict-bangladesh-close-contact-vessel-uae-port-4118026</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/iran-us-conflict-bangladesh-close-contact-vessel-uae-port-4118026</guid>
+            <title><![CDATA[Novoair offers interest-free EMI for tickets]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/novoair-offers-interest-free-emi-tickets-4118211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/novoair-offers-interest-free-emi-tickets-4118211</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
