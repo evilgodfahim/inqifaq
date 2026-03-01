@@ -4,42 +4,48 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 02:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 05:00:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 02:55:34 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 05:00:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Private investment hits 11-year low]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/private-investment-hits-11-year-low-4117251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/private-investment-hits-11-year-low-4117251</guid>
+            <title><![CDATA[Middle East flights cancelled at Ctg airport]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/transport/news/middle-east-flights-cancelled-ctg-airport-4117641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/middle-east-flights-cancelled-ctg-airport-4117641</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Death toll from strike in Iranian girls' school now 108: Red Crescent]]></title>
-            <description><![CDATA[When contacted by AFP, the Israeli military did not offer an immediate comment on the reports]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/death-toll-strike-iranian-girls-school-now-108-red-crescent-4117601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/death-toll-strike-iranian-girls-school-now-108-red-crescent-4117601</guid>
+            <title><![CDATA[US-Iran strikes unleash travel chaos as airlines cancel flights]]></title>
+            <description><![CDATA[US-Iran strikes unleashed one of the most severe disruptions to global aviation in years]]></description>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/us-iran-strikes-unleash-travel-chaos-airlines-cancel-flights-4117626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/us-iran-strikes-unleash-travel-chaos-airlines-cancel-flights-4117626</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel, US launched strikes as Iranian leader met with inner circle: Reuters]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/israel-us-launched-strikes-iranian-leader-met-inner-circle-reuters-4117596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/israel-us-launched-strikes-iranian-leader-met-inner-circle-reuters-4117596</guid>
+            <title><![CDATA[Women’s Asian Cup / Australia look to reignite 'Matildas mania']]></title>
+            <link>https://www.thedailystar.net/sports/football/news/australia-look-reignite-matildas-mania-4117681</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/australia-look-reignite-matildas-mania-4117681</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Latest developments in US, Israel strikes on Iran]]></title>
-            <description><![CDATA[Here are the latest developments as the military action announced by US President Donald Trump and the Israeli government sparked a flurry of salvos from Iran that closed airspace around the Middle East]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/latest-developments-us-israel-strikes-iran-4117551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/latest-developments-us-israel-strikes-iran-4117551</guid>
+            <title><![CDATA[Protracted war can weaken Bangladesh’s economy]]></title>
+            <description><![CDATA[The US-Iran war is poised to increase the prices of imported petroleum products, LNG and disrupt the supply chain of industrial raw materials.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/protracted-war-can-weaken-bangladeshs-economy-4117426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/protracted-war-can-weaken-bangladeshs-economy-4117426</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live updates / Iran leader Khamenei killed in massive US and Israeli attack]]></title>
-            <description><![CDATA[Explosions were heard in Tehran on Saturday, Iranian media reported. 'Hour of your freedom is at hand,' Trump tells Iranians.]]></description>
+            <title><![CDATA[Live updates / Iran launches new wave of strikes against Israel, US bases after death of Khamenei in attack]]></title>
+            <description><![CDATA[IRGC says it is carrying out a sixth wave of attacks in retaliation for the US and Israeli bombardment of Iran, Iranian state media says. Follow the live updates.]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
             <pubDate>Sat, 28 Feb 2026 12:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka voices alarm over escalating Middle East conflict]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[China calls for 'immediate halt' to Iran escalation]]></title>
@@ -54,27 +60,21 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Protracted war can weaken Bangladesh’s economy]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/protracted-war-can-weaken-bangladeshs-economy-4117426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/protracted-war-can-weaken-bangladeshs-economy-4117426</guid>
+            <title><![CDATA[Another victim of Halisahar gas leak blast dies; death toll rises to six]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/another-victim-halisahar-gas-leak-blast-dies-death-toll-rises-six-4117671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/another-victim-halisahar-gas-leak-blast-dies-death-toll-rises-six-4117671</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Attacks on Star, Prothom Alo: Home minister orders probe report within two months]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/attacks-star-prothom-alo-home-minister-orders-probe-report-within-two-months-4117461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/attacks-star-prothom-alo-home-minister-orders-probe-report-within-two-months-4117461</guid>
+            <title><![CDATA[Chaos at Dhaka airport as flights to Middle East halted]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/chaos-dhaka-airport-flights-middle-east-halted-4117421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/chaos-dhaka-airport-flights-middle-east-halted-4117421</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Book fair yet to gain momentum]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/book-fair-yet-gain-momentum-4117571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/book-fair-yet-gain-momentum-4117571</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two-month ban on hilsa fishing starts]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/agriculture/news/two-month-ban-hilsa-fishing-starts-4117516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/agriculture/news/two-month-ban-hilsa-fishing-starts-4117516</guid>
+            <title><![CDATA[Iran president, 2 officials to lead transition after Khamenei's death: State TV]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-president-2-officials-lead-transition-after-khameneis-death-state-tv-4117661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-president-2-officials-lead-transition-after-khameneis-death-state-tv-4117661</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -86,16 +86,8 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[The promises and perils of a ‘Notun Tej’ in Bangladeshi architecture]]></title>
-            <description><![CDATA[Nearly a hundred years ago, in 1927, something “revolutionary” happened in Stuttgart, Germany.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-promises-and-perils-notun-tej-bangladeshi-architecture-4116616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-promises-and-perils-notun-tej-bangladeshi-architecture-4116616</guid>
-            <dc:creator><![CDATA[Adnan Zillur Morshed]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Education system must be built on proficiency, not pass rates]]></title>
-            <description><![CDATA[By Ananta Neelim]]></description>
+            <description><![CDATA[One of the toughest challenges for the new government is to ensure just educational opportunities for over four crore young people.]]></description>
             <link>https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</guid>
             <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
@@ -103,29 +95,31 @@
         </item>
         <item>
             <title><![CDATA[Analysis / A war neither Pakistan nor Afghanistan can win, but South Asia will lose]]></title>
-            <description><![CDATA[Retaliatory strikes expose structural tensions that could destabilise South Asia for years]]></description>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
             <link>https://www.thedailystar.net/analysis-2/news/war-neither-pakistan-nor-afghanistan-can-win-south-asia-will-lose-4117076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/analysis-2/news/war-neither-pakistan-nor-afghanistan-can-win-south-asia-will-lose-4117076</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘A lot of effort required to compete against the best’]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/lot-effort-required-compete-against-the-best-4116526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/lot-effort-required-compete-against-the-best-4116526</guid>
-            <pubDate>Sat, 28 Feb 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nonfiction / Kumu: Meye bela]]></title>
-            <link>https://www.thedailystar.net/books-literature/news/kumu-meye-bela-4116636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/kumu-meye-bela-4116636</guid>
-            <pubDate>Sat, 28 Feb 2026 00:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musings / In Dhaka, spring and pages bloom together]]></title>
-            <link>https://www.thedailystar.net/books-literature/news/dhaka-spring-and-pages-bloom-together-4115691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/dhaka-spring-and-pages-bloom-together-4115691</guid>
+            <title><![CDATA[Madhabdi rape: Will justice prevail or be forgotten again?]]></title>
+            <description><![CDATA[Recently, in Narsingdi’s Madhabdi upazila, a father watched his teenage daughter being dragged away into the night.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</guid>
+            <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / A break from global norms at Bangladesh Bank]]></title>
+            <link>https://www.thedailystar.net/news-analysis/news/break-global-norms-bangladesh-bank-4116416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/break-global-norms-bangladesh-bank-4116416</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The poison tree of Rangpur]]></title>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-poison-tree-rangpur-4116606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-poison-tree-rangpur-4116606</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One city, different nights]]></title>
@@ -134,27 +128,33 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jahangirnagar University: A campus awash with colour and life]]></title>
+            <link>https://www.thedailystar.net/weekend-read/news/jahangirnagar-university-campus-awash-colour-and-life-4116611</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/jahangirnagar-university-campus-awash-colour-and-life-4116611</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Depoliticise institutions, not ideas]]></title>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</guid>
             <pubDate>Sat, 28 Feb 2026 01:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[End LNG reliance or face debt trap: CPD]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/end-lng-reliance-or-face-debt-trap-cpd-4117246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/end-lng-reliance-or-face-debt-trap-cpd-4117246</guid>
+            <title><![CDATA[Private investment hits 11-year low]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/private-investment-hits-11-year-low-4117251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/private-investment-hits-11-year-low-4117251</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[City move two points behind Arsenal as Liverpool hit five]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/city-move-two-points-behind-arsenal-liverpool-hit-five-4117416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/city-move-two-points-behind-arsenal-liverpool-hit-five-4117416</guid>
+            <title><![CDATA[Red-hot Kane eyes Lewandowski's Bundesliga goals record]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/red-hot-kane-eyes-lewandowskis-bundesliga-goals-record-4117666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/red-hot-kane-eyes-lewandowskis-bundesliga-goals-record-4117666</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[The story behind Arifin Shuvoo’s ‘Jazz City’ journey]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/the-story-behind-arifin-shuvoos-jazz-city-journey-4117111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/the-story-behind-arifin-shuvoos-jazz-city-journey-4117111</guid>
+            <title><![CDATA[K-pop's BLACKPINK returns with new release after more than 3 years]]></title>
+            <link>https://www.thedailystar.net/entertainment/music/news/k-pops-blackpink-returns-new-release-after-more-3-years-4117676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/music/news/k-pops-blackpink-returns-new-release-after-more-3-years-4117676</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
