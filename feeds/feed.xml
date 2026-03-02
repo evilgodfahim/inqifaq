@@ -4,49 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 23:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 02:43:11 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 23:31:23 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 02:43:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Reforms will continue, political interference won’t: BB governor]]></title>
-            <link>https://www.thedailystar.net/business/news/reforms-will-continue-political-interference-wont-bb-governor-4118076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/reforms-will-continue-political-interference-wont-bb-governor-4118076</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One Bangladeshi killed in UAE after Iranian attacks: Defence Ministry]]></title>
-            <description><![CDATA[3 killed, 58 injured from the attacks, they say]]></description>
-            <link>https://www.thedailystar.net/news/world/news/one-bangladeshi-killed-uae-after-iranian-attacks-defence-ministry-4118001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/one-bangladeshi-killed-uae-after-iranian-attacks-defence-ministry-4118001</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No confiscation of legally imported vapes: High Court]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/no-confiscation-legally-imported-vapes-high-court-4118056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/no-confiscation-legally-imported-vapes-high-court-4118056</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal win set-piece battle to sink Chelsea in title boost]]></title>
-            <description><![CDATA[Arsenal won their set-piece battle with 10-man Chelsea as Jurrien Timber sealed the Premier League leaders' crucial 2-1 victory over their London rivals on Sunday.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/arsenal-win-set-piece-battle-sink-chelsea-title-boost-4118331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-win-set-piece-battle-sink-chelsea-title-boost-4118331</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One in four Americans supports US strikes on Iran: Reuters/Ipsos poll]]></title>
-            <description><![CDATA[Americans wary of US casualties, higher fuel prices]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/one-four-americans-supports-us-strikes-iran-reutersipsos-poll-4118356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/one-four-americans-supports-us-strikes-iran-reutersipsos-poll-4118356</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICT finds ‘gross anomalies’ in probe, prosecution of Chankharpul killings]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-finds-gross-anomalies-probe-prosecution-chankharpul-killings-4118176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-finds-gross-anomalies-probe-prosecution-chankharpul-killings-4118176</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[Over $3 billion remittance came in February]]></title>
             <link>https://www.thedailystar.net/business/news/over-3-billion-remittance-came-february-4117926</link>
@@ -55,6 +16,7 @@
         </item>
         <item>
             <title><![CDATA[Israel hits Tehran again after killing Khamenei, leadership council takes over]]></title>
+            <description><![CDATA[Israel and Iran each launch fresh strikes]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/israel-hits-tehran-again-after-killing-khamenei-leadership-council-takes-over-4118346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/israel-hits-tehran-again-after-killing-khamenei-leadership-council-takes-over-4118346</guid>
             <pubDate>Invalid Date</pubDate>
@@ -67,19 +29,65 @@
         </item>
         <item>
             <title><![CDATA[Selection of a supreme leader in a day or two: Iran Foreign Minister tells Al Jazeera]]></title>
+            <description><![CDATA[Not attacking our brothers in Persian Gulf, attacking American targets, he says]]></description>
             <link>https://www.thedailystar.net/news/world/news/selection-supreme-leader-day-or-two-iran-foreign-minister-tells-al-jazeera-4118051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/selection-supreme-leader-day-or-two-iran-foreign-minister-tells-al-jazeera-4118051</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Schoolgirl rescued with her throat slit in Ctg eco park, admitted to hospital]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/schoolgirl-rescued-her-throat-slit-ctg-eco-park-admitted-hospital-4118336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/schoolgirl-rescued-her-throat-slit-ctg-eco-park-admitted-hospital-4118336</guid>
+            <title><![CDATA[Big LPG importers sidelined as emerging players gain ground]]></title>
+            <description><![CDATA[The domestic liquefied petroleum gas (LPG) market is undergoing a shake-up as stricter banking rules during the interim government have altered who can import fuel. As a result, some of the largest players have been sidelined, while emerging companies are rapidly expanding their footprint.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/big-lpg-importers-sidelined-emerging-players-gain-ground-4118296</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/big-lpg-importers-sidelined-emerging-players-gain-ground-4118296</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran war spreads across region as US, Israel suffer losses]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-war-spreads-across-region-us-israel-suffer-losses-4118431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-war-spreads-across-region-us-israel-suffer-losses-4118431</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM prioritises migrant safety, energy security]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pm-prioritises-migrant-safety-energy-security-4118371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-prioritises-migrant-safety-energy-security-4118371</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shakib’s return in balance amid legal hurdles]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/shakibs-return-balance-amid-legal-hurdles-4118081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shakibs-return-balance-amid-legal-hurdles-4118081</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US-Israel, Iran war: Dhaka calls for maximum restraint]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-israel-iran-war-dhaka-calls-maximum-restraint-4118396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-israel-iran-war-dhaka-calls-maximum-restraint-4118396</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One in four Americans supports US strikes on Iran: Reuters/Ipsos poll]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/one-four-americans-supports-us-strikes-iran-reutersipsos-poll-4118356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/one-four-americans-supports-us-strikes-iran-reutersipsos-poll-4118356</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICT finds ‘gross anomalies’ in probe, prosecution of Chankharpul killings]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-finds-gross-anomalies-probe-prosecution-chankharpul-killings-4118176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-finds-gross-anomalies-probe-prosecution-chankharpul-killings-4118176</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Family Card reset our social protection system?]]></title>
+            <description><![CDATA[By Selim Raihan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/can-family-card-reset-our-social-protection-system-4118216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-family-card-reset-our-social-protection-system-4118216</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Musings / How Persia became Iran]]></title>
-            <description><![CDATA[By Touseful Islam]]></description>
+            <description><![CDATA[Echoes of an empire in a time of fire]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/how-persia-became-iran-4118011</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/how-persia-became-iran-4118011</guid>
             <dc:creator><![CDATA[Touseful Islam]]></dc:creator>
@@ -87,7 +95,7 @@
         </item>
         <item>
             <title><![CDATA[Khamenei's killing and Iran’s war on the Arab states, explained]]></title>
-            <description><![CDATA[Unlike previous wars between Iran, US, and Israel, the current one hit the doorstep of seven gulf nations, throwing the entire region into a panic never seen before and it was Iran that dragged the other nations into it.]]></description>
+            <description><![CDATA[By Ramisa Rob]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/khameneis-killing-and-irans-war-the-arab-states-explained-4117901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/khameneis-killing-and-irans-war-the-arab-states-explained-4117901</guid>
             <dc:creator><![CDATA[Ramisa Rob]]></dc:creator>
@@ -95,19 +103,17 @@
         </item>
         <item>
             <title><![CDATA[Diplomacy as deception: How war on Iran was made inevitable]]></title>
-            <description><![CDATA[By Aishwarya Sanjukta Roy Proma]]></description>
+            <description><![CDATA[The negotiation was not diplomacy. It was surveillance, a mechanism to gather targeting intelligence, stall Iranian defensive preparations, and manufacture the appearance of a peaceful last resort.]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/diplomacy-deception-how-war-iran-was-made-inevitable-4117776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/diplomacy-deception-how-war-iran-was-made-inevitable-4117776</guid>
             <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Imperial maps, Pak-Afghan war, and a way forward]]></title>
-            <description><![CDATA[Pakistan knows that invading Afghanistan would be a nightmare: the terrain is unforgiving, the Taliban are experienced guerrilla fighters, and any occupation would trigger wider regional reactions.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
-            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
+            <title><![CDATA[Why is there so little discussion on books?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</guid>
+            <pubDate>Sun, 01 Mar 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business Plus  / The rice gene bank that feeds Bangladesh]]></title>
@@ -128,27 +134,21 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[The promises and perils of a ‘Notun Tej’ in Bangladeshi architecture]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-promises-and-perils-notun-tej-bangladeshi-architecture-4116616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-promises-and-perils-notun-tej-bangladeshi-architecture-4116616</guid>
-            <pubDate>Sat, 28 Feb 2026 00:13:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Another display of ‘might is right’]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/another-display-might-right-4117956</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/another-display-might-right-4117956</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Big LPG importers sidelined as emerging players gain ground]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/big-lpg-importers-sidelined-emerging-players-gain-ground-4118296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/big-lpg-importers-sidelined-emerging-players-gain-ground-4118296</guid>
+            <title><![CDATA[Attacks on Iran  rattle global markets,  DSE hit hardest]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/attacks-iran-rattle-global-markets-dse-hit-hardest-4118291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/attacks-iran-rattle-global-markets-dse-hit-hardest-4118291</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia's Healy lights up Hobart in ODI farewell]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/australias-healy-lights-hobart-odi-farewell-4118071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australias-healy-lights-hobart-odi-farewell-4118071</guid>
+            <title><![CDATA[Arsenal win set-piece battle to sink Chelsea in title boost]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/arsenal-win-set-piece-battle-sink-chelsea-title-boost-4118331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-win-set-piece-battle-sink-chelsea-title-boost-4118331</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
