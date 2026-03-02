@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 09:59:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 10:57:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 09:59:10 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 10:57:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh expresses sorrow over Khamenei’s death in 'targeted attack']]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-expresses-sorrow-over-khameneis-death-targeted-attack-4118661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-expresses-sorrow-over-khameneis-death-targeted-attack-4118661</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IAEA head urges 'utmost restraint' after strikes on Iran]]></title>
+            <description><![CDATA["I reiterate my call on all parties to exercise maximum restraint to avoid further escalation," said UN nuclear watchdog head Rafael Grossi]]></description>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iaea-head-urges-utmost-restraint-after-strikes-iran-4118696</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iaea-head-urges-utmost-restraint-after-strikes-iran-4118696</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA['Service, Not Profit': Young men bring relief to Ramadan shoppers in Moulvibazar]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/service-not-profit-young-men-bring-relief-ramadan-shoppers-moulvibazar-4118686</link>
@@ -19,19 +32,6 @@
             <description><![CDATA["We will increasingly strike the key elements of the regime and continue to intensify the damage," military spokesman Brigadier General Effie Defrin]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/israel-says-will-increase-strikes-key-elements-regime-iran-4118716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/israel-says-will-increase-strikes-key-elements-regime-iran-4118716</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran Red Crescent says 555 people killed in Iran since start of US-Israel attack]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-red-crescent-says-555-people-killed-iran-start-us-israel-attack-4118641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-red-crescent-says-555-people-killed-iran-start-us-israel-attack-4118641</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle East Crisis: 102 flights to and from Dhaka airport cancelled so far]]></title>
-            <description><![CDATA[A total of 102 flights to and from Hazrat Shahjalal International Airport (HSIA) cancelled in three days]]></description>
-            <link>https://www.thedailystar.net/business/economy/aviation/news/middle-east-crisis-102-flights-and-dhaka-airport-cancelled-so-far-4118601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/middle-east-crisis-102-flights-and-dhaka-airport-cancelled-so-far-4118601</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,27 +54,27 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Govt confirms 2 Bangladeshis killed, 7 injured in the Middle East]]></title>
+            <link>https://www.thedailystar.net/nrb/news/govt-confirms-2-bangladeshis-killed-7-injured-the-middle-east-4118746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/nrb/news/govt-confirms-2-bangladeshis-killed-7-injured-the-middle-east-4118746</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Several US warplanes crashed, crew survived: Kuwait defence ministry]]></title>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/several-us-warplanes-crashed-crew-survived-kuwait-defence-ministry-4118611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/several-us-warplanes-crashed-crew-survived-kuwait-defence-ministry-4118611</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Iran Guards say targeted Israel PM Netanyahu's office]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-guards-say-targeted-israel-pm-netanyahus-office-4118751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-guards-say-targeted-israel-pm-netanyahus-office-4118751</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Security in diplomatic zone reinforced amid global tensions: Home minister]]></title>
             <link>https://www.thedailystar.net/news/governance/news/security-diplomatic-zone-reinforced-amid-global-tensions-home-minister-4118711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/security-diplomatic-zone-reinforced-amid-global-tensions-home-minister-4118711</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh expresses sorrow over Khamenei’s death in 'targeted attack']]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-expresses-sorrow-over-khameneis-death-targeted-attack-4118661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-expresses-sorrow-over-khameneis-death-targeted-attack-4118661</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IAEA head urges 'utmost restraint' after strikes on Iran]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iaea-head-urges-utmost-restraint-after-strikes-iran-4118696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iaea-head-urges-utmost-restraint-after-strikes-iran-4118696</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -102,10 +102,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Appointing a new BB governor has never been so chaotic]]></title>
+            <title><![CDATA[Appointing a new Bangladesh Bank governor has never been so chaotic]]></title>
             <description><![CDATA[The selection process of the central bank governor in all developed countries is highly rigorous.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/appointing-new-bb-governor-has-never-been-so-chaotic-4118276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/appointing-new-bb-governor-has-never-been-so-chaotic-4118276</guid>
+            <link>https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/appointing-new-bangladesh-bank-governor-has-never-been-so-chaotic-4118276</guid>
             <dc:creator><![CDATA[Birupaksha Paul]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
@@ -140,9 +140,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[IDRA chairman resigns]]></title>
-            <link>https://www.thedailystar.net/business/news/idra-chairman-resigns-4118581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/idra-chairman-resigns-4118581</guid>
+            <title><![CDATA[Iran war shakes up global shipping routes]]></title>
+            <link>https://www.thedailystar.net/business/news/iran-war-shakes-global-shipping-routes-4118621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/iran-war-shakes-global-shipping-routes-4118621</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -158,10 +158,22 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[What happens inside our bodies when we're fasting?]]></title>
-            <link>https://www.thedailystar.net/rising-stars/news/what-happens-inside-our-bodies-when-were-fasting-4114626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/news/what-happens-inside-our-bodies-when-were-fasting-4114626</guid>
-            <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[#Women Empowerment / The rise of event management in Bangladesh with Anika Azam]]></title>
+            <link>https://www.thedailystar.net/life-living/news/the-rise-event-management-bangladesh-anika-azam-4111856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/the-rise-event-management-bangladesh-anika-azam-4111856</guid>
+            <pubDate>Sun, 22 Feb 2026 10:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#Woman Empowerment / Cancer could not stop Farah Noshin’s Muay Thai journey]]></title>
+            <link>https://www.thedailystar.net/life-living/news/cancer-could-not-stop-farah-noshins-muay-thai-journey-4115571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/cancer-could-not-stop-farah-noshins-muay-thai-journey-4115571</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to choose the perfect Eid gift for everyone you know]]></title>
+            <link>https://www.thedailystar.net/life-living/lifehacks/news/how-choose-the-perfect-eid-gift-everyone-you-know-4115581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/lifehacks/news/how-choose-the-perfect-eid-gift-everyone-you-know-4115581</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple ways to replace your most harmful habits]]></title>
@@ -170,10 +182,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladeshi designer Tanvir Mahidy makes historic London Fashion Week debut]]></title>
-            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</guid>
-            <pubDate>Invalid Date</pubDate>
+            <title><![CDATA[What happens inside our bodies when we're fasting?]]></title>
+            <link>https://www.thedailystar.net/rising-stars/news/what-happens-inside-our-bodies-when-were-fasting-4114626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/news/what-happens-inside-our-bodies-when-were-fasting-4114626</guid>
+            <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Want instant glam? Try a classic bouffant]]></title>
@@ -182,27 +194,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Last-minute study strategies that actually work]]></title>
-            <link>https://www.thedailystar.net/rising-stars/education/news/last-minute-study-strategies-actually-work-4114596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/education/news/last-minute-study-strategies-actually-work-4114596</guid>
-            <pubDate>Thu, 26 Feb 2026 11:00:00 GMT</pubDate>
+            <title><![CDATA[5 countries for a quick international getaway]]></title>
+            <link>https://www.thedailystar.net/life-living/travel/news/5-countries-quick-international-getaway-4111866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/travel/news/5-countries-quick-international-getaway-4111866</guid>
+            <pubDate>Sun, 22 Feb 2026 10:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The dangerous normalisation of beauty consumerism among young girls]]></title>
-            <link>https://www.thedailystar.net/rising-stars/pop-culture/news/the-dangerous-normalisation-beauty-consumerism-among-young-girls-4114651</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/pop-culture/news/the-dangerous-normalisation-beauty-consumerism-among-young-girls-4114651</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview / Benjamin Wood  From early writing days to ‘Seascraper’ success]]></title>
-            <link>https://www.thedailystar.net/books-literature/news/benjamin-wood-early-writing-days-seascraper-success-4116626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/benjamin-wood-early-writing-days-seascraper-success-4116626</guid>
-            <pubDate>Sat, 28 Feb 2026 00:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musings / John Steinbeck and the art of bearing witness]]></title>
-            <link>https://www.thedailystar.net/books-literature/news/john-steinbeck-and-the-art-bearing-witness-4116476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/john-steinbeck-and-the-art-bearing-witness-4116476</guid>
+            <title><![CDATA[Bangladeshi designer Tanvir Mahidy makes historic London Fashion Week debut]]></title>
+            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
