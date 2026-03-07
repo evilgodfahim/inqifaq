@@ -4,34 +4,34 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 17:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 18:43:29 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 17:28:31 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 18:43:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Hamza's quick return allays Bangladesh's worries]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/hamzas-quick-return-allays-bangladeshs-worries-4123216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/hamzas-quick-return-allays-bangladeshs-worries-4123216</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trader stabbed to death 'over extortion' in Cox’s Bazar]]></title>
+            <description><![CDATA[Drives on to arrest accused, police say]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/trader-stabbed-death-over-extortion-coxs-bazar-4123056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/trader-stabbed-death-over-extortion-coxs-bazar-4123056</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ticket prices and hotel tariffs skyrocket ahead of T20 World Cup final]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/ticket-prices-and-hotel-tariffs-skyrocket-ahead-t20-world-cup-final-4123091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/ticket-prices-and-hotel-tariffs-skyrocket-ahead-t20-world-cup-final-4123091</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Missing for 4 days, woman found dead in hospital lift shaft in Cox’s Bazar]]></title>
+            <description><![CDATA[CCTV suggests she fell into lift shaft; visitors raise concerns over lift safety]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/missing-4-days-woman-found-dead-hospital-lift-shaft-coxs-bazar-4123016</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/missing-4-days-woman-found-dead-hospital-lift-shaft-coxs-bazar-4123016</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qatar resumes LNG loading, tanker bound for Bangladesh: Bloomberg]]></title>
-            <description><![CDATA[The tanker Lebrethah departed Qatar's Ras Laffan export terminal on Friday with an increased draft level, indicating a loaded cargo, and is heading toward Bangladesh]]></description>
-            <link>https://www.thedailystar.net/top-news/news/qatar-resumes-lng-loading-tanker-bound-bangladesh-bloomberg-4122891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/top-news/news/qatar-resumes-lng-loading-tanker-bound-bangladesh-bloomberg-4122891</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat for safeguarding Bangladesh’s sovereignty while pursuing economic progress]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/jamaat-safeguarding-bangladeshs-sovereignty-while-pursuing-economic-progress-4123006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/jamaat-safeguarding-bangladeshs-sovereignty-while-pursuing-economic-progress-4123006</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UPDF member shot dead in Khagrachhari’s Panchari]]></title>
-            <description><![CDATA[PCJSS denies involvement]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/updf-member-shot-dead-khagrachharis-panchari-4123061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/updf-member-shot-dead-khagrachharis-panchari-4123061</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -39,6 +39,12 @@
             <description><![CDATA[Energy minister assures people of adequate stock, supply]]></description>
             <link>https://www.thedailystar.net/environment/natural-resources/energy/news/panic-buying-drains-filling-stations-4123066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/environment/natural-resources/energy/news/panic-buying-drains-filling-stations-4123066</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Student leader beaten to death at Jhenaidah fuel station]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/student-leader-beaten-death-jhenaidah-fuel-station-4123191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/student-leader-beaten-death-jhenaidah-fuel-station-4123191</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -72,14 +78,16 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trader stabbed to death 'over extortion' in Cox’s Bazar]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/trader-stabbed-death-over-extortion-coxs-bazar-4123056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/trader-stabbed-death-over-extortion-coxs-bazar-4123056</guid>
+            <title><![CDATA[Column by Mahfuz Anam / The speech that emboldened us all]]></title>
+            <description><![CDATA[By Mahfuz Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-speech-emboldened-us-all-4122381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-speech-emboldened-us-all-4122381</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[When boys don’t know]]></title>
-            <description><![CDATA[By Mosharrat Monima]]></description>
+            <description><![CDATA[In recent years, Bangladesh has made significant progress in destigmatising menstrual hygiene.]]></description>
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/when-boys-dont-know-4122416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/when-boys-dont-know-4122416</guid>
             <dc:creator><![CDATA[Mosharrat Monima]]></dc:creator>
@@ -87,25 +95,16 @@
         </item>
         <item>
             <title><![CDATA[Panic buying may only deepen fuel crisis]]></title>
-            <description><![CDATA[Govt must tighten oversight, citizens must stop hoarding]]></description>
             <link>https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/panic-buying-may-only-deepen-fuel-crisis-4122901</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[#Perspective / How Bangladeshi NRBs observe Ramadan far from home]]></title>
-            <description><![CDATA[By Wara Karim]]></description>
+            <description><![CDATA[Experience nostalgic Ramadan traditions as non-resident Bangladeshis in Toronto, London, and Shanghai navigate professional duties while missing Dhaka iftar bazaars. This heartfelt exploration highlights cultural resilience and the emotional significance of family during Eid.]]></description>
             <link>https://www.thedailystar.net/life-living/news/how-bangladeshi-nrbs-observe-ramadan-far-home-4122691</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-bangladeshi-nrbs-observe-ramadan-far-home-4122691</guid>
             <dc:creator><![CDATA[Wara Karim]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When our indifference breaks our children]]></title>
-            <description><![CDATA[The posthumous Swadhinata Padak for Maherin Chowdhury, a teacher who died saving at least 20 students from the burning remains of Milestone School and College after it was hit by a fighter jet last year, brought back sad memories of losing children and teachers in a single tragic blow.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -133,15 +132,15 @@
             <pubDate>Sat, 07 Mar 2026 01:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Let history breathe]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/let-history-breathe-4122401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/let-history-breathe-4122401</guid>
-            <pubDate>Sat, 07 Mar 2026 01:22:00 GMT</pubDate>
+            <title><![CDATA[When our indifference breaks our children]]></title>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/when-our-indifference-breaks-our-children-4122391</guid>
+            <pubDate>Sat, 07 Mar 2026 01:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Form panel to tackle panic over Middle East crisis: economists]]></title>
-            <link>https://www.thedailystar.net/business/news/form-panel-tackle-panic-over-middle-east-crisis-economists-4123001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/form-panel-tackle-panic-over-middle-east-crisis-economists-4123001</guid>
+            <title><![CDATA[Bangladesh educates its women, but leaves many without jobs]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bangladesh-educates-its-women-leaves-many-without-jobs-4123086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-educates-its-women-leaves-many-without-jobs-4123086</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
