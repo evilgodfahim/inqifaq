@@ -4,39 +4,45 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 04:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 05:50:16 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 04:49:07 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 05:50:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[India eye history, New Zealand aim for "upset"]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/india-eye-history-new-zealand-aim-upset-4123576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/india-eye-history-new-zealand-aim-upset-4123576</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Gen Z’s gender paradox]]></title>
+            <description><![CDATA[Bold in politics, ignorant on equality]]></description>
+            <link>https://www.thedailystar.net/analysis/news/gen-zs-gender-paradox-4123566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/analysis/news/gen-zs-gender-paradox-4123566</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No pressure, no fun for Suryakumar ahead of T20 World Cup final]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/no-pressure-no-fun-suryakumar-ahead-t20-world-cup-final-4123551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/no-pressure-no-fun-suryakumar-ahead-t20-world-cup-final-4123551</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yamal’s wonder strike seals Barcelona win over Athletic Bilbao]]></title>
+            <description><![CDATA[The champions restored their four-point lead over second-placed Real Madrid, who had temporarily closed the gap by beating Celta Vigo on Friday.]]></description>
             <link>https://www.thedailystar.net/sports/football/news/yamals-wonder-strike-seals-barcelona-win-over-athletic-bilbao-4123531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/yamals-wonder-strike-seals-barcelona-win-over-athletic-bilbao-4123531</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Messi one goal shy of 900-goal landmark]]></title>
-            <description><![CDATA[The Argentine superstar's 80th goal for Miami takes his career tally to 899, leaving him just one away from reaching the 900-goal milestone.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/messi-one-goal-shy-900-goal-landmark-4123521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-one-goal-shy-900-goal-landmark-4123521</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Panic buying drains filling stations]]></title>
-            <link>https://www.thedailystar.net/environment/natural-resources/energy/news/panic-buying-drains-filling-stations-4123066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/environment/natural-resources/energy/news/panic-buying-drains-filling-stations-4123066</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Randell claims 5 wickets in 5 balls, first in 254 years of first-class cricket.]]></title>
-            <description><![CDATA[Brett Randell achieved the feat bowling for Central Districts against Northern Districts on day two of a Plunket Shield four-day match in front of a sparse crowd at Napier's McLean Park.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/randell-claims-5-wickets-5-balls-first-254-years-first-class-cricket-4123536</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/randell-claims-5-wickets-5-balls-first-254-years-first-class-cricket-4123536</guid>
+            <title><![CDATA[Family Card pilot to cover 40,000 households]]></title>
+            <description><![CDATA[Some Tk 39 crore has been set aside from the block allocation from this fiscal year’s revised budget, a finance ministry official told The Daily Star.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/family-card-pilot-cover-40000-households-4123341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/family-card-pilot-cover-40000-households-4123341</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh educates its women, but leaves many without jobs]]></title>
-            <description><![CDATA[Bangladesh has made striking gains in educating its women. Universities and colleges now turn out more female graduates than ever before, nearly half of all students.]]></description>
             <link>https://www.thedailystar.net/business/economy/news/bangladesh-educates-its-women-leaves-many-without-jobs-4123086</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-educates-its-women-leaves-many-without-jobs-4123086</guid>
             <pubDate>Invalid Date</pubDate>
@@ -51,12 +57,6 @@
             <title><![CDATA[Live updates / Iran Guards say can fight 'intense war' for six months]]></title>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-guards-say-can-fight-intense-war-six-months-4123506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-guards-say-can-fight-intense-war-six-months-4123506</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war threatens prolonged hit to global energy markets]]></title>
-            <link>https://www.thedailystar.net/business/global-economy/news/iran-war-threatens-prolonged-hit-global-energy-markets-4123496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/global-economy/news/iran-war-threatens-prolonged-hit-global-energy-markets-4123496</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -110,6 +110,12 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Defying hardship and terrain, hill women support their families]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/defying-hardship-and-terrain-hill-women-support-their-families-4123326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/defying-hardship-and-terrain-hill-women-support-their-families-4123326</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What to drink after dates at iftar]]></title>
             <link>https://www.thedailystar.net/health/healthcare/news/what-drink-after-dates-iftar-4123241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/health/healthcare/news/what-drink-after-dates-iftar-4123241</guid>
@@ -128,15 +134,9 @@
             <pubDate>Sat, 07 Mar 2026 00:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[THE SHELF / 7 graphic novels to read on International Women’s Day]]></title>
-            <link>https://www.thedailystar.net/books-literature/news/7-graphic-novels-read-international-womens-day-4120941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/7-graphic-novels-read-international-womens-day-4120941</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Six years on, have we learned our lessons from Covid?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/six-years-have-we-learned-our-lessons-covid-4123266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/six-years-have-we-learned-our-lessons-covid-4123266</guid>
+            <link>https://www.thedailystar.net/opinion/news/six-years-have-we-learned-our-lessons-covid-4123266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/six-years-have-we-learned-our-lessons-covid-4123266</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -146,15 +146,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[95 Days To Go / [PART 1] World Cup goal wonders: From an 11-second storm to a 13-goal epic]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/part-1-world-cup-goal-wonders-11-second-storm-13-goal-epic-4123406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/part-1-world-cup-goal-wonders-11-second-storm-13-goal-epic-4123406</guid>
+            <title><![CDATA[Beyond the boundary]]></title>
+            <link>https://www.thedailystar.net/sports/womens-sports/news/beyond-the-boundary-4123046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/womens-sports/news/beyond-the-boundary-4123046</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Women's Day Special  / The fight for gender equality in entertainment goes on]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/the-fight-gender-equality-entertainment-goes-4123011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/the-fight-gender-equality-entertainment-goes-4123011</guid>
+            <title><![CDATA[Trailer of ‘Dhurandhar 2: The Revenge’ unveiled]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/trailer-dhurandhar-2-the-revenge-unveiled-4123571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/trailer-dhurandhar-2-the-revenge-unveiled-4123571</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
