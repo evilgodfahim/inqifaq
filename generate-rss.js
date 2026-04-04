@@ -20,7 +20,7 @@ function banglaToAscii(str) {
 
 // ===== DATE PARSING =====
 // Handles:
-//   ISO 8601         → "2026-04-04T16:11:45+06:00"   (Ittefaq data-published)
+//   ISO 8601         → "2026-04-04T16:11:45+06:00"   (Ittefaq data-published, AmarDesh dateTime)
 //   Bangla datetime  → "০৩ এপ্রিল ২০২৬, ১২:০২ এএম"  (Inqilab)
 //   Bangla date-only → "০৩ এপ্রিল ২০২৬"              (Inqilab lead fallback)
 
@@ -34,7 +34,7 @@ function parseDate(raw) {
   if (!raw || !raw.trim()) return new Date();
   const str = raw.trim();
 
-  // ISO 8601 (Ittefaq data-published)
+  // ISO 8601 (Ittefaq data-published, AmarDesh time[datetime])
   if (/^\d{4}-\d{2}-\d{2}T/.test(str)) {
     const d = new Date(str);
     if (!isNaN(d)) return d;
@@ -214,6 +214,126 @@ function scrapeIttefaq(html, seen) {
   return items;
 }
 
+// ===== SCRAPER: AMAR DESH – OP-ED =====
+// Page: https://www.dailyamardesh.com/op-ed  (Next.js SSR)
+//
+// Three article sections, all EXCLUDING সর্বাধিক পঠিত sidebar:
+//
+//   Section 1 – Hero (1 article):
+//     article > a            where class="group" (no other classes)
+//     Title  → h2 > span
+//
+//   Section 2 – Secondary list (3 articles):
+//     article > a            where class contains "grid-cols-5" and "group"
+//                            but NOT "text-red-600" (which marks most-read)
+//     Title  → h3 > span
+//
+//   Section 3 – Paginated grid (12 articles, below the 3-col layout):
+//     a[class="bg-white group block h-full"]
+//     Title  → h3 > span
+//
+//   Date  → time[itemprop="datePublished"][datetime]  — ISO 8601 with +06:00
+//   Image → img srcset (widths format "url 640w, url 1024w…") → take first URL
+
+const AMARDESH_BASE = "https://www.dailyamardesh.com";
+
+function extractAmarDeshImage($el) {
+  const $img = $el.find("img").first();
+  if (!$img.length) return null;
+
+  const srcset = $img.attr("srcset") || "";
+  if (srcset) {
+    // Next.js uses two srcset formats:
+    //   "url 640w, url 1024w"  (fill mode — data-nimg="fill")
+    //   "url 1x, url 2x"       (fixed mode — data-nimg="1")
+    // In both cases, take the first URL token before any space.
+    const firstUrl = srcset.split(",")[0].trim().split(/\s+/)[0];
+    if (firstUrl && firstUrl.startsWith("http")) return firstUrl;
+  }
+
+  // Fallback to src (also absolute for this site)
+  const src = $img.attr("src") || "";
+  if (src.startsWith("http")) return src;
+
+  return null;
+}
+
+function scrapeAmarDesh(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  // ── Sections 1 & 2: all <article> > <a> elements ────────────────────────
+  // Most-read <a> tags are also inside <article> but always carry "text-red-600"
+  // in their class string — we filter those out explicitly.
+  $("article > a").each((_, el) => {
+    const $a  = $(el);
+    const cls = $a.attr("class") || "";
+
+    // Skip সর্বাধিক পঠিত items (they have text-red-600)
+    if (cls.includes("text-red-600")) return;
+
+    const href = $a.attr("href") || "";
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : AMARDESH_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    // Hero uses <h2>, secondary list uses <h3>
+    const title = (
+      $a.find("h2 span, h3 span").first().text() ||
+      $a.find("h2, h3").first().text()
+    ).trim();
+    if (!title) return;
+
+    // ISO date from <time itemprop="datePublished" datetime="...">
+    const rawDate = $a.find('time[itemprop="datePublished"]').attr("datetime") || "";
+
+    items.push({
+      title,
+      link,
+      description: "",
+      image:    extractAmarDeshImage($a),
+      date:     parseDate(rawDate),
+      category: "মতামত",
+    });
+  });
+
+  // ── Section 3: paginated grid ────────────────────────────────────────────
+  // Exact class match — safest given the Tailwind utility soup on the page.
+  $("a").filter((_, el) => {
+    return $(el).attr("class") === "bg-white group block h-full";
+  }).each((_, el) => {
+    const $a   = $(el);
+    const href = $a.attr("href") || "";
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : AMARDESH_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    const title = (
+      $a.find("h3 span").first().text() ||
+      $a.find("h3").first().text()
+    ).trim();
+    if (!title) return;
+
+    const rawDate = $a.find('time[itemprop="datePublished"]').attr("datetime") || "";
+
+    items.push({
+      title,
+      link,
+      description: "",
+      image:    extractAmarDeshImage($a),
+      date:     parseDate(rawDate),
+      category: "মতামত",
+    });
+  });
+
+  console.log(`  [AmarDesh] Scraped ${items.length} articles`);
+  return items;
+}
+
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
   {
@@ -225,6 +345,11 @@ const SOURCES = [
     label:   "Daily Ittefaq – Opinion",
     url:     "https://www.ittefaq.com.bd/opinion",
     scraper: scrapeIttefaq,
+  },
+  {
+    label:   "Amar Desh – Op-Ed",
+    url:     "https://www.dailyamardesh.com/op-ed",
+    scraper: scrapeAmarDesh,
   },
 ];
 
@@ -267,8 +392,8 @@ function loadExistingItems(filePath) {
 // ===== BUILD XML =====
 function buildFeed(items) {
   const feed = new RSS({
-    title:       "ইনকিলাব ও ইত্তেফাক – সম্পাদকীয় ও মতামত",
-    description: "Editorial and opinion pieces from Daily Inqilab and Daily Ittefaq",
+    title:       "ইনকিলাব, ইত্তেফাক ও আমার দেশ – সম্পাদকীয় ও মতামত",
+    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, and Amar Desh",
     feed_url:    "https://dailyinqilab.com/editorial",
     site_url:    "https://dailyinqilab.com",
     language:    "bn",
