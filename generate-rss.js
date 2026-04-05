@@ -21,6 +21,7 @@ function banglaToAscii(str) {
 // ===== DATE PARSING =====
 // Handles:
 //   ISO 8601         → "2026-04-04T16:11:45+06:00"   (Ittefaq data-published, AmarDesh dateTime)
+//   Space-separated  → "2026-04-05 09:48:24"          (JatiyoArthoniti time[datetime])
 //   Bangla datetime  → "০৩ এপ্রিল ২০২৬, ১২:০২ এএম"  (Inqilab)
 //   Bangla date-only → "০৩ এপ্রিল ২০২৬"              (Inqilab lead fallback)
 
@@ -32,9 +33,10 @@ const BANGLA_MONTHS = {
 
 function parseDate(raw) {
   if (!raw || !raw.trim()) return new Date();
-  const str = raw.trim();
+  // Normalise space-separated datetime ("2026-04-05 09:48:24") → ISO T form
+  const str = raw.trim().replace(/^(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}:\d{2})$/, '$1T$2');
 
-  // ISO 8601 (Ittefaq data-published, AmarDesh time[datetime])
+  // ISO 8601 (Ittefaq data-published, AmarDesh time[datetime], JatiyoArthoniti normalised)
   if (/^\d{4}-\d{2}-\d{2}T/.test(str)) {
     const d = new Date(str);
     if (!isNaN(d)) return d;
@@ -243,15 +245,10 @@ function extractAmarDeshImage($el) {
 
   const srcset = $img.attr("srcset") || "";
   if (srcset) {
-    // Next.js uses two srcset formats:
-    //   "url 640w, url 1024w"  (fill mode — data-nimg="fill")
-    //   "url 1x, url 2x"       (fixed mode — data-nimg="1")
-    // In both cases, take the first URL token before any space.
     const firstUrl = srcset.split(",")[0].trim().split(/\s+/)[0];
     if (firstUrl && firstUrl.startsWith("http")) return firstUrl;
   }
 
-  // Fallback to src (also absolute for this site)
   const src = $img.attr("src") || "";
   if (src.startsWith("http")) return src;
 
@@ -263,13 +260,10 @@ function scrapeAmarDesh(html, seen) {
   const items = [];
 
   // ── Sections 1 & 2: all <article> > <a> elements ────────────────────────
-  // Most-read <a> tags are also inside <article> but always carry "text-red-600"
-  // in their class string — we filter those out explicitly.
   $("article > a").each((_, el) => {
     const $a  = $(el);
     const cls = $a.attr("class") || "";
 
-    // Skip সর্বাধিক পঠিত items (they have text-red-600)
     if (cls.includes("text-red-600")) return;
 
     const href = $a.attr("href") || "";
@@ -279,14 +273,12 @@ function scrapeAmarDesh(html, seen) {
     if (seen.has(link)) return;
     seen.add(link);
 
-    // Hero uses <h2>, secondary list uses <h3>
     const title = (
       $a.find("h2 span, h3 span").first().text() ||
       $a.find("h2, h3").first().text()
     ).trim();
     if (!title) return;
 
-    // ISO date from <time itemprop="datePublished" datetime="...">
     const rawDate = $a.find('time[itemprop="datePublished"]').attr("datetime") || "";
 
     items.push({
@@ -300,7 +292,6 @@ function scrapeAmarDesh(html, seen) {
   });
 
   // ── Section 3: paginated grid ────────────────────────────────────────────
-  // Exact class match — safest given the Tailwind utility soup on the page.
   $("a").filter((_, el) => {
     return $(el).attr("class") === "bg-white group block h-full";
   }).each((_, el) => {
@@ -334,6 +325,76 @@ function scrapeAmarDesh(html, seen) {
   return items;
 }
 
+// ===== SCRAPER: JATIYO ARTHONITI – OPINION (মত-দ্বিমত) =====
+// URL: https://jatiyoarthoniti.com/category/opinion-and-editorial
+// Framework: Laravel + Bootstrap (standard SSR — no JS tricks needed)
+//
+// Structure (per article):
+//   Container  → article.col-sm-6
+//   Link       → div.ratio_360-202 a[href]  (same link also on h3 anchor)
+//   Image      → img.img-fluid[data-src]    (lazy-loaded; src === data-src)
+//   Title      → h3.card-title a            (text content)
+//   Date       → time[datetime]             → "2026-04-05 09:48:24" (space-sep, no tz)
+//                normalised to ISO T-form before parseDate()
+//   Description→ p.card-text               (truncated teaser)
+//   Category   → "মত-দ্বিমত" (hardcoded — page is category-scoped)
+
+const JATIYOARTHONITI_BASE = "https://jatiyoarthoniti.com";
+
+function scrapeJatiyoArthoniti(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  $("article.col-sm-6").each((_, el) => {
+    const $el = $(el);
+
+    // ── Link ──────────────────────────────────────────────────────────────
+    // Prefer the image anchor; h3 anchor is identical but grab either.
+    const href = (
+      $el.find("div.ratio_360-202 a").first().attr("href") ||
+      $el.find("h3.card-title a").first().attr("href") ||
+      ""
+    ).trim();
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : JATIYOARTHONITI_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    // ── Title ─────────────────────────────────────────────────────────────
+    const title = (
+      $el.find("h3.card-title a").first().text().trim() ||
+      $el.find("img.img-fluid").first().attr("alt") || ""
+    );
+    if (!title) return;
+
+    // ── Image ─────────────────────────────────────────────────────────────
+    // data-src is the real URL; src may be a placeholder before JS runs.
+    const $img  = $el.find("img.img-fluid").first();
+    const image = ($img.attr("data-src") || $img.attr("src") || null) || null;
+
+    // ── Date ──────────────────────────────────────────────────────────────
+    // datetime format: "2026-04-05 09:48:24" — no timezone, space-separated.
+    // parseDate() will normalise the space to T and treat as local time.
+    const rawDate = $el.find("time").first().attr("datetime") || "";
+
+    // ── Description ───────────────────────────────────────────────────────
+    const description = $el.find("p.card-text").first().text().trim();
+
+    items.push({
+      title,
+      link,
+      description,
+      image,
+      date:     parseDate(rawDate),
+      category: "মত-দ্বিমত",
+    });
+  });
+
+  console.log(`  [JatiyoArthoniti] Scraped ${items.length} articles`);
+  return items;
+}
+
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
   {
@@ -350,6 +411,11 @@ const SOURCES = [
     label:   "Amar Desh – Op-Ed",
     url:     "https://www.dailyamardesh.com/op-ed",
     scraper: scrapeAmarDesh,
+  },
+  {
+    label:   "Jatiyo Arthoniti – Opinion (মত-দ্বিমত)",
+    url:     "https://jatiyoarthoniti.com/category/opinion-and-editorial",
+    scraper: scrapeJatiyoArthoniti,
   },
 ];
 
@@ -392,8 +458,8 @@ function loadExistingItems(filePath) {
 // ===== BUILD XML =====
 function buildFeed(items) {
   const feed = new RSS({
-    title:       "ইনকিলাব, ইত্তেফাক ও আমার দেশ – সম্পাদকীয় ও মতামত",
-    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, and Amar Desh",
+    title:       "ইনকিলাব, ইত্তেফাক, আমার দেশ ও জাতীয় অর্থনীতি – সম্পাদকীয় ও মতামত",
+    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, and Jatiyo Arthoniti",
     feed_url:    "https://dailyinqilab.com/editorial",
     site_url:    "https://dailyinqilab.com",
     language:    "bn",
@@ -434,23 +500,19 @@ async function generateRSS() {
         newItems = newItems.concat(items);
       } catch (err) {
         console.error(`❌ Failed to scrape ${source.url}: ${err.message}`);
-        // Continue with other sources rather than aborting
       }
     }
 
     console.log(`\nNew articles scraped: ${newItems.length}`);
 
-    // Load existing feed for dedup + history
     const existingItems = loadExistingItems(OUTPUT_FILE);
     existingItems.forEach(item => seen.add(item.link));
 
-    // Filter out items already in the stored feed
     const trulyNew = newItems.filter(
       item => !existingItems.some(e => e.link === item.link)
     );
     console.log(`Truly new (not in existing feed): ${trulyNew.length}`);
 
-    // Merge: freshest first, cap at MAX_ITEMS
     const merged = [...trulyNew, ...existingItems].slice(0, MAX_ITEMS);
     console.log(`Merged feed size: ${merged.length} / ${MAX_ITEMS}`);
 
@@ -471,7 +533,6 @@ async function generateRSS() {
   } catch (err) {
     console.error("❌ Fatal error:", err.message);
 
-    // Only write fallback placeholder when no prior feed exists
     if (!fs.existsSync(OUTPUT_FILE)) {
       const feed = new RSS({
         title:       "Feed (error fallback)",
