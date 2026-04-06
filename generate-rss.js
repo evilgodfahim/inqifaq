@@ -349,7 +349,6 @@ function scrapeJatiyoArthoniti(html, seen) {
     const $el = $(el);
 
     // ── Link ──────────────────────────────────────────────────────────────
-    // Prefer the image anchor; h3 anchor is identical but grab either.
     const href = (
       $el.find("div.ratio_360-202 a").first().attr("href") ||
       $el.find("h3.card-title a").first().attr("href") ||
@@ -369,13 +368,10 @@ function scrapeJatiyoArthoniti(html, seen) {
     if (!title) return;
 
     // ── Image ─────────────────────────────────────────────────────────────
-    // data-src is the real URL; src may be a placeholder before JS runs.
     const $img  = $el.find("img.img-fluid").first();
     const image = ($img.attr("data-src") || $img.attr("src") || null) || null;
 
     // ── Date ──────────────────────────────────────────────────────────────
-    // datetime format: "2026-04-05 09:48:24" — no timezone, space-separated.
-    // parseDate() will normalise the space to T and treat as local time.
     const rawDate = $el.find("time").first().attr("datetime") || "";
 
     // ── Description ───────────────────────────────────────────────────────
@@ -392,6 +388,110 @@ function scrapeJatiyoArthoniti(html, seen) {
   });
 
   console.log(`  [JatiyoArthoniti] Scraped ${items.length} articles`);
+  return items;
+}
+
+// ===== SCRAPER: SHAREBIZ – EDITORIAL (সম্পাদকীয়) =====
+// URL: https://sharebiz.net/category/daily-paper/editorial/
+// Theme: JNews (WordPress SSR)
+//
+// Two article zones, both EXCLUDING sidebar (jeg_pl_sm):
+//
+//   Zone 1 – Hero block (up to 5 articles):
+//     article.jeg_post[class*="jeg_hero_item"]
+//     Filter: must have div.jeg_post_category a.category-editorial
+//             (hero block mixes categories; non-editorial items are skipped)
+//     Title  → h2.jeg_post_title a
+//     Image  → div.thumbnail-container[data-src]  (background-image, lazy)
+//
+//   Zone 2 – Main paginated list (12 articles):
+//     article.jeg_post.jeg_pl_md_1  (inside .jeg_postblock_9)
+//     Title  → h3.jeg_post_title a
+//     Image  → div.thumbnail-container[data-src]  or  img[data-src]
+//
+//   Date   → not present in listing view → new Date()
+//   Link   → always absolute https://sharebiz.net/...
+//   Category → "সম্পাদকীয়" (hardcoded)
+
+const SHAREBIZ_BASE = "https://sharebiz.net";
+
+function extractShareBizImage($el) {
+  // Background-image style on .thumbnail-container (data-src attr, lazy)
+  const bgSrc = ($el.find(".thumbnail-container").first().attr("data-src") || "").trim();
+  if (bgSrc && !bgSrc.startsWith("data:")) return bgSrc;
+
+  // Lazy-loaded <img data-src>
+  const lazySrc = ($el.find("img").first().attr("data-src") || "").trim();
+  if (lazySrc && !lazySrc.startsWith("data:")) return lazySrc;
+
+  // Regular src fallback
+  const src = ($el.find("img").first().attr("src") || "").trim();
+  if (src && !src.startsWith("data:")) return src;
+
+  return null;
+}
+
+function scrapeShareBiz(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  // ── Zone 1: Hero block ────────────────────────────────────────────────────
+  // Filter to editorial-tagged articles only (hero mixes categories)
+  $("article.jeg_post[class*='jeg_hero_item']").each((_, el) => {
+    const $el = $(el);
+
+    // Only include if the category badge links to editorial
+    if (!$el.find("div.jeg_post_category a.category-editorial").length) return;
+
+    const href = ($el.find("div.jeg_thumb > a").first().attr("href") || "").trim();
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : SHAREBIZ_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    const title = $el.find("h2.jeg_post_title a").text().trim();
+    if (!title) return;
+
+    items.push({
+      title,
+      link,
+      description: "",
+      image:    extractShareBizImage($el),
+      date:     new Date(),   // listing view has no date element
+      category: "সম্পাদকীয়",
+    });
+  });
+
+  // ── Zone 2: Main article list (jeg_pl_md_1 only — excludes sidebar jeg_pl_sm) ──
+  $("article.jeg_post.jeg_pl_md_1").each((_, el) => {
+    const $el = $(el);
+
+    const href = (
+      $el.find("div.jeg_thumb > a").first().attr("href") ||
+      $el.find("h3.jeg_post_title a").first().attr("href") ||
+      ""
+    ).trim();
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : SHAREBIZ_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    const title = $el.find("h3.jeg_post_title a").text().trim();
+    if (!title) return;
+
+    items.push({
+      title,
+      link,
+      description: "",
+      image:    extractShareBizImage($el),
+      date:     new Date(),
+      category: "সম্পাদকীয়",
+    });
+  });
+
+  console.log(`  [ShareBiz] Scraped ${items.length} articles`);
   return items;
 }
 
@@ -416,6 +516,11 @@ const SOURCES = [
     label:   "Jatiyo Arthoniti – Opinion (মত-দ্বিমত)",
     url:     "https://jatiyoarthoniti.com/category/opinion-and-editorial",
     scraper: scrapeJatiyoArthoniti,
+  },
+  {
+    label:   "ShareBiz – Editorial (সম্পাদকীয়)",
+    url:     "https://sharebiz.net/category/daily-paper/editorial/",
+    scraper: scrapeShareBiz,
   },
 ];
 
@@ -458,8 +563,8 @@ function loadExistingItems(filePath) {
 // ===== BUILD XML =====
 function buildFeed(items) {
   const feed = new RSS({
-    title:       "ইনকিলাব, ইত্তেফাক, আমার দেশ ও জাতীয় অর্থনীতি – সম্পাদকীয় ও মতামত",
-    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, and Jatiyo Arthoniti",
+    title:       "ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি ও শেয়ার বিজ – সম্পাদকীয় ও মতামত",
+    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, and ShareBiz",
     feed_url:    "https://dailyinqilab.com/editorial",
     site_url:    "https://dailyinqilab.com",
     language:    "bn",
