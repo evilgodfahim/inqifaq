@@ -4,10 +4,37 @@
         <description><![CDATA[Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, and ShareBiz]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 04:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 06:14:04 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 04:22:53 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 06:14:04 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[দলমুক্ত শিক্ষাঙ্গন থেকে জ্ঞানভিত্তিক রাষ্ট্রের পথে]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdshnfhtvfir</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdshnfhtvfir</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Thu, 09 Apr 2026 05:05:22 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/Nepal-City.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Nepal-City.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[গ্রামীণ অর্থনীতির পুনর্গঠন : কর্মসংস্থানের নতুন দিগন্ত]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amd3gjbckk3oc</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amd3gjbckk3oc</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Thu, 09 Apr 2026 04:59:10 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/Rural-Economy.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Rural-Economy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[জনগণের নৈতিক পুনর্গঠন : উত্তরণের রূপরেখা]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdqoitxwbmzb</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdqoitxwbmzb</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Thu, 09 Apr 2026 04:44:30 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/ABDUL-LATIF-MASUM.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/ABDUL-LATIF-MASUM.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ইরান যুদ্ধে ডলার-ইউয়ান প্রতিযোগিতা]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdfit5wiffwa</link>
