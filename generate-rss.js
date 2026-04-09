@@ -495,6 +495,86 @@ function scrapeShareBiz(html, seen) {
   return items;
 }
 
+// ===== SCRAPER: JOBAN MAGAZINE =====
+// URL: https://jobanmagazine.com/
+// Theme: Custom WordPress (thejoban) + Elementor
+//
+// All article cards: article.post-card (appears in multiple homepage sections;
+//   the seen Set handles cross-section deduplication automatically)
+//
+// Per card:
+//   Link   → a.card-thumbnail[href]  (always absolute)
+//   Image  → background-image:url(...) parsed from a.card-thumbnail[style]
+//            fallback: img.d-none[src] inside the same anchor
+//   Title  → h2.card-title text, with leading <span> subtitle stripped
+//            (the <span> contains a section label, e.g. "ছাত্রদল নেতা জনি হত্যাকাণ্ড")
+//   Desc   → p.card-description (optional teaser)
+//   Cat    → a.post-category text, fallback "চলতি চিন্তা"
+//   Date   → not present in listing → new Date()
+
+const JOBAN_BASE    = "https://jobanmagazine.com";
+const BG_IMAGE_RE   = /background-image\s*:\s*url\(\s*['"]?([^'")]+)['"]?\s*\)/i;
+
+function scrapeJoban(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  $("article.post-card").each((_, el) => {
+    const $el = $(el);
+
+    // ── Link ──────────────────────────────────────────────────────────────
+    const $thumb = $el.find("a.card-thumbnail").first();
+    const href   = ($thumb.attr("href") || "").trim();
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : JOBAN_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    // ── Title ─────────────────────────────────────────────────────────────
+    // h2.card-title contains an optional <span> with a subtitle/label prefix.
+    // Clone, remove the span, then read remaining text.
+    const $titleEl = $el.find("h2.card-title").first();
+    const $clone   = $titleEl.clone();
+    $clone.find("span").remove();
+    const title = $clone.text().trim();
+    if (!title) return;
+
+    // ── Image ─────────────────────────────────────────────────────────────
+    let image = null;
+    const styleAttr = $thumb.attr("style") || "";
+    const bgMatch   = styleAttr.match(BG_IMAGE_RE);
+    if (bgMatch && bgMatch[1]) {
+      image = bgMatch[1].trim();
+    }
+    // Fallback: img.d-none[src] inside the thumbnail anchor
+    if (!image) {
+      const fallbackSrc = ($thumb.find("img.d-none").first().attr("src") || "").trim();
+      if (fallbackSrc && !fallbackSrc.startsWith("data:")) image = fallbackSrc;
+    }
+    // Null out empty or data-URI placeholders
+    if (image && (image === "" || image.startsWith("data:"))) image = null;
+
+    // ── Category ──────────────────────────────────────────────────────────
+    const category = $el.find("a.post-category").first().text().trim() || "চলতি চিন্তা";
+
+    // ── Description ───────────────────────────────────────────────────────
+    const description = $el.find("p.card-description").first().text().trim();
+
+    items.push({
+      title,
+      link,
+      description,
+      image,
+      date:     new Date(),   // no date in listing view
+      category,
+    });
+  });
+
+  console.log(`  [Joban] Scraped ${items.length} articles`);
+  return items;
+}
+
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
   {
@@ -521,6 +601,11 @@ const SOURCES = [
     label:   "ShareBiz – Editorial (সম্পাদকীয়)",
     url:     "https://sharebiz.net/category/daily-paper/editorial/",
     scraper: scrapeShareBiz,
+  },
+  {
+    label:   "Joban Magazine – Opinion & Interpretation",
+    url:     "https://jobanmagazine.com/",
+    scraper: scrapeJoban,
   },
 ];
 
@@ -563,8 +648,8 @@ function loadExistingItems(filePath) {
 // ===== BUILD XML =====
 function buildFeed(items) {
   const feed = new RSS({
-    title:       "ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি ও শেয়ার বিজ – সম্পাদকীয় ও মতামত",
-    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, and ShareBiz",
+    title:       "ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি, শেয়ার বিজ ও জবান – সম্পাদকীয় ও মতামত",
+    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, ShareBiz, and Joban Magazine",
     feed_url:    "https://dailyinqilab.com/editorial",
     site_url:    "https://dailyinqilab.com",
     language:    "bn",
