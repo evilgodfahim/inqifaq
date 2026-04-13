@@ -1,13 +1,332 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-        <title><![CDATA[ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি, শেয়ার বিজ ও জবান – সম্পাদকীয় ও মতামত]]></title>
-        <description><![CDATA[Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, ShareBiz, and Joban Magazine]]></description>
+        <title><![CDATA[ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি, শেয়ার বিজ, জবান ও মানবজমিন – সম্পাদকীয় ও মতামত]]></title>
+        <description><![CDATA[Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, ShareBiz, Joban Magazine, and Manab Zamin]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 20:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 20:18:32 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 20:01:52 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 20:18:32 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[ইলিশের দাম নাগালে আনতে সিন্ডিকেট ভাঙা জরুরি]]></title>
+            <link>https://mzamin.com/article/10641/ইলিশের-দাম-নাগালে-আনতে-সিন্ডিকেট-ভাঙা-জরুরি</link>
+            <guid isPermaLink="true">https://mzamin.com/article/10641/ইলিশের-দাম-নাগালে-আনতে-সিন্ডিকেট-ভাঙা-জরুরি</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/13042026/1776060369_ilish.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/13042026/1776060369_ilish.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্ব অর্থনীতির ‘লাইফ লাইন’ হরমুজ প্রণালি অচলে সংকটে বাংলাদেশ]]></title>
+            <link>https://mzamin.com/article/10599/বিশ্ব-অর্থনীতির-লাইফ-লাইন-হরমুজ-প্রণালি-অচলে-সংকটে-বাংলাদেশ</link>
+            <guid isPermaLink="true">https://mzamin.com/article/10599/বিশ্ব-অর্থনীতির-লাইফ-লাইন-হরমুজ-প্রণালি-অচলে-সংকটে-বাংলাদেশ</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/12042026/1776010033_2.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/12042026/1776010033_2.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[উন্নয়ন-সুশাসন নিশ্চিতে পেশাদারিত্ব ও নিরপেক্ষতা অপরিহার্য]]></title>
+            <link>https://mzamin.com/article/10208/উন্নয়ন-সুশাসন-নিশ্চিতে-পেশাদারিত্ব-ও-নিরপেক্ষতা-অপরিহার্য</link>
+            <guid isPermaLink="true">https://mzamin.com/article/10208/উন্নয়ন-সুশাসন-নিশ্চিতে-পেশাদারিত্ব-ও-নিরপেক্ষতা-অপরিহার্য</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/11042026/1775886449_Untitled-1.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/11042026/1775886449_Untitled-1.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[তারেক রহমানের ভিশন: আধুনিক উৎপাদনমুখী কৃষিতে কৃষকের মুক্তি ও দেশের উন্নয়ন]]></title>
+            <link>https://mzamin.com/article/10204/তারেক-রহমানের-ভিশন-আধুনিক-উৎপাদনমুখী-কৃষিতে-কৃষকের-মুক্তি-ও-দেশের-উন্নয়ন</link>
+            <guid isPermaLink="true">https://mzamin.com/article/10204/তারেক-রহমানের-ভিশন-আধুনিক-উৎপাদনমুখী-কৃষিতে-কৃষকের-মুক্তি-ও-দেশের-উন্নয়ন</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/11042026/1775885569_srt.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/11042026/1775885569_srt.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[বিএনপি কেন এক টার্মের বেশি ক্ষমতায় থাকতে পারে না]]></title>
+            <link>https://mzamin.com/article/10004/বিএনপি-কেন-এক-টার্মের-বেশি-ক্ষমতায়-থাকতে-পারে-না</link>
+            <guid isPermaLink="true">https://mzamin.com/article/10004/বিএনপি-কেন-এক-টার্মের-বেশি-ক্ষমতায়-থাকতে-পারে-না</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/10042026/1775821913_bnp.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/10042026/1775821913_bnp.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[রেমিট্যান্স যোদ্ধাদের সুরক্ষা ও সম্মান দিন: দালালমুক্ত শ্রমবাজারের বিকল্প নেই]]></title>
+            <link>https://mzamin.com/article/9973/রেমিট্যান্স-যোদ্ধাদের-সুরক্ষা-ও-সম্মান-দিন-দালালমুক্ত-শ্রমবাজারের-বিকল্প-নেই</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9973/রেমিট্যান্স-যোদ্ধাদের-সুরক্ষা-ও-সম্মান-দিন-দালালমুক্ত-শ্রমবাজারের-বিকল্প-নেই</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/10042026/1775797956_Untitled-8.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/10042026/1775797956_Untitled-8.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[বিশ্ব রাজনীতির অস্থিরতায় জ্বালানি সংকট মোকাবিলায় শিক্ষাখাত হতে পারে সবচেয়ে বড় সামাজিক আন্দোলনের সূতিকাগার]]></title>
+            <link>https://mzamin.com/article/9815/বিশ্ব-রাজনীতির-অস্থিরতায়-জ্বালানি-সংকট-মোকাবিলায়-শিক্ষাখাত-হতে-পারে-সবচেয়ে-বড়-সামাজিক-আন্দোলনের-সূতিকাগার</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9815/বিশ্ব-রাজনীতির-অস্থিরতায়-জ্বালানি-সংকট-মোকাবিলায়-শিক্ষাখাত-হতে-পারে-সবচেয়ে-বড়-সামাজিক-আন্দোলনের-সূতিকাগার</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/09042026/1775742031_pic-DuSafiullahSir.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/09042026/1775742031_pic-DuSafiullahSir.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[শিক্ষার সংকট, অনলাইনের ফাঁদ ও পুনরুদ্ধারের চ্যালেঞ্জ]]></title>
+            <description><![CDATA[বাংলাদেশের শিক্ষা ব্যবস্থার সাম্প্রতিক ইতিহাস পর্যালোচনা করলে স্পষ্টভাবে বোঝা যায়, গত দেড় যুগে আমরা বারবার নানা পরীক্ষামূলক পদ্ধতি গ্রহণ করেছি, কিন্তু তার অধিকাংশই শিক্ষার গুণগত উন্নয়ন নিশ্চিত করতে পারেনি। বরং এসব পরিবর্তন, নীতির অস্থিরতা এবং বাস্তবায়নের দুর্বলতা মিলিয়ে শিক্ষার মানকে ধীরে ধীরে নিম্নমুখী করেছে। একটি জাতির ভবিষ্যৎ তার শিক্ষার ওপর...]]></description>
+            <link>https://mzamin.com/article/9783/শিক্ষার-সংকট-অনলাইনের-ফাঁদ-ও-পুনরুদ্ধারের-চ্যালেঞ্জ</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9783/শিক্ষার-সংকট-অনলাইনের-ফাঁদ-ও-পুনরুদ্ধারের-চ্যালেঞ্জ</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[তেল নিয়ে তেলেসমাতি আর নয়]]></title>
+            <link>https://mzamin.com/article/9772/তেল-নিয়ে-তেলেসমাতি-আর-নয়</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9772/তেল-নিয়ে-তেলেসমাতি-আর-নয়</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/09042026/1775721328_1775283480_bm-4.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/09042026/1775721328_1775283480_bm-4.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[আওয়ামী লীগ নিষিদ্ধ: জনরায়, নাকি রাজনৈতিক হিসাব]]></title>
+            <link>https://mzamin.com/article/9754/আওয়ামী-লীগ-নিষিদ্ধ-জনরায়-নাকি-রাজনৈতিক-হিসাব</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9754/আওয়ামী-লীগ-নিষিদ্ধ-জনরায়-নাকি-রাজনৈতিক-হিসাব</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/09042026/1775711897_bm-5.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/09042026/1775711897_bm-5.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[যুদ্ধবিরতির ঘোষণা: শান্তির দ্বার নাকি কৌশলগত বিরতি?]]></title>
+            <link>https://mzamin.com/article/9736/যুদ্ধবিরতির-ঘোষণা-শান্তির-দ্বার-নাকি-কৌশলগত-বিরতি</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9736/যুদ্ধবিরতির-ঘোষণা-শান্তির-দ্বার-নাকি-কৌশলগত-বিরতি</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/09042026/1775702606_Untitled-1.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/09042026/1775702606_Untitled-1.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[চট্টগ্রাম ভার্সিটি: দুর্নীতি-অনিয়মের দায় কেন মেনে নেবে এই সরকার?]]></title>
+            <link>https://mzamin.com/article/9535/চট্টগ্রাম-ভার্সিটি-দুর্নীতি-অনিয়মের-দায়-কেন-মেনে-নেবে-এই-সরকার</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9535/চট্টগ্রাম-ভার্সিটি-দুর্নীতি-অনিয়মের-দায়-কেন-মেনে-নেবে-এই-সরকার</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/08042026/1775627430_cg.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/08042026/1775627430_cg.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশি তরুণদের অবৈধ পথে ইউরোপে যাওয়ার স্বপ্ন এখন দুঃস্বপ্নে পরিণত]]></title>
+            <link>https://mzamin.com/article/9514/বাংলাদেশি-তরুণদের-অবৈধ-পথে-ইউরোপে-যাওয়ার-স্বপ্ন-এখন-দুঃস্বপ্নে-পরিণত</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9514/বাংলাদেশি-তরুণদের-অবৈধ-পথে-ইউরোপে-যাওয়ার-স্বপ্ন-এখন-দুঃস্বপ্নে-পরিণত</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/08042026/1775619386_njs.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/08042026/1775619386_njs.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[নিউ বাংলাদেশের রূপকার তারেক রহমান: অন্তর্ভুক্তিমূলক নেতৃত্বে নতুন যুগের সূচনা]]></title>
+            <link>https://mzamin.com/article/9512/নিউ-বাংলাদেশের-রূপকার-তারেক-রহমান-অন্তর্ভুক্তিমূলক-নেতৃত্বে-নতুন-যুগের-সূচনা</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9512/নিউ-বাংলাদেশের-রূপকার-তারেক-রহমান-অন্তর্ভুক্তিমূলক-নেতৃত্বে-নতুন-যুগের-সূচনা</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/08042026/1775617436_PM.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/08042026/1775617436_PM.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[দুর্নীতি-অনিয়মের দায় মেনে নেবে সরকার?]]></title>
+            <link>https://mzamin.com/article/9439/দুর্নীতি-অনিয়মের-দায়-মেনে-নেবে-সরকার</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9439/দুর্নীতি-অনিয়মের-দায়-মেনে-নেবে-সরকার</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/07042026/1775574071_ctg.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/07042026/1775574071_ctg.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[স্বাস্থ্যসেবায় বিজ্ঞান: সুরক্ষিত সকল প্রাণ]]></title>
+            <link>https://mzamin.com/article/9334/স্বাস্থ্যসেবায়-বিজ্ঞান-সুরক্ষিত-সকল-প্রাণ</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9334/স্বাস্থ্যসেবায়-বিজ্ঞান-সুরক্ষিত-সকল-প্রাণ</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/07042026/1775540956_rt.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/07042026/1775540956_rt.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ক্ষমতার ভেতরের সুইচবোর্ড কার হাতে? রাষ্ট্র চালায় কারা]]></title>
+            <link>https://mzamin.com/article/9333/ক্ষমতার-ভেতরের-সুইচবোর্ড-কার-হাতে-রাষ্ট্র-চালায়-কারা</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9333/ক্ষমতার-ভেতরের-সুইচবোর্ড-কার-হাতে-রাষ্ট্র-চালায়-কারা</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/07042026/1775538541_irn.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/07042026/1775538541_irn.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ভারতে গ্রেপ্তার দুই অভিযুক্তকে হেফাজতে রেখে আরও তদন্ত চালিয়ে যেতে চেয়েছে এনআইএ]]></title>
+            <description><![CDATA[বাংলাদেশের ইনকিলাব মঞ্চের মুখপাত্র শহীদ শরীফ ওসমান বিন হাদি হত্যা মামলার প্রধান দুই আসামি ফয়সাল করিম মাসুদ ওরফে রাহুল এবং আলমগীর হোসেনকে ভারতের জাতীয় গোয়েন্দা সংস্থা এনআইএ হেফাজতে রেখে জেরা চালিয়ে যাচ্ছে। দিল্লিতে বিশেষ এনআইএ আদালত দুই অভিযুক্তের রিমান্ড আরও ৯ দিনের জন্য বৃদ্ধি করেছে। ফয়সাল ও আলমগীরকে গত ২৫শে...]]></description>
+            <link>https://mzamin.com/article/9305/ভারতে-গ্রেপ্তার-দুই-অভিযুক্তকে-হেফাজতে-রেখে-আরও-তদন্ত-চালিয়ে-যেতে-চেয়েছে-এনআইএ</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9305/ভারতে-গ্রেপ্তার-দুই-অভিযুক্তকে-হেফাজতে-রেখে-আরও-তদন্ত-চালিয়ে-যেতে-চেয়েছে-এনআইএ</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[প্রথমে ইরানিদের ফাঁদ ভেবেছিল যুক্তরাষ্ট্র]]></title>
+            <description><![CDATA[শনিবার রাতে নেভি সিল টিম সিক্স-এর বিশেষ বাহিনী ইরানের পাহাড়ি এলাকায় ঢুকে নিখোঁজ মার্কিন এফ-১৫ বিমানচালককে উদ্ধার করে। তবে এর আগে এই উদ্ধার অভিযান প্রায় শুরুই করা হয়নি। মার্কিন প্রেসিডেন্ট ডনাল্ড ট্রাম্প অ্যাক্সিওসকে জানান, ভূপাতিত এফ-১৫ই বিমানের অস্ত্র ব্যবস্থাপনা বিষয়ক কর্মকর্তার কাছ থেকে একটি রেডিও বার্তা আসার পর প্রথমে মার্কিন...]]></description>
+            <link>https://mzamin.com/article/9304/প্রথমে-ইরানিদের-ফাঁদ-ভেবেছিল-যুক্তরাষ্ট্র-1</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9304/প্রথমে-ইরানিদের-ফাঁদ-ভেবেছিল-যুক্তরাষ্ট্র-1</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জ্বালানি নিরাপত্তা নিশ্চিতে সরকারের বহুমুখী পদক্ষেপ]]></title>
+            <link>https://mzamin.com/article/9302/জ্বালানি-নিরাপত্তা-নিশ্চিতে-সরকারের-বহুমুখী-পদক্ষেপ</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9302/জ্বালানি-নিরাপত্তা-নিশ্চিতে-সরকারের-বহুমুখী-পদক্ষেপ</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/06042026/1775491637_Untitled-40.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/06042026/1775491637_Untitled-40.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[দেশের জন্য হতে পারে অর্থনীতির মিরাকল টার্নিং পয়েন্ট]]></title>
+            <link>https://mzamin.com/article/9144/দেশের-জন্য-হতে-পারে-অর্থনীতির-মিরাকল-টার্নিং-পয়েন্ট</link>
+            <guid isPermaLink="true">https://mzamin.com/article/9144/দেশের-জন্য-হতে-পারে-অর্থনীতির-মিরাকল-টার্নিং-পয়েন্ট</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/06042026/1775467831_snd.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/06042026/1775467831_snd.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[সুইস ব্যাংকে লুকানো সম্পদ: কার টাকা, কার দায়?]]></title>
+            <link>https://mzamin.com/article/8951/সুইস-ব্যাংকে-লুকানো-সম্পদ-কার-টাকা-কার-দায়</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8951/সুইস-ব্যাংকে-লুকানো-সম্পদ-কার-টাকা-কার-দায়</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/05042026/1775360508_sopon.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/05042026/1775360508_sopon.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[টিকাদান কর্মসূচিতে সরকারের কার্যকর উদ্যোগ]]></title>
+            <link>https://mzamin.com/article/8933/টিকাদান-কর্মসূচিতে-সরকারের-কার্যকর-উদ্যোগ</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8933/টিকাদান-কর্মসূচিতে-সরকারের-কার্যকর-উদ্যোগ</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/04042026/1775318962_2.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/04042026/1775318962_2.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[পাচারকৃত অর্থ ফেরাতে প্রয়োজন সর্বোচ্চ অগ্রাধিকার]]></title>
+            <link>https://mzamin.com/article/8771/পাচারকৃত-অর্থ-ফেরাতে-প্রয়োজন-সর্বোচ্চ-অগ্রাধিকার</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8771/পাচারকৃত-অর্থ-ফেরাতে-প্রয়োজন-সর্বোচ্চ-অগ্রাধিকার</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/04042026/1775283480_bm-4.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/04042026/1775283480_bm-4.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ইরান ইস্যুতে ট্রাম্পের ভুল হিসাব: যুদ্ধের আগুন, বিশ্বজুড়ে দহন]]></title>
+            <link>https://mzamin.com/article/8568/ইরান-ইস্যুতে-ট্রাম্পের-ভুল-হিসাব-যুদ্ধের-আগুন-বিশ্বজুড়ে-দহন</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8568/ইরান-ইস্যুতে-ট্রাম্পের-ভুল-হিসাব-যুদ্ধের-আগুন-বিশ্বজুড়ে-দহন</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/03042026/1775185617_spn.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/03042026/1775185617_spn.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[আইনের শাসনের উজ্জ্বল দৃষ্টান্ত: প্রধানমন্ত্রীর নাম ভাঙ্গানোর চেষ্টা অতঃপর...]]></title>
+            <link>https://mzamin.com/article/8374/আইনের-শাসনের-উজ্জ্বল-দৃষ্টান্ত-প্রধানমন্ত্রীর-নাম-ভাঙ্গানোর-চেষ্টা-অতঃপর</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8374/আইনের-শাসনের-উজ্জ্বল-দৃষ্টান্ত-প্রধানমন্ত্রীর-নাম-ভাঙ্গানোর-চেষ্টা-অতঃপর</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/02042026/1775112821_barun.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/02042026/1775112821_barun.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[প্রেসিডেন্ট ট্রাম্প, যুদ্ধ ও ইতিহাসবোধের অনুপস্থিতি]]></title>
+            <link>https://mzamin.com/article/8180/প্রেসিডেন্ট-ট্রাম্প-যুদ্ধ-ও-ইতিহাসবোধের-অনুপস্থিতি</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8180/প্রেসিডেন্ট-ট্রাম্প-যুদ্ধ-ও-ইতিহাসবোধের-অনুপস্থিতি</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/01042026/1775028556_tmps.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/01042026/1775028556_tmps.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[তেল সংকট মোকাবিলায় ব্যক্তিগত কার ও বাইক নিয়ন্ত্রণ এখন সময়ের দাবি]]></title>
+            <description><![CDATA[ইসরাইল, আমেরিকা ও ইরানের মধ্যকার যুদ্ধাবস্থা বিশ্ব অর্থনীতিকে এক চরম অনিশ্চয়তার মুখে ঠেলে দিয়েছে। এই ত্রিমুখী সংঘাতের সবচেয়ে বড় আঘাতটি এসেছে জ্বালানি তেলের ওপর, যা বর্তমানে বৈশ্বিক সংকটে রূপ নিয়েছে। আমদানিনির্ভর দেশ হিসেবে বাংলাদেশও এই সংকটের বাইরে নয়। বিশ্বের অনেক দেশ এই আপৎকালীন পরিস্থিতি সামাল দিতে ইতিমধ্যে নানামুখী সাশ্রয়ী পদক্ষেপ...]]></description>
+            <link>https://mzamin.com/article/8079/তেল-সংকট-মোকাবিলায়-ব্যক্তিগত-কার-ও-বাইক-নিয়ন্ত্রণ-এখন-সময়ের-দাবি-1</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8079/তেল-সংকট-মোকাবিলায়-ব্যক্তিগত-কার-ও-বাইক-নিয়ন্ত্রণ-এখন-সময়ের-দাবি-1</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রাষ্ট্রের আড়ালে রাষ্ট্র? বাংলাদেশে ‘ডিপ স্টেট’ তত্ত্ব, স্বাধীনতা ও ক্ষমতার জটিল বাস্তবতা]]></title>
+            <link>https://mzamin.com/article/8038/রাষ্ট্রের-আড়ালে-রাষ্ট্র-বাংলাদেশে-ডিপ-স্টেট-তত্ত্ব-স্বাধীনতা-ও-ক্ষমতার-জটিল-বাস্তবতা</link>
+            <guid isPermaLink="true">https://mzamin.com/article/8038/রাষ্ট্রের-আড়ালে-রাষ্ট্র-বাংলাদেশে-ডিপ-স্টেট-তত্ত্ব-স্বাধীনতা-ও-ক্ষমতার-জটিল-বাস্তবতা</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/31032026/1774946236_swapon.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/31032026/1774946236_swapon.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ভূমধ্যসাগরে মৃত্যুর মিছিল: আন্তর্জাতিক মিডিয়ায় বাংলাদেশ]]></title>
+            <link>https://mzamin.com/article/7991/ভূমধ্যসাগরে-মৃত্যুর-মিছিল-আন্তর্জাতিক-মিডিয়ায়-বাংলাদেশ</link>
+            <guid isPermaLink="true">https://mzamin.com/article/7991/ভূমধ্যসাগরে-মৃত্যুর-মিছিল-আন্তর্জাতিক-মিডিয়ায়-বাংলাদেশ</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/31032026/1774927598_niyaj.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/31032026/1774927598_niyaj.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[বিতর্কিত ইভিএম প্রকল্প: ৩ হাজার কোটি টাকা কার পকেটে?]]></title>
+            <description><![CDATA[একটি দেশের নির্বাচনব্যবস্থা টিকে থাকে মানুষের বিশ্বাস, রাষ্ট্রের স্বচ্ছ ব্যবস্থাপনা আর গণতান্ত্রিক নীতির ওপর। এই জায়গাগুলো যদি নষ্ট হয়ে যায়, তাহলে শুধু নির্বাচনই নয়—পুরো রাষ্ট্রব্যবস্থাই ভেতর থেকে ভেঙে পড়ে। কিন্তু সবচেয়ে ভয়াবহ এবং উদ্বেগের বিষয় হলো, উন্নয়ন আর আধুনিকতার নামে যখন সেই ব্যবস্থার ভেতরেই দুর্নীতি, অনিয়ম আর অপচয়ের আস্তানা গড়ে...]]></description>
+            <link>https://mzamin.com/article/7983/বিতর্কিত-ইভিএম-প্রকল্প-৩-হাজার-কোটি-টাকা-কার-পকেটে</link>
+            <guid isPermaLink="true">https://mzamin.com/article/7983/বিতর্কিত-ইভিএম-প্রকল্প-৩-হাজার-কোটি-টাকা-কার-পকেটে</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[আতঙ্ক নয়-শিশু সুরক্ষায় দায়িত্বশীল নেতৃত্ব এবং তথ্যভিত্তিক সিদ্ধান্তেই সমাধান]]></title>
+            <link>https://mzamin.com/article/7957/আতঙ্ক-নয়-শিশু-সুরক্ষায়-দায়িত্বশীল-নেতৃত্ব-এবং-তথ্যভিত্তিক-সিদ্ধান্তেই-সমাধান</link>
+            <guid isPermaLink="true">https://mzamin.com/article/7957/আতঙ্ক-নয়-শিশু-সুরক্ষায়-দায়িত্বশীল-নেতৃত্ব-এবং-তথ্যভিত্তিক-সিদ্ধান্তেই-সমাধান</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/30032026/1774885652_Untitled-48.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/30032026/1774885652_Untitled-48.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[সরকারের সাফল্যে বড় বাধা সিন্ডিকেট]]></title>
+            <link>https://mzamin.com/article/7799/সরকারের-সাফল্যে-বড়-বাধা-সিন্ডিকেট</link>
+            <guid isPermaLink="true">https://mzamin.com/article/7799/সরকারের-সাফল্যে-বড়-বাধা-সিন্ডিকেট</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/30032026/1774844927_Ah-B.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/30032026/1774844927_Ah-B.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[কূটনৈতিক প্রতিশ্রুতি নয়, প্রাতিষ্ঠানিক সক্ষমতাই মূল: মানি লন্ডারিং মোকাবেলায় দূতাবাসের জবাবদিহি জরুরি]]></title>
+            <link>https://mzamin.com/article/7793/কূটনৈতিক-প্রতিশ্রুতি-নয়-প্রাতিষ্ঠানিক-সক্ষমতাই-মূল-মানি-লন্ডারিং-মোকাবেলায়-দূতাবাসের-জবাবদিহি-জরুরি</link>
+            <guid isPermaLink="true">https://mzamin.com/article/7793/কূটনৈতিক-প্রতিশ্রুতি-নয়-প্রাতিষ্ঠানিক-সক্ষমতাই-মূল-মানি-লন্ডারিং-মোকাবেলায়-দূতাবাসের-জবাবদিহি-জরুরি</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/30032026/1774840642_sopon.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/30032026/1774840642_sopon.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[মাননীয় প্রধানমন্ত্রী তারেক রহমানের অভূতপূর্ব সূচনা ও জনপ্রত্যাশা]]></title>
+            <link>https://mzamin.com/article/7704/মাননীয়-প্রধানমন্ত্রী-তারেক-রহমানের-অভূতপূর্ব-সূচনা-ও-জনপ্রত্যাশা</link>
+            <guid isPermaLink="true">https://mzamin.com/article/7704/মাননীয়-প্রধানমন্ত্রী-তারেক-রহমানের-অভূতপূর্ব-সূচনা-ও-জনপ্রত্যাশা</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/29032026/1774794245_2.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/29032026/1774794245_2.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ইরানে স্থল অভিযানের প্রস্তুতি নিচ্ছে পেন্টাগন]]></title>
+            <link>https://mzamin.com/article/7645/ইরানে-স্থল-অভিযানের-প্রস্তুতি-নিচ্ছে-পেন্টাগন</link>
+            <guid isPermaLink="true">https://mzamin.com/article/7645/ইরানে-স্থল-অভিযানের-প্রস্তুতি-নিচ্ছে-পেন্টাগন</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/29032026/1774761728_9.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/29032026/1774761728_9.webp"/>
+        </item>
         <item>
             <title><![CDATA[শুভ নববর্ষ]]></title>
             <description><![CDATA[আজ পহেলা বৈশাখ। বাংলা নববর্ষের প্রথমদিন। সব চাওয়া-পাওয়া, আশা-নিরাশা পেছনে ফেলে ১৪৩২ সাল কালের স্রোতে লীন। ১৪৩৩ সালের শুভাগমনের মধ্য দিয়ে নতুন প্রভাতের সূচনা হলো। বাংলা নববর্ষকে আমরা স্বাগত জানাই। এটা আমাদের ইতিহাস-ঐতিহ্যের অচ্ছেদ্য অংশ। বাংলা সন ও নববর্ষ উদযাপন মূলত মুসলিম ঐতিহ্যজাত এবং মুসলিম শাসকরাই তা প্রবর্তন করেন। বাংলা সনের সঙ্গে বাংলার শাসনব্যবস্থার সংস্কারে মুসলমান শাসকদের ঐতিহাসিক অবদান রয়েছে।...]]></description>
