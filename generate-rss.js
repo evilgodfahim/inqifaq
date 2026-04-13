@@ -24,6 +24,7 @@ function banglaToAscii(str) {
 //   Space-separated  → "2026-04-05 09:48:24"          (JatiyoArthoniti time[datetime])
 //   Bangla datetime  → "০৩ এপ্রিল ২০২৬, ১২:০২ এএম"  (Inqilab)
 //   Bangla date-only → "০৩ এপ্রিল ২০২৬"              (Inqilab lead fallback)
+//   MZamin date      → "১১ এপ্রিল (শনিবার), ২০২৬"    (day-of-week stripped before parsing)
 
 const BANGLA_MONTHS = {
   'জানুয়ারি':0, 'ফেব্রুয়ারি':1, 'মার্চ':2,    'এপ্রিল':3,
@@ -33,8 +34,12 @@ const BANGLA_MONTHS = {
 
 function parseDate(raw) {
   if (!raw || !raw.trim()) return new Date();
+
+  // Strip parenthetical day-of-week: "১১ এপ্রিল (শনিবার), ২০২৬" → "১১ এপ্রিল ২০২৬"
+  let str = raw.trim().replace(/\s*\([^)]+\),?\s*/g, ' ').trim();
+
   // Normalise space-separated datetime ("2026-04-05 09:48:24") → ISO T form
-  const str = raw.trim().replace(/^(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}:\d{2})$/, '$1T$2');
+  str = str.replace(/^(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}:\d{2})$/, '$1T$2');
 
   // ISO 8601 (Ittefaq data-published, AmarDesh time[datetime], JatiyoArthoniti normalised)
   if (/^\d{4}-\d{2}-\d{2}T/.test(str)) {
@@ -416,15 +421,12 @@ function scrapeJatiyoArthoniti(html, seen) {
 const SHAREBIZ_BASE = "https://sharebiz.net";
 
 function extractShareBizImage($el) {
-  // Background-image style on .thumbnail-container (data-src attr, lazy)
   const bgSrc = ($el.find(".thumbnail-container").first().attr("data-src") || "").trim();
   if (bgSrc && !bgSrc.startsWith("data:")) return bgSrc;
 
-  // Lazy-loaded <img data-src>
   const lazySrc = ($el.find("img").first().attr("data-src") || "").trim();
   if (lazySrc && !lazySrc.startsWith("data:")) return lazySrc;
 
-  // Regular src fallback
   const src = ($el.find("img").first().attr("src") || "").trim();
   if (src && !src.startsWith("data:")) return src;
 
@@ -436,11 +438,9 @@ function scrapeShareBiz(html, seen) {
   const items = [];
 
   // ── Zone 1: Hero block ────────────────────────────────────────────────────
-  // Filter to editorial-tagged articles only (hero mixes categories)
   $("article.jeg_post[class*='jeg_hero_item']").each((_, el) => {
     const $el = $(el);
 
-    // Only include if the category badge links to editorial
     if (!$el.find("div.jeg_post_category a.category-editorial").length) return;
 
     const href = ($el.find("div.jeg_thumb > a").first().attr("href") || "").trim();
@@ -458,12 +458,12 @@ function scrapeShareBiz(html, seen) {
       link,
       description: "",
       image:    extractShareBizImage($el),
-      date:     new Date(),   // listing view has no date element
+      date:     new Date(),
       category: "সম্পাদকীয়",
     });
   });
 
-  // ── Zone 2: Main article list (jeg_pl_md_1 only — excludes sidebar jeg_pl_sm) ──
+  // ── Zone 2: Main article list ──────────────────────────────────────────────
   $("article.jeg_post.jeg_pl_md_1").each((_, el) => {
     const $el = $(el);
 
@@ -507,13 +507,12 @@ function scrapeShareBiz(html, seen) {
 //   Image  → background-image:url(...) parsed from a.card-thumbnail[style]
 //            fallback: img.d-none[src] inside the same anchor
 //   Title  → h2.card-title text, with leading <span> subtitle stripped
-//            (the <span> contains a section label, e.g. "ছাত্রদল নেতা জনি হত্যাকাণ্ড")
 //   Desc   → p.card-description (optional teaser)
 //   Cat    → a.post-category text, fallback "চলতি চিন্তা"
 //   Date   → not present in listing → new Date()
 
-const JOBAN_BASE    = "https://jobanmagazine.com";
-const BG_IMAGE_RE   = /background-image\s*:\s*url\(\s*['"]?([^'")]+)['"]?\s*\)/i;
+const JOBAN_BASE  = "https://jobanmagazine.com";
+const BG_IMAGE_RE = /background-image\s*:\s*url\(\s*['"]?([^'")]+)['"]?\s*\)/i;
 
 function scrapeJoban(html, seen) {
   const $     = cheerio.load(html);
@@ -522,7 +521,6 @@ function scrapeJoban(html, seen) {
   $("article.post-card").each((_, el) => {
     const $el = $(el);
 
-    // ── Link ──────────────────────────────────────────────────────────────
     const $thumb = $el.find("a.card-thumbnail").first();
     const href   = ($thumb.attr("href") || "").trim();
     if (!href) return;
@@ -531,34 +529,22 @@ function scrapeJoban(html, seen) {
     if (seen.has(link)) return;
     seen.add(link);
 
-    // ── Title ─────────────────────────────────────────────────────────────
-    // h2.card-title contains an optional <span> with a subtitle/label prefix.
-    // Clone, remove the span, then read remaining text.
-    const $titleEl = $el.find("h2.card-title").first();
-    const $clone   = $titleEl.clone();
+    // Strip <span> subtitle prefix from title
+    const $clone = $el.find("h2.card-title").first().clone();
     $clone.find("span").remove();
     const title = $clone.text().trim();
     if (!title) return;
 
-    // ── Image ─────────────────────────────────────────────────────────────
     let image = null;
-    const styleAttr = $thumb.attr("style") || "";
-    const bgMatch   = styleAttr.match(BG_IMAGE_RE);
-    if (bgMatch && bgMatch[1]) {
-      image = bgMatch[1].trim();
-    }
-    // Fallback: img.d-none[src] inside the thumbnail anchor
+    const bgMatch = ($thumb.attr("style") || "").match(BG_IMAGE_RE);
+    if (bgMatch && bgMatch[1]) image = bgMatch[1].trim();
     if (!image) {
-      const fallbackSrc = ($thumb.find("img.d-none").first().attr("src") || "").trim();
-      if (fallbackSrc && !fallbackSrc.startsWith("data:")) image = fallbackSrc;
+      const fallback = ($thumb.find("img.d-none").first().attr("src") || "").trim();
+      if (fallback && !fallback.startsWith("data:")) image = fallback;
     }
-    // Null out empty or data-URI placeholders
     if (image && (image === "" || image.startsWith("data:"))) image = null;
 
-    // ── Category ──────────────────────────────────────────────────────────
-    const category = $el.find("a.post-category").first().text().trim() || "চলতি চিন্তা";
-
-    // ── Description ───────────────────────────────────────────────────────
+    const category    = $el.find("a.post-category").first().text().trim() || "চলতি চিন্তা";
     const description = $el.find("p.card-description").first().text().trim();
 
     items.push({
@@ -566,12 +552,72 @@ function scrapeJoban(html, seen) {
       link,
       description,
       image,
-      date:     new Date(),   // no date in listing view
+      date:     new Date(),
       category,
     });
   });
 
   console.log(`  [Joban] Scraped ${items.length} articles`);
+  return items;
+}
+
+// ===== SCRAPER: MANAB ZAMIN – মত-মতান্তর =====
+// URL: https://www.mzamin.com/category/মত-মতান্তর
+// Framework: Custom PHP + Tailwind CSS (SSR, Cloudflare-protected)
+//
+// Per article card:
+//   Container  → article  (main grid only; sidebar uses div.flex.gap-3, no article tag)
+//   Link/Title → h2.font-semibold a[href]  (always absolute https://mzamin.com/article/...)
+//   Image      → div.relative.h-48 img[src]  (regular src, no lazy; absent on some cards)
+//   Date       → span.flex.items-center.gap-2 text
+//                format: "১১ এপ্রিল (শনিবার), ২০২৬"
+//                parseDate strips the parenthetical day-of-week before matching
+//   Description→ p.mt-3.text-sm (optional teaser, present on a minority of cards)
+//   Category   → "মত-মতান্তর" (hardcoded — page is category-scoped)
+
+const MZAMIN_BASE = "https://www.mzamin.com";
+
+function scrapeMzamin(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  $("article").each((_, el) => {
+    const $el = $(el);
+
+    // ── Link & Title ──────────────────────────────────────────────────────
+    const $anchor = $el.find("h2.font-semibold a").first();
+    const href    = ($anchor.attr("href") || "").trim();
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : MZAMIN_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    const title = $anchor.text().trim();
+    if (!title) return;
+
+    // ── Image ─────────────────────────────────────────────────────────────
+    // Only present when the card has a div.relative.h-48 image wrapper
+    const image = $el.find("div.relative.h-48 img").first().attr("src") || null;
+
+    // ── Date ──────────────────────────────────────────────────────────────
+    // "১১ এপ্রিল (শনিবার), ২০২৬" — parseDate now strips the parenthetical
+    const rawDate = $el.find("span.flex.items-center.gap-2").first().text().trim();
+
+    // ── Description ───────────────────────────────────────────────────────
+    const description = $el.find("p.mt-3.text-sm").first().text().trim();
+
+    items.push({
+      title,
+      link,
+      description,
+      image,
+      date:     parseDate(rawDate),
+      category: "মত-মতান্তর",
+    });
+  });
+
+  console.log(`  [MzaminOpinion] Scraped ${items.length} articles`);
   return items;
 }
 
@@ -606,6 +652,11 @@ const SOURCES = [
     label:   "Joban Magazine – Opinion & Interpretation",
     url:     "https://jobanmagazine.com/",
     scraper: scrapeJoban,
+  },
+  {
+    label:   "Manab Zamin – মত-মতান্তর",
+    url:     "https://www.mzamin.com/category/%E0%A6%AE%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0",
+    scraper: scrapeMzamin,
   },
 ];
 
@@ -648,8 +699,8 @@ function loadExistingItems(filePath) {
 // ===== BUILD XML =====
 function buildFeed(items) {
   const feed = new RSS({
-    title:       "ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি, শেয়ার বিজ ও জবান – সম্পাদকীয় ও মতামত",
-    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, ShareBiz, and Joban Magazine",
+    title:       "ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি, শেয়ার বিজ, জবান ও মানবজমিন – সম্পাদকীয় ও মতামত",
+    description: "Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, ShareBiz, Joban Magazine, and Manab Zamin",
     feed_url:    "https://dailyinqilab.com/editorial",
     site_url:    "https://dailyinqilab.com",
     language:    "bn",
