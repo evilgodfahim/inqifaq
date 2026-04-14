@@ -350,7 +350,7 @@ function scrapeJatiyoArthoniti(html, seen) {
   const $     = cheerio.load(html);
   const items = [];
 
-  $("article.col-sm-6").each((_, el) => {
+  $("article.col-sm-4").each((_, el) => {
     const $el = $(el);
 
     // ── Link ──────────────────────────────────────────────────────────────
