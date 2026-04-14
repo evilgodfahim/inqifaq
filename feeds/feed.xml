@@ -1,13 +1,386 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-        <title><![CDATA[ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি, শেয়ার বিজ, জবান ও মানবজমিন – সম্পাদকীয় ও মতামত]]></title>
-        <description><![CDATA[Editorial and opinion pieces from Daily Inqilab, Daily Ittefaq, Amar Desh, Jatiyo Arthoniti, ShareBiz, Joban Magazine, and Manab Zamin]]></description>
+        <title><![CDATA[ইনকিলাব, ইত্তেফাক, আমার দেশ, জাতীয় অর্থনীতি, শেয়ার বিজ, জবান, মানবজমিন, রূপালী বাংলাদেশ ও দৈনিক সংগ্রাম – সম্পাদকীয় ও মতামত]]></title>
+        <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 11:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 11:58:12 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 11:49:41 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[মাদক ও অনলাইন জুয়া : ধ্বংসের দ্বারপ্রান্তে যুবসমাজ’]]></title>
+            <description><![CDATA[বাংলাদেশের গ্রাম থেকে শহরÑ সবখানেই আজ এক নীরব বিপর্যয়ের নাম মাদক। মাদকের টাকা সংগ্রহ করতে, মাদকের বিকিকিনি করতে একটি মহল রাতদিন তৎপর। বিশেষ করে দক্ষিণ চট্টগ্রামের জনপদগুলোতে পরিস্থিতি এমন পর্যায়ে পৌঁছেছে যে, অনেক এলাকায় চুরি-ডাকাতি, মাদক ঠেকাতে এলাকাবাসীকে রাত জেগে পাহারা দিতে হচ্ছে। একটি সমাজ কতটা অরক্ষিত হলে...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/133215</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/133215</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Sun, 12 Apr 2026 05:53:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sibbir-Ahmed-Rana-20260412055353.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sibbir-Ahmed-Rana-20260412055353.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[সড়ক ভাঙে, মানুষ ভাঙে, দেখার কেউ নেই]]></title>
+            <description><![CDATA[পৃথিবী সব সময়ই অস্থির। কোথাও না কোথাও কিছু একটা ঘটতেই থাকে। আরেকটি বিশ্বযুদ্ধের পদধ্বনী কি শোনা যাচ্ছে? আগাম কেউই কিছু বলতে পারবে না, হুট করে কখন কি ঘটে যাবে। ওইসব বড় বড় মাথাদের বিষয়। একজন সাধারণ মানুষ হিসেবে আমার সমস্যা, আমার কাছে বড় বিষয়। হয়তো দেশের অন্য কোনো...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/133214</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/133214</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Sun, 12 Apr 2026 05:53:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Abdul--Hamud-20260412055301.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Abdul--Hamud-20260412055301.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[সম্পাদকীয়বাজার নিয়ন্ত্রণে কার্যকর পদক্ষেপ জরুরি]]></title>
+            <description><![CDATA[রাজধানী ঢাকার বাজার আবারও এক অস্থির সময়ের ভেতর দিয়ে যাচ্ছে। জ্বালানি সংকটের প্রভাবে খুচরা পর্যায়ে একের পর এক নিত্যপ্রয়োজনীয় পণ্যের দাম বাড়ছে, যা সাধারণ মানুষের জীবনযাত্রাকে ক্রমেই কঠিন করে তুলছে। এই পরিস্থিতি এমন এক সময় তৈরি হয়েছে, যখন বাঙালির প্রাণের উৎসব নববর্ষ দরজায় কড়া নাড়ছে। অথচ উৎসবের আনন্দে...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/133213</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/133213</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Sun, 12 Apr 2026 05:52:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/"/>
+        </item>
+        <item>
+            <title><![CDATA[নতুন বাজেট কি মধ্যবিত্তের কথা বলবে?]]></title>
+            <description><![CDATA[নতুন অর্থবছরের বাজেট দরজায় কড়া নাড়ছে। সরকার বলছে অর্থনীতি স্থিতিশীলতার পথে, প্রবৃদ্ধি পুনরুদ্ধারের ইঙ্গিত দিচ্ছে বিভিন্ন সূচক। কিন্তু বাজারের বাস্তবতা ভিন্ন গল্প বলছে। চাল, ডাল, তেল, ডিম, সবজি প্রতিদিনের কেনাকাটায় মধ্যবিত্তের দীর্ঘশ্বাসই যেন সবচেয়ে বড় অর্থনৈতিক সূচক। প্রশ্ন হলো, আসন্ন বাজেট কি কেবল রাজস্ব-সংগ্রহের হিসাব মিলাবে, নাকি মধ্যবিত্তের...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132906</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132906</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Sat, 11 Apr 2026 00:36:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Nihal-Khan-20260411003635.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Nihal-Khan-20260411003635.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[ব্যয়বহুল শিক্ষার দুষ্টচক্রে বৈষম্যের বিস্তার]]></title>
+            <description><![CDATA[শিক্ষার দ্রুত বর্ধনশীল ব্যয় বর্তমানে একটি সামাজিক সংকটে রূপ নিয়েছে। গত কয়েক বছরে স্কুল ও বিশ্ববিদ্যালয়, বিশেষ করে বেসরকারি প্রতিষ্ঠানগুলোতে টিউশন ফি, পরীক্ষার ফি এবং ভর্তি ফি আকাশচুম্বী হয়েছে। এর সঙ্গে পাল্লা দিয়ে বেড়েছে যাতায়াত খরচ এবং শিক্ষা উপকরণের দাম। এই বিপুল আর্থিক বোঝা পরিবারগুলোর ওপর এক অসহনীয়...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132905</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132905</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Sat, 11 Apr 2026 00:35:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Nur-Hamza-20260411003545.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Nur-Hamza-20260411003545.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[সহানুভূতি না সৌন্দর্য: আমাদের মানবিকতার আসল পরীক্ষা]]></title>
+            <description><![CDATA[বাংলাদেশের সমাজ বাস্তবতায় পথশিশুদের জীবন যেমন কঠিন ও বেদনাদায়ক, তেমনি আমাদের মানসিকতার গভীরে লুকিয়ে থাকা কিছু অস্বস্তিকর সত্যও বারবার সামনে আসে। সাম্প্রতিক সময়ে একটি পথশিশুর ভাইরাল হওয়া এবং তাকে ঘিরে মানুষের আবেগ, সহানুভূতি ও দায়িত্ব নেওয়ার ঘটনা নিঃসন্দেহে মানবিকতার দৃষ্টান্ত। তবে এই ঘটনাই আমাদের সামনে আরেকটি গুরুত্বপূর্ণ প্রশ্ন...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132659</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132659</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Fri, 10 Apr 2026 07:05:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/2-20260410070525.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/2-20260410070525.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[জ্বালানি সংকট : বন্ধে নয়, বুদ্ধিদীপ্ত ব্যবস্থাপনা হোক পরিকল্পিত সমাধান]]></title>
+            <description><![CDATA[বিশ্বের নানা দেশে বিদ্যুৎ ও জ্বালানি সংকট একটি বাস্তবতা, এবং বাংলাদেশের মতো উন্নয়নশীল দেশে এর প্রভাব আমাদের প্রতিদিনের শিক্ষা, ব্যবসা এবং দৈনন্দিন কাজকর্মে স্পষ্টভাবে দেখা যাচ্ছে।
+
+সম্প্রতি, সরকার থেকে উদ্যোগ নেওয়া হয়েছে বিদ্যুৎ ও জ্বালানির সংকট মোকাবিলায় দোকান সন্ধ্যার ৬টার মধ্যে বন্ধ করতে হবে। জ্বালানি সংকট এখন...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132658</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132658</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Fri, 10 Apr 2026 07:04:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/3-20260410070427.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/3-20260410070427.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[জুমার দিনের বিশেষ ৬টি আমল]]></title>
+            <description><![CDATA[জুমার দিন শ্রেষ্ঠ দিন। সপ্তাহের ঈদের দিন। ইসলামে এ দিনের মর্যাদা রয়েছে। সব দিনের মধ্যে জুমাবারকে শ্রেষ্ঠত্ব দিয়েছেন আল্লাহ তায়ালা। কোরআন ও হাদিসে এ দিনের বিশেষ সম্মান ও মর্যাদার কথা বলা হয়েছে।
+
+হজরত হুজাইফা ইবনুল ইয়ামান (রা.) থেকে বর্ণিত, রাসুল সা. বলেন, ‘আল্লাহ তায়ালা আগের জাতিগুলোর কাছে...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132657</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132657</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Fri, 10 Apr 2026 07:03:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/1-20260410070339.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/1-20260410070339.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[সম্পাদকীয়দারিদ্র্য ঠেকাতে জরুরি পদক্ষেপ নিতে হবে]]></title>
+            <description><![CDATA[বাংলাদেশের অর্থনীতি আজ এক জটিল সন্ধিক্ষণে অবস্থান করছে। একদিকে অভ্যন্তরীণ কাঠামোগত দুর্বলতা, অন্যদিকে বৈশ্বিক অস্থিরতা এই দুইয়ের সম্মিলিত চাপে অর্থনৈতিক অগ্রযাত্রা যেন ক্রমেই বাধাগ্রস্ত হচ্ছে। সাম্প্রতিক বিশ্বব্যাংক-এর বাংলাদেশ ডেভেলপমেন্ট আপডেট প্রতিবেদনে যে চিত্র উঠে এসেছে, তা নিঃসন্দেহে যেমন উদ্বেগজনক তেমনি নীতিনির্ধারকদের জন্য এক কঠোর সতর্কবার্তা।
+
+প্রতিবেদন অনুযায়ী,...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132656</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132656</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Fri, 10 Apr 2026 07:01:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/"/>
+        </item>
+        <item>
+            <title><![CDATA[বিপ্লবী বিনোদ বিহারী চৌধুরীর প্রয়াণ]]></title>
+            <description><![CDATA[ব্রিটিশবিরোধী আন্দোলনের অন্যতম পুরোধা, আজীবন সংগ্রামী ব্যক্তিত্ব, সদা সত্যবাদী, অসাম্প্রদায়িক, ন্যায়নিষ্ঠ এবং বিবেকের কণ্ঠস্বর বিনোদ বিহারী চৌধুরী ২০১৩ সালের আজকের এই দিনে (১০ এপ্রিল) ১০২ বছর বয়সে মৃত্যুবরণ করেন।
+
+বিনোদ বিহারীর জন্ম ১৯১১ সালের ১০ জানুয়ারি চট্টগ্রামের বোয়ালখালী থানার উত্তর ভূর্ষি গ্রামে। ১৯২৯ সালে সারোয়াতলী উচ্চ বিদ্যালয়...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132655</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132655</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Fri, 10 Apr 2026 07:00:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/"/>
+        </item>
+        <item>
+            <title><![CDATA[এই মৃত্যু উপত্যকা আমার দেশ না]]></title>
+            <description><![CDATA[দেশে প্রতিনিয়ত ঘটে চলা অপমৃত্যু, তথা খুনের প্রেক্ষিতেই এই লেখাটির শিরোনাম নেওয়া হয়েছে দুটি কালজয়ী গান ও কবিতা থেকে। হায়দার হোসেন (১৯৬৩-) যে আত্মগ্লানি থেকে ‘নিজেকে দিয়েছি ধিক্কার’ উচ্চারণ করেছিলেন, এটি কেবল সেই গানের পুনরাবৃত্তি নয়; বরং আজকের বাস্তবতায় বেদনাহত অসংখ্য মানুষের মতো আমিও আমার ঘৃণা ও ক্ষোভের...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132335</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132335</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Thu, 09 Apr 2026 01:45:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Mahruf-Chowdhury-1-20260409014501.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Mahruf-Chowdhury-1-20260409014501.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[সম্পাদকীয়পররাষ্ট্রমন্ত্রীর ভারত সফর, সমমর্যাদার পথে নতুন যাত্রা]]></title>
+            <description><![CDATA[বাংলাদেশ ও ভারতের দ্বিপাক্ষিক সম্পর্ক বরাবরই বহুমাত্রিক, ইতিহাস, ভৌগোলিক নৈকট্য, অর্থনৈতিক নির্ভরতা এবং আঞ্চলিক রাজনীতির জটিল সমীকরণে গঠিত এই সম্পর্ক কখনো উষ্ণ, কখনো শীতল। সাম্প্রতিক রাজনৈতিক পট পরিবর্তনের পর এই সম্পর্ক নতুন করে মূল্যায়নের মুখে দাঁড়িয়েছে। এমন এক প্রেক্ষাপটে বাংলাদেশের পররাষ্ট্রমন্ত্রীর দিল্লি সফর নিছক আনুষ্ঠানিকতা নয়, বরং এটি...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132334</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132334</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Thu, 09 Apr 2026 01:43:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/"/>
+        </item>
+        <item>
+            <title><![CDATA[বিএড ও এমএডের যথাযথ মূল্যায়ন প্রয়োজন]]></title>
+            <description><![CDATA[বাংলাদেশের শিক্ষাব্যবস্থার একটি মৌলিক বৈশিষ্ট্য হলো এর ধাপভিত্তিক কাঠামো : প্রাথমিক, মাধ্যমিক ও উচ্চমাধ্যমিক/কলেজ পর্যায়। এই তিনটি স্তরের মধ্যে জ্ঞান নির্মাণ, দক্ষতা বিকাশ এবং মানবসম্পদ গঠনের ধারাবাহিকতা রক্ষা করা অত্যন্ত গুরুত্বপূর্ণ। কিন্তু দুঃখজনকভাবে, এই ধারাবাহিকতার একটি গুরুত্বপূর্ণ অংশ কলেজ পর্যায়ের শিক্ষকরা তাদের পেশাগত প্রশিক্ষণ ও উচ্চতর ডিগ্রির যথাযথ...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132023</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132023</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Wed, 08 Apr 2026 05:19:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Tahmid-20260408051903.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Tahmid-20260408051903.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশের স্বাস্থ্য খাতস্বাস্থ্যসেবা নিশ্চিত করা সময়ের দাবি]]></title>
+            <description><![CDATA[গতকাল ৭ এপ্রিল ছিল বিশ্ব স্বাস্থ্য দিবস। প্রতি বছরের মতো এবারও দিবসটি পালিত হচ্ছে ‘সবার জন্য স্বাস্থ্য’ নিশ্চিত করার প্রতিশ্রুতি নিয়ে। কিন্তু এই প্রতিশ্রুতির বিপরীতে বাংলাদেশের স্বাস্থ্য খাতের বাস্তব চিত্র অনেকটাই ভিন্ন। বিশেষ করে সরকারি হাসপাতালগুলোতে রোগীদের দুর্ভোগ, চিকিৎসা সেবার সীমাবদ্ধতা এবং অব্যবস্থাপনার চিত্র আজও উদ্বেগজনক।
+
+রাজধানী...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132022</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132022</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Wed, 08 Apr 2026 05:17:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sajal-mia-20260408051738.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sajal-mia-20260408051738.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[নফল ইবাদত ও শরিয়তের ভারসাম্যপূর্ণ নির্দেশনা]]></title>
+            <description><![CDATA[ইসলাম একটি পরিপূর্ণ জীবনব্যবস্থা, যেখানে ইবাদতের ক্ষেত্রেও রয়েছে সুস্পষ্ট দিকনির্দেশনা ও ভারসাম্য। ফরজ ইবাদতের পাশাপাশি নফল ইবাদত মানুষের আত্মশুদ্ধি, তাকওয়া অর্জন এবং আল্লাহর নৈকট্য লাভের একটি গুরুত্বপূর্ণ মাধ্যম। এসব নফল ইবাদতের মধ্যে কিয়ামুল লাইল বিশেষ মর্যাদাসম্পন্ন, যা বান্দার একান্ত নির্জনে আল্লাহর সঙ্গে সম্পর্ক দৃঢ় করার অনন্য সুযোগ সৃষ্টি...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/132021</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/132021</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Wed, 08 Apr 2026 05:15:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/"/>
+        </item>
+        <item>
+            <title><![CDATA[যুদ্ধবিরতিতে বাধা নেতানিয়াহু]]></title>
+            <description><![CDATA[বিশ্ববাসীর এখন স্পষ্ট করে বলা প্রয়োজন যে, ইসরাইলের কারণেই বিশ্বে এত যুদ্ধ ও অশান্তি। যুদ্ধাপরাধী এই রাষ্ট্রটিকে আর চাতুর্যের সুযোগ দেওয়া যায় না।]]></description>
+            <link>https://dailysangram.com/opinion/editorial/lmGfJ6Y5fqMa/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/editorial/lmGfJ6Y5fqMa/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পরকীয়ার করাল গ্রাস]]></title>
+            <description><![CDATA[পরকীয়ার করাল গ্রাস আমাদের সমাজ জীবনকে রীতিমত দুর্বিষহ ও অস্থির করে তুলেছে। ফলে প্রতিনিয়তই আশঙ্কাজনকভাবে বাড়ছে বিবাহ বিচ্ছেদ এবং নিয়ন্ত্রণহীন হয়ে পড়েছে দাম্পত্য কলহ। সংশ্লিষ্টরা বলছেন,]]></description>
+            <link>https://dailysangram.com/opinion/editorial/04SXeqprVyUY/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/editorial/04SXeqprVyUY/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘ঈশ্বর যুদ্ধবাজদের প্রার্থনা শোনেন না’]]></title>
+            <description><![CDATA[যুদ্ধ পৃথিবীতে নতুন কোনো বিষয় নয়। যুদ্ধ অতীতে হয়েছে, বর্তমানে চলছে, ভবিষ্যতেও হয়তো পৃথিবী যুদ্ধমুক্ত থাকবে না। লক্ষ্যণীয় বিষয় হলোÑ যুদ্ধে শুধু অস্ত্রের ব্যবহার হয়না, ধর্মের ব্যবহারও হয়। তবে ধর্মের ব্যবহারে রকমফের লক্ষ্য করা যায়।]]></description>
+            <link>https://dailysangram.com/opinion/editorial/B4zQCdGU4yea/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/editorial/B4zQCdGU4yea/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ট্রাম্প এবার থামলে ভালো হয়]]></title>
+            <description><![CDATA[পৃথিবীতে সমস্যা বাড়ানো তো কোনো নেতার কাজ হতে পারে না। আর তিনি যদি হন বিশ্বনেতা, তা হলে তো সমস্যা কমানো তার দায়িত্ব হয়ে পড়ে। কিন্তু বর্তমান সভ্যতার ট্র্যাজেডি হলো, বিশ্বনেতারা কাক্সিক্ষত দায়িত্ব পালন করছেন না,]]></description>
+            <link>https://dailysangram.com/opinion/editorial/KCiGWsoCteQA/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/editorial/KCiGWsoCteQA/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মতামতের জন্য সম্পাদক দায়ী নন
+                    
+                
+                লঞ্চঘাটে প্রবেশ মূল্য বন্ধ হোক]]></title>
+            <description><![CDATA[বাংলাদেশে রেলস্টেশন, বাস টার্মিনাল কিংবা বিমানবন্দরে যাত্রীদের কাছ থেকে প্রবেশমূল্য নেওয়া হয় না। কিন্তু লঞ্চঘাটে পা রাখতেই গুনতে হচ্ছে ১০ থেকে ২০ টাকা, কোনো গেজেট বা নীতিমালা ছাড়াই।]]></description>
+            <link>https://dailysangram.com/opinion/readers-opinion/HdQvOsaa5nn9/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/readers-opinion/HdQvOsaa5nn9/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ছায়া সরকার : গণতন্ত্রের পথে আরো এক ধাপ]]></title>
+            <description><![CDATA[বাংলাদেশের রাজনীতিতে দীর্ঘদিন ধরে একটি অভিযোগ বারবার উচ্চারিত হয়েছে-ক্ষমতা ও বিরোধিতার সম্পর্ক এখানে প্রায়শই সহযোগিতামূলক নয়, বরং সংঘাতনির্ভর।]]></description>
+            <link>https://dailysangram.com/opinion/readers-opinion/p2CkcXihzCHQ/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/readers-opinion/p2CkcXihzCHQ/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মতামতের জন্য সম্পাদক দায়ী নন
+                    
+                
+                যানজট ও হকারের দখলে নারায়ণগঞ্জ]]></title>
+            <description><![CDATA[দেশের সবচেয়ে ছোট জেলা নারায়ণগঞ্জের কেন্দ্র চাষাড়ায় এখন তীব্র জনদুর্ভোগ দেখা দিয়েছে। এ বাণিজ্যিক শহরের প্রধান সড়কের ফুটপাতগুলো প্রায় পুরোপুরি হকারদের দখলে। হাঁটার জায়গা না পেয়ে পথচারীরা মূল রাস্তায় নামতে বাধ্য হচ্ছেন।]]></description>
+            <link>https://dailysangram.com/opinion/readers-opinion/WmQkZdIEcDqI/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/readers-opinion/WmQkZdIEcDqI/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মতামতের জন্য সম্পাদক দায়ী নন
+                    
+                
+                শিক্ষাজীবনে সঞ্চয় ও বাজেট করার কৌশল]]></title>
+            <description><![CDATA[শিক্ষাজীবনে অর্থের সীমাবদ্ধতা খুবই স্বাভাবিক। অনেক সময় টিউশন ফি, বই, খাবার, যাতায়াত-এসব খরচ মিলে আয় শেষ হয়ে যায় মাসের মাঝেই। তাই সঠিক বাজেট করা জরুরি।]]></description>
+            <link>https://dailysangram.com/opinion/readers-opinion/N2jEHsLaSWe9/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/readers-opinion/N2jEHsLaSWe9/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মুসলিম শাসনে বাংলা সনের বিকাশ]]></title>
+            <link>https://dailysangram.com/opinion/column/cT6S7qWWwZE7/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/cT6S7qWWwZE7/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ইসলামী প্রজাতন্ত্র ইরান ও এর সংবিধান নিয়ে কিছু কথা]]></title>
+            <link>https://dailysangram.com/opinion/column/nUx0ccLsc6oh/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/nUx0ccLsc6oh/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[একজন বাবু গৌরঙ্গ দাস]]></title>
+            <link>https://dailysangram.com/opinion/column/G0GtahYjjyY4/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/G0GtahYjjyY4/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ভারত-বাংলাদেশ সীমান্তে সরীসৃপ ছাড়ার ভাবনা]]></title>
+            <link>https://dailysangram.com/opinion/column/iLU0ErzF7lIa/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/iLU0ErzF7lIa/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[উদ্দেশ্যপ্রণোদিত প্রচারণা অস্থিতিশীলতার ঝুঁকি বাড়ায়]]></title>
+            <link>https://dailysangram.com/opinion/column/UDgfOWBl2AhX/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/UDgfOWBl2AhX/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জুলাই সনদ বাস্তবায়নে বিএনপি’র লাভ বেশি]]></title>
+            <link>https://dailysangram.com/opinion/column/o5HXYqj8M0vP/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/o5HXYqj8M0vP/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ইরান বনাম অদূরদর্শী এক বিশ্ব মোড়ল]]></title>
+            <link>https://dailysangram.com/opinion/column/BKvVgjF8NP9I/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/BKvVgjF8NP9I/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিচার বিভাগ আবার শৃঙ্খলিত হলো]]></title>
+            <link>https://dailysangram.com/opinion/column/cyQUhZPXMTE5/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/cyQUhZPXMTE5/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[হাম নিয়ে উদাসীনতা কাম্য নয়]]></title>
+            <link>https://dailysangram.com/opinion/column/pikEtdlJAzXg/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/pikEtdlJAzXg/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ভূমধ্যসাগরে মৃত্যুর মিছিল কী থামবে না]]></title>
+            <link>https://dailysangram.com/opinion/column/j95udluLIhiJ/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/j95udluLIhiJ/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সব ঝুট হ্যাঁয়, তফাৎ যাও....]]></title>
+            <link>https://dailysangram.com/opinion/column/9D9GBZvLUwku/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/9D9GBZvLUwku/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সরকারের ঋণ নির্ভরতা]]></title>
+            <link>https://dailysangram.com/opinion/column/J7hWFhz4Px7k/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/J7hWFhz4Px7k/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[যুদ্ধে বিপুল প্রাণহানির দায় নিতে হবে ট্রাম্পকে]]></title>
+            <link>https://dailysangram.com/opinion/editorial/uViXCzOyGGvJ/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/editorial/uViXCzOyGGvJ/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[অসৎ নেতৃত্বের ভয়াবহতা]]></title>
+            <link>https://dailysangram.com/opinion/column/4qTlt4bGgaJ2/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/4qTlt4bGgaJ2/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জাহান্নামে ফিরে যাওয়ার ষড়যন্ত্র]]></title>
+            <link>https://dailysangram.com/opinion/column/XaVLuZiqHtlP/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/XaVLuZiqHtlP/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[যুদ্ধবিরতি : মধ্যপ্রাচ্যে শক্তির নতুন বাস্তবতা]]></title>
+            <link>https://dailysangram.com/opinion/editorial/XxGaRfQjuvPi/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/editorial/XxGaRfQjuvPi/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[দিল্লির পথে ঢাকার কূটনীতি নতুন সমীকরণ]]></title>
+            <link>https://dailysangram.com/opinion/column/bWtnWlfylIXp/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/bWtnWlfylIXp/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পরগাছাদের গণবিরোধী সাংস্কৃতিক বয়ান]]></title>
+            <link>https://dailysangram.com/opinion/column/iwJu4avH5US8/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/iwJu4avH5US8/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[প্রাথমিকে ঝরে পড়া রোধে করণীয়]]></title>
+            <link>https://dailysangram.com/opinion/column/82SpVulK9bl3/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/column/82SpVulK9bl3/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ঋণখেলাপী : জাতির জন্য অভিশাপ]]></title>
+            <link>https://dailysangram.com/opinion/editorial/UlybXe5mW6lQ/</link>
+            <guid isPermaLink="true">https://dailysangram.com/opinion/editorial/UlybXe5mW6lQ/</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[স্মৃতির মেঠো পথে বৈশাখী হাওয়া]]></title>
             <description><![CDATA[শৈশব আর কৈশোরের দিনগুলোতে পহেলা বৈশাখ মানে কেবল একটি তারিখ পরিবর্তন ছিল না; তা ছিল প্রাণের স্পন্দন, মাটির ঘ্রাণ আর এক বুক রঙিন স্বপ্নের হাতছানি। আজ...]]></description>
