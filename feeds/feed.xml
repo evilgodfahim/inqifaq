@@ -4,10 +4,37 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 06:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 08:20:21 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 06:28:16 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 08:20:21 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[বিপর্যয়ের মুখে লেবার পার্টি]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdojtgvg0eiv</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdojtgvg0eiv</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Fri, 17 Apr 2026 06:43:48 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/strmr.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/strmr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[দেয়াললিখনের আড়ালে কী বার্তা]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdlqncidjqjw</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdlqncidjqjw</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Fri, 17 Apr 2026 06:34:57 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/Dr_AFM_Khalid_Hossain.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Dr_AFM_Khalid_Hossain.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[স্মরণ সৌরভে ‘সোনালী কাবিন’-এর কবি]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/analysis/amdzqkkrfprty</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/analysis/amdzqkkrfprty</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Fri, 17 Apr 2026 06:31:03 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/snl-kbn.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/snl-kbn.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ইরান যুদ্ধ : ভুল নাকি প্রকৃতির প্রতিশোধ]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdxlc0882dgn</link>
