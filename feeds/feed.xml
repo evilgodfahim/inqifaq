@@ -4,10 +4,46 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 04:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 06:05:52 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 04:21:31 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 06:05:52 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[ভয়াবহ পরিবেশ বিপর্যয়ের মুখে সুন্দরবন]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amd4q5hu001k1</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amd4q5hu001k1</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Sat, 18 Apr 2026 04:16:05 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/elahi-Newaz-khan.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/elahi-Newaz-khan.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[শিক্ষাপ্রশাসন, মাঠপর্যায়ের নেতৃত্ব ও শিক্ষার মান]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdc5ehctp43t</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdc5ehctp43t</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Sat, 18 Apr 2026 04:10:39 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/Mahruf-Chowdhury.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Mahruf-Chowdhury.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[অফিস ছুটি এক দিন বাড়ানো কেন জরুরি]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amd1iolaiqz4n</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amd1iolaiqz4n</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Sat, 18 Apr 2026 03:59:10 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/aphs-cht-ek-dn-brn-kn-jrr.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/aphs-cht-ek-dn-brn-kn-jrr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[বাক স্বাধীনতার অপব্যবহার গণতন্ত্রের মূল্যবোধ পরিপন্থী]]></title>
+            <link>https://mzamin.com/article/11456/বাক-স্বাধীনতার-অপব্যবহার-গণতন্ত্রের-মূল্যবোধ-পরিপন্থী</link>
+            <guid isPermaLink="true">https://mzamin.com/article/11456/বাক-স্বাধীনতার-অপব্যবহার-গণতন্ত্রের-মূল্যবোধ-পরিপন্থী</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://mzamin.com/uploads/news/18042026/1776486776_borun.webp" medium="image"/>
+            <media:thumbnail url="https://mzamin.com/uploads/news/18042026/1776486776_borun.webp"/>
+        </item>
         <item>
             <title><![CDATA[যুদ্ধবিরতি অচলাবস্থা ও শান্তির অনিশ্চিত পথ]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdz52v2dvg6q</link>
