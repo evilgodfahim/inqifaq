@@ -4,10 +4,19 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 10:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 11:26:25 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 10:29:05 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 11:26:25 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[নারী-প্রগতির পথে যৌতুক এক বড় বাধা]]></title>
+            <link>https://www.mzamin.com/article/11688/নারী-প্রগতির-পথে-যৌতুক-এক-বড়-বাধা</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/11688/নারী-প্রগতির-পথে-যৌতুক-এক-বড়-বাধা</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/19042026/1776596965_gh.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/19042026/1776596965_gh.webp"/>
+        </item>
         <item>
             <title><![CDATA[হরমুজ প্রণালী বদলে দিতে পারে যুদ্ধের মোড়]]></title>
             <link>https://www.mzamin.com/article/11676/হরমুজ-প্রণালী-বদলে-দিতে-পারে-যুদ্ধের-মোড়</link>
