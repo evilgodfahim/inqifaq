@@ -4,10 +4,46 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 04:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 06:28:16 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 04:39:09 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 06:28:16 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[ব্যাংক খাতের সংস্কার নাকি পুনর্বাসন]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdnrquxy6huy</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdnrquxy6huy</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 21 Apr 2026 06:11:24 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/byk-kht.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/byk-kht.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[পেশাদার আমলাতন্ত্র কোন পথে]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdozkk8x3llt</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdozkk8x3llt</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 21 Apr 2026 04:53:35 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/prphsr-d.-sphul-islm.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/prphsr-d.-sphul-islm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[নিষ্ঠুরতা ও নির্মমতার সমাজতত্ত্ব]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amddpusc5p1ht</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amddpusc5p1ht</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Tue, 21 Apr 2026 04:46:27 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/ABDUL-LATIF-MASUM.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/ABDUL-LATIF-MASUM.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[অভিবাসী ইস্যুতে জাপান বিভক্ত: উত্তেজনা বাড়ছে মসজিদ কেন্দ্রিক বিতর্কে]]></title>
+            <link>https://www.mzamin.com/article/12089/অভিবাসী-ইস্যুতে-জাপান-বিভক্ত-উত্তেজনা-বাড়ছে-মসজিদ-কেন্দ্রিক-বিতর্কে</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/12089/অভিবাসী-ইস্যুতে-জাপান-বিভক্ত-উত্তেজনা-বাড়ছে-মসজিদ-কেন্দ্রিক-বিতর্কে</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/21042026/1776749103_Untitled-12.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/21042026/1776749103_Untitled-12.webp"/>
+        </item>
         <item>
             <title><![CDATA[‘বৃহত্তর ইসরাইল’ প্রকল্পের পথে বড় বাধা ইরান]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdktclfoudtm</link>
