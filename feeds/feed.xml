@@ -4,10 +4,18 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 22:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 23:34:53 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 22:33:09 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 23:34:53 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[জ্বালানি তেলসংকটের বৈশ্বিক প্রভাব ও বাস্তবতা]]></title>
+            <description><![CDATA[বর্তমান বিশ্বব্যবস্থায় জ্বালানি তেল অর্থনীতি, শিল্প, পরিবহন ও দৈনন্দিন জীবনের এক অবিচ্ছেদ্য অংশ। প্রযুক্তির অগ্রগতি ও নবায়নযোগ্য জ্বালানির প্রসার...]]></description>
+            <link>https://www.ittefaq.com.bd/785682/%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%93-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%A4%E0%A6%BE</link>
+            <guid isPermaLink="true">https://www.ittefaq.com.bd/785682/%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%93-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%A4%E0%A6%BE</guid>
+            <category><![CDATA[ড. আব্দুল ওয়াদুদ]]></category>
+            <pubDate>Thu, 23 Apr 2026 23:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[বিদ্যুৎ উৎপাদন স্বাভাবিক রাখতে বাড়তি ভর্তুকি দেওয়া হোক]]></title>
             <description><![CDATA[দেশের ২৪ জেলার ওপর দিয়ে বয়ে যাওয়া তাপপ্রবাহ কেবল জনজীবনকে বিপর্যস্তই করছে না, বিদ্যুৎ খাতের নীতিগত দুর্বলতার বিষয় সামনে নিয়ে আসছে। সারা দেশে বিদ্যুতের চাহিদা যখন সাড়ে ১৬ হাজার মেগাওয়াট...]]></description>
@@ -4441,15 +4449,6 @@
             <pubDate>Sat, 04 Apr 2026 03:17:49 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/bank_nari.jpg" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/bank_nari.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[কেন এত যুদ্ধব্যয়]]></title>
-            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdhyai097oxn</link>
-            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdhyai097oxn</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Sat, 04 Apr 2026 02:39:10 GMT</pubDate>
-            <media:content url="https://images.dailyamardesh.com/original_images/Amir-Khosru_CFulQVK.jpg" medium="image"/>
-            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Amir-Khosru_CFulQVK.jpg"/>
         </item>
     </channel>
 </rss>
