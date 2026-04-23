@@ -4,10 +4,19 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 01:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 04:41:28 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 01:20:48 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 04:41:28 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[দুই অক্ষরের ‘গুপ্ত’, তোলপাড় রাজনীতি]]></title>
+            <link>https://www.mzamin.com/article/12407/দুই-অক্ষরের-গুপ্ত-তোলপাড়-রাজনীতি</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/12407/দুই-অক্ষরের-গুপ্ত-তোলপাড়-রাজনীতি</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/23042026/1776916243_nz.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/23042026/1776916243_nz.webp"/>
+        </item>
         <item>
             <title><![CDATA[রণমত্ততার নহে, মানবতার জয় হউক]]></title>
             <description><![CDATA[বর্তমান বিশ্ব এক চরম অস্থিরতার মধ্য দিয়া অতিবাহিত হইতেছে। একদিকে সমরাস্ত্রের ঝনঝনানি ও যুদ্ধের উন্মাদনা, অন্যদিকে জঠরানলে দগ্ধ কোটি কোটি নিরন্ন...]]></description>
@@ -4442,16 +4451,6 @@
             <pubDate>Sun, 29 Mar 2026 15:57:59 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/evm-2510231342.png" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/evm-2510231342.png"/>
-        </item>
-        <item>
-            <title><![CDATA[পাচারের অর্থ ফেরত আনতে কার্যকর উদ্যোগ নিতে হবে]]></title>
-            <description><![CDATA[দেশের কোটি কোটি মানুষের শ্রমে-উৎপাদনে অর্জিত অর্থ দেশে বিনিয়োগ না করে বিদেশে পাচার করে ব্যাংকিং ও আর্থিক খাতকে দেউলিয়া করে ফেলা হয়েছে। আওয়ামী ফ্যাসিস্টের সহযোগী রাজনীতিক, আমলা ও ব্যবসায়ী অলিগার্করা সরাসরি অর্থ পাচারের সাথে জড়িত। দেড় দশকে পাচারকৃত অর্থের পরিমাণ পিলে চমকানোর মতো। অন্তর্বর্তী সরকার দায়িত্ব গ্রহণের পর অর্থপাচার বিষয়ে অনুসন্ধানে প্রাপ্ত তথ্য অনুসারে আওয়ামী লীগ সরকারের প্রথম ১৪ বছরে...]]></description>
-            <link>https://dailyinqilab.com/editorial/article/879560</link>
-            <guid isPermaLink="true">https://dailyinqilab.com/editorial/article/879560</guid>
-            <category><![CDATA[সম্পাদকীয়]]></category>
-            <pubDate>Sat, 04 Apr 2026 14:31:51 GMT</pubDate>
-            <media:content url="https://dailyinqilab.com/mediaStorage/content/images/2026April/editorial-inq-20260402204641.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyinqilab.com/mediaStorage/content/images/2026April/editorial-inq-20260402204641.jpg"/>
         </item>
     </channel>
 </rss>
