@@ -4,10 +4,19 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 12:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 14:27:23 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 12:54:40 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 14:27:23 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[জনস্বাস্থ্য সুরক্ষা ও রাজস্ব বৃদ্ধিতে তামাকজাত দ্রব্যের মূল্য ও কর বৃদ্ধি জরুরি]]></title>
+            <link>https://www.mzamin.com/article/12686/জনস্বাস্থ্য-সুরক্ষা-ও-রাজস্ব-বৃদ্ধিতে-তামাকজাত-দ্রব্যের-মূল্য-ও-কর-বৃদ্ধি-জরুরি</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/12686/জনস্বাস্থ্য-সুরক্ষা-ও-রাজস্ব-বৃদ্ধিতে-তামাকজাত-দ্রব্যের-মূল্য-ও-কর-বৃদ্ধি-জরুরি</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/24042026/1777035470_pic-Tamak.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/24042026/1777035470_pic-Tamak.webp"/>
+        </item>
         <item>
             <title><![CDATA[ন্যায়ের শাসন না ‘মগের মুল্লুক’]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdtsgrzx0yzc</link>
@@ -4442,14 +4451,6 @@
             <pubDate>Sun, 05 Apr 2026 02:30:11 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/M-Abdullah_tMHA7Bm.jpg" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/M-Abdullah_tMHA7Bm.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[শিশু-কিশোর অপরাধ ও আইনের সংশোধন]]></title>
-            <description><![CDATA[সাম্প্রতিক কালে দেশের আইনশৃঙ্খলা পরিস্থিতির অবনতি ঘটাইতেছে যে সকল অনাকাঙ্ক্ষিত ঘটনা, তাহার অন্যতম কারণ উঠতি বয়সি কিশোরগণের অপরাধপ্রবণতা। বিষয়টি এখন...]]></description>
-            <link>https://www.ittefaq.com.bd/782736/%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81-%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7-%E0%A6%93-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A6%A8</link>
-            <guid isPermaLink="true">https://www.ittefaq.com.bd/782736/%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81-%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7-%E0%A6%93-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A6%A8</guid>
-            <category><![CDATA[সম্পাদকীয়]]></category>
-            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
