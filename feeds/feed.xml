@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 20:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 21:26:23 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 20:26:10 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 21:26:23 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[কর কমিয়ে পোলট্রি শিল্প বিকাশে সহায়তা দিন]]></title>
+            <description><![CDATA[বাংলাদেশের অর্থনৈতিক উন্নয়নে প্রাণিসম্পদ খাতের উপখাত হিসেবে পোলট্রি খাত একটি গুরুত্বপূর্ণ ভূমিকা পালন করে চলেছে দীর্ঘকাল থেকে। দেশের গ্রামীণ পরিবারের গৃহস্থালি কাজের আয়বর্ধক উৎস এই পোলট্রি। একসময় আপামর জনসাধারণের সুলভে...]]></description>
+            <link>https://jatiyoarthoniti.com/2026/04/26/kr-kmize-poltri-silp-bikase-shazta-din</link>
+            <guid isPermaLink="true">https://jatiyoarthoniti.com/2026/04/26/kr-kmize-poltri-silp-bikase-shazta-din</guid>
+            <category><![CDATA[মত-দ্বিমত]]></category>
+            <pubDate>Sun, 26 Apr 2026 02:54:52 GMT</pubDate>
+            <media:content url="https://jatiyoarthoniti.com/uploads/2026/04/qctzce1eTlLyuX44eOHTmnSySqFLCKNxKTQTuizS.jpg?v=1777111112" medium="image"/>
+            <media:thumbnail url="https://jatiyoarthoniti.com/uploads/2026/04/qctzce1eTlLyuX44eOHTmnSySqFLCKNxKTQTuizS.jpg?v=1777111112"/>
+        </item>
         <item>
             <title><![CDATA[তেল ও সার সংকটে কৃষি উৎপাদনে শঙ্কা]]></title>
             <description><![CDATA[ড. জাহাঙ্গীর আলম: ইরান-আমেরিকা/ইসরায়েল যুদ্ধ দীর্ঘতর হচ্ছে। এর প্রভাব ছড়িয়ে পড়েছে উপসাগরীয় দেশগুলোতে। তাতে বিপর্যস্ত হচ্ছে জনজীবন; বিধ্বস্ত হচ্ছে অর্থনীতি। এ ধরনের সংঘাতের মানবিক ও অর্থনীতির ক্ষতি অনেক। ফলে মানুষের...]]></description>
@@ -4446,15 +4456,6 @@
             <pubDate>Tue, 07 Apr 2026 04:18:06 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/Aktaruzzaman_w6XJzQi.jpg" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/Aktaruzzaman_w6XJzQi.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ইরান যুদ্ধ থেকে জাতীয় নিরাপত্তার শিক্ষা]]></title>
-            <link>https://www.dailyamardesh.com/op-ed/amd5hxikj0gbz</link>
-            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/amd5hxikj0gbz</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Tue, 07 Apr 2026 04:07:00 GMT</pubDate>
-            <media:content url="https://images.dailyamardesh.com/original_images/rokon-1_Xa04Coc.jpg" medium="image"/>
-            <media:thumbnail url="https://images.dailyamardesh.com/original_images/rokon-1_Xa04Coc.jpg"/>
         </item>
     </channel>
 </rss>
