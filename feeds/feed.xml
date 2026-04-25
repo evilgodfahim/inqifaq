@@ -4,10 +4,19 @@
         <description><![CDATA[Editorial and opinion pieces from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 01:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 04:26:18 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 01:13:51 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 04:26:18 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[চিত্তরঞ্জন সুতারের রাষ্ট্রবিরোধী কর্মকাণ্ড থেকে শিক্ষা]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amd3gkn9dvruu</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amd3gkn9dvruu</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Sat, 25 Apr 2026 02:41:39 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/Rokon-Uddin.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Rokon-Uddin.jpg"/>
+        </item>
         <item>
             <title><![CDATA[এই বেশ ভালো আছি!]]></title>
             <description><![CDATA[মানবসভ্যতার ইতিহাসে এমন কিছু বন্ধ্যাত্বকাল তৈরি হয়, যাহা সহজে দূর হয় না। ২০২০-২০২১ সালে করোনাভাইরাস মহামারি, তাহার পর বিগত চার বৎসর ধরিয়া...]]></description>
@@ -4423,15 +4432,6 @@
             <pubDate>Mon, 06 Apr 2026 03:19:19 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/oil_nTSCg32.jpg" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/oil_nTSCg32.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[সরকার ও বিরোধী দলে যুদ্ধ কেন]]></title>
-            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdqtjr3kxpan</link>
-            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdqtjr3kxpan</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Mon, 06 Apr 2026 03:15:12 GMT</pubDate>
-            <media:content url="https://images.dailyamardesh.com/original_images/Syad-Abdal-Ahmad_jwIWV5e.jpg" medium="image"/>
-            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Syad-Abdal-Ahmad_jwIWV5e.jpg"/>
         </item>
     </channel>
 </rss>
