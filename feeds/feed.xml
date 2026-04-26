@@ -4,10 +4,19 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 09:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 10:35:11 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 09:42:32 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 10:35:11 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[তৃণমূলের শৃঙ্খলা ও দায়িত্বশীলতা: গণতান্ত্রিক অগ্রযাত্রার পূর্বশর্ত]]></title>
+            <link>https://www.mzamin.com/article/13125/তৃণমূলের-শৃঙ্খলা-ও-দায়িত্বশীলতা-গণতান্ত্রিক-অগ্রযাত্রার-পূর্বশর্ত</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/13125/তৃণমূলের-শৃঙ্খলা-ও-দায়িত্বশীলতা-গণতান্ত্রিক-অগ্রযাত্রার-পূর্বশর্ত</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/26042026/1777199455_asadujjaman.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/26042026/1777199455_asadujjaman.webp"/>
+        </item>
         <item>
             <title><![CDATA[কুষ্টিয়ায় সুফী শামিম ও কক্সবাজারে নয়ন সাধু হত্যা : কোন পথে দেশ ?]]></title>
             <description><![CDATA[কেউ আপনার মতের না হলে ভিন্ন মতের ভিন্ন দর্শনের হলে তাঁকে হত্যা করতে হবে কেন ? এই হত্যা কি মানবতার পক্ষে ? মানবাধিকারের পক্ষে ? অপরাধীরে বিচারের জন্য রাষ্ট্র রয়েছে,...]]></description>
@@ -4463,15 +4472,6 @@
             <pubDate>Wed, 08 Apr 2026 03:31:25 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/Sardar-Farid-Ahmed_kb0IDAN.jpg" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/Sardar-Farid-Ahmed_kb0IDAN.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[সিফফিনের প্রশ্ন—জুলাইয়ের উত্তর : পথের দ্বন্দ্ব]]></title>
-            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdqovvfgm2sm</link>
-            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdqovvfgm2sm</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Wed, 08 Apr 2026 03:16:16 GMT</pubDate>
-            <media:content url="https://images.dailyamardesh.com/original_images/Minar-Rashid.jpg" medium="image"/>
-            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Minar-Rashid.jpg"/>
         </item>
     </channel>
 </rss>
