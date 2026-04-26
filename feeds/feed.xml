@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 16:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 17:30:00 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 16:29:19 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 17:30:00 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[বিশ্ব অস্থিরতা ও আমাদের বেঁচে থাকার সংগ্রাম]]></title>
+            <description><![CDATA[বিশ্ব আজ এক গভীর অস্থিরতার সময় অতিক্রম করছে, যেখানে যুদ্ধ, অর্থনৈতিক সংকট, জলবায়ু পরিবর্তন, রাজনৈতিক অস্থিরতা এবং জনস্বাস্থ্য সংকট একে অপরের সঙ্গে জড়িয়ে একটি জটিল বাস্তবতা তৈরি করেছে। এই অস্থিরতা শুধু উন্নয়নশীল দেশগুলোর জন্য নয়, বরং উন্নত বিশ্বকেও নাড়িয়ে দিচ্ছে। এমন বৈশ্বিক প্রেক্ষাপটে আমাদের মতো একটি সম্ভাবনাময় দেশও...]]></description>
+            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/136605</link>
+            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/136605</guid>
+            <category><![CDATA[মুক্তবাক]]></category>
+            <pubDate>Sat, 25 Apr 2026 00:58:00 GMT</pubDate>
+            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sonnet-Dev-20260425005859.webp" medium="image"/>
+            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sonnet-Dev-20260425005859.webp"/>
+        </item>
         <item>
             <title><![CDATA[তৃণমূলের শৃঙ্খলা ও দায়িত্বশীলতা: গণতান্ত্রিক অগ্রযাত্রার পূর্বশর্ত]]></title>
             <link>https://www.mzamin.com/article/13125/তৃণমূলের-শৃঙ্খলা-ও-দায়িত্বশীলতা-গণতান্ত্রিক-অগ্রযাত্রার-পূর্বশর্ত</link>
@@ -4463,15 +4473,6 @@
             <pubDate>Wed, 08 Apr 2026 03:39:43 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/skt_vXORt9y.jpg" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/skt_vXORt9y.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ক্ষমতা বনাম জনগণ : ইতিহাসের পুনরাবৃত্তি]]></title>
-            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdyeomuiwnlj</link>
-            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdyeomuiwnlj</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Wed, 08 Apr 2026 03:31:25 GMT</pubDate>
-            <media:content url="https://images.dailyamardesh.com/original_images/Sardar-Farid-Ahmed_kb0IDAN.jpg" medium="image"/>
-            <media:thumbnail url="https://images.dailyamardesh.com/original_images/Sardar-Farid-Ahmed_kb0IDAN.jpg"/>
         </item>
     </channel>
 </rss>
