@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 04:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 06:53:32 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 04:50:10 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 06:53:32 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[পশুশক্তির আস্ফালন নয়]]></title>
+            <description><![CDATA[রাজশাহীর দুর্গাপুর উপজেলার দাওকান্দি সরকারি কলেজে বিএনপির নেতাদের মারধরের শিকার হয়েছেন অধ্যক্ষ ও একজন নারী প্রদর্শক। এ-সংক্রান্ত ভিডিওটি সোশ্যাল মিডিয়ায় প্রচারিত না হলে বোঝা যেত না, কি রকম নিন্দনীয় কাজ করেছেন এই বিএনপি নেতারা। অভিযোগ করা হয়েছে, বিএনপির এই নেতারা কলেজে এসেছিলেন চাঁদা চাইতে।]]></description>
+            <link>https://www.ajkerpatrika.com/op-ed/editorial/ajpq3emigwf1p</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/op-ed/editorial/ajpq3emigwf1p</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Sun, 26 Apr 2026 06:53:29 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/smpdky.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/smpdky.jpg"/>
+        </item>
         <item>
             <title><![CDATA[গণভোট বাতিলের পরিণতি]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdq8g2szjqsn</link>
@@ -4461,16 +4471,6 @@
             <pubDate>Wed, 08 Apr 2026 10:23:31 GMT</pubDate>
             <media:content url="https://jatiyoarthoniti.com/uploads/files/yHn3sxLF4f7m1sIcYdK5jzxxXFSWqCtldGedepTD.jpg" medium="image"/>
             <media:thumbnail url="https://jatiyoarthoniti.com/uploads/files/yHn3sxLF4f7m1sIcYdK5jzxxXFSWqCtldGedepTD.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[বিশ্ব বাণিজ্য সংস্থার চতুর্দশ বৈঠক আমাদের শেষ রক্ষার চেষ্টা]]></title>
-            <description><![CDATA[বহুপক্ষীয় প্রতিষ্ঠান হিসেবে বিশ্ব বাণিজ্য সংস্থা (ডব্লিউটিও) আপাতত রক্ষা পেয়েছে। কিন্তু এর বিনিময়ে কিছু করা বা না করার সম্মত হওয়ায় তার মূল্যও দিতে হয়েছে। এমসি ১৪-এর মূলমন্ত্র ছিল ‘বিশ্ব বাণিজ্য...]]></description>
-            <link>https://jatiyoarthoniti.com/2026/04/08/bisw-banijz-sngsthar-cturds-boithk-amader-sesh-rkshar-ceshta</link>
-            <guid isPermaLink="true">https://jatiyoarthoniti.com/2026/04/08/bisw-banijz-sngsthar-cturds-boithk-amader-sesh-rkshar-ceshta</guid>
-            <category><![CDATA[মত-দ্বিমত]]></category>
-            <pubDate>Wed, 08 Apr 2026 08:39:35 GMT</pubDate>
-            <media:content url="https://jatiyoarthoniti.com/uploads/files/i55V2sGzFbtlqDCKurFsLfRxIFJL3LVSmOCR6NSh.jpg" medium="image"/>
-            <media:thumbnail url="https://jatiyoarthoniti.com/uploads/files/i55V2sGzFbtlqDCKurFsLfRxIFJL3LVSmOCR6NSh.jpg"/>
         </item>
     </channel>
 </rss>
