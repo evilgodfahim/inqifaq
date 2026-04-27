@@ -4,10 +4,18 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 23:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 01:23:58 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 23:28:36 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 01:23:58 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[কৃষির কান্না, রাষ্ট্রের পরীক্ষা]]></title>
+            <description><![CDATA[যুদ্ধবিগ্রহের অভিঘাতে জ্বালানি ও সারের সংকট বাংলাদেশের ন্যায় কৃষিনির্ভর দেশগুলিকে ঠেলিয়া দিতেছে এক গভীর অনিশ্চয়তার দিকে। এই সকল দেশে একদিকে ডিজেলের...]]></description>
+            <link>https://www.ittefaq.com.bd/786134/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE</link>
+            <guid isPermaLink="true">https://www.ittefaq.com.bd/786134/%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE</guid>
+            <category><![CDATA[সম্পাদকীয়]]></category>
+            <pubDate>Mon, 27 Apr 2026 00:04:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[নিম্নমানের রেল ইঞ্জিন ক্রয়ে দায়ীদের শাস্তির আওতায় আনা হোক]]></title>
             <description><![CDATA[দেশের মানুষের নিরাপদ ও সাশ্রয়ী যাতায়াতের প্রধান ভরসা বাংলাদেশ রেলওয়ে আজ এক চরম সংকটে। একের পর এক লোকসানে ডুবতে থাকা এই রাষ্ট্রীয় সংস্থাটি এখন কার্যত একটি রুগ্ন প্রতিষ্ঠানে পরিণত হয়েছে।...]]></description>
@@ -4454,16 +4462,6 @@
             <guid isPermaLink="true">https://jobanmagazine.com/2024/05/21/%e0%a6%b0%e0%a6%be%e0%a6%9c%e0%a6%a8%e0%a7%88%e0%a6%a4%e0%a6%bf%e0%a6%95%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%95%e0%a7%87-%e0%a6%a8%e0%a6%bf%e0%a6%af%e0%a6%bc/</guid>
             <category><![CDATA[চলতি চিন্তা]]></category>
             <pubDate>Thu, 09 Apr 2026 19:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বায়ু গুহা]]></title>
-            <description><![CDATA[হারুকি মুরাকামি বর্তমান সময়ের সবচেয়ে জনপ্রিয় সাহিত্যিক। মুরাকামির এই গল্পটি ০৩ সেপ্টেম্বর ২০১৮ সাহিত্য পত্রিকা…]]></description>
-            <link>https://jobanmagazine.com/2020/12/17/19475/</link>
-            <guid isPermaLink="true">https://jobanmagazine.com/2020/12/17/19475/</guid>
-            <category><![CDATA[চলতি চিন্তা]]></category>
-            <pubDate>Thu, 09 Apr 2026 19:54:53 GMT</pubDate>
-            <media:content url="https://jobanmagazine.com/wp-content/uploads/2020/12/wind_cave_joban.jpg" medium="image"/>
-            <media:thumbnail url="https://jobanmagazine.com/wp-content/uploads/2020/12/wind_cave_joban.jpg"/>
         </item>
     </channel>
 </rss>
