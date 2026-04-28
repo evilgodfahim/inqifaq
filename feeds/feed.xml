@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 12:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 17:28:46 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 12:19:17 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 17:28:46 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[স্যাটেলাইট সেবায় যুক্তরাষ্ট্রের একচেটিয়া আধিপত্য কেড়ে নিল ইরান যুদ্ধ]]></title>
+            <description><![CDATA[ইরান যুদ্ধ বিশ্বকে দেখিয়ে দিয়েছে, মহাকাশভিত্তিক তথ্য নিয়ন্ত্রণে যুক্তরাষ্ট্রের দীর্ঘদিনের প্রভাব আর আগের মতো অটুট নেই। সাম্প্রতিক এই সংঘাত শুধু সামরিক শক্তির লড়াই নয়, বরং তথ্য ও নজরদারির ওপর নিয়ন্ত্রণ নিয়েও এক নীরব প্রতিযোগিতা চলছে পৃথিবীর কক্ষপথে।]]></description>
+            <link>https://www.ajkerpatrika.com/analysis/ajpu1she6ndn0</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/analysis/ajpu1she6ndn0</guid>
+            <category><![CDATA[বিশ্লেষণ]]></category>
+            <pubDate>Tue, 28 Apr 2026 17:28:46 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/Untitled-3_P2WgCrE.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/Untitled-3_P2WgCrE.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ফাইন্যান্সিয়াল টাইমসের নিবন্ধ /]]></title>
             <description><![CDATA[অর্থ সংকটে জর্জরিত পাকিস্তান যখন ইরানের বিরুদ্ধে যুক্তরাষ্ট্র-ইসরায়েলের যুদ্ধের অবসান ঘটানোর মধ্যস্থতার চেষ্টায় ব্যস্ত, তখন দেশটির দীর্ঘদিনের মিত্র সংযুক্ত আরব আমিরাত হঠাৎ এক চমকপ্রদ দাবি তোলে। তাৎক্ষণিকভাবে সাড়ে ৩ বিলিয়ন ডলার ঋণ পরিশোধ করতে হবে।]]></description>
@@ -4487,14 +4497,6 @@
             <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
             <media:content url="https://mzamin.com/uploads/news/09042026/1775742031_pic-DuSafiullahSir.webp" medium="image"/>
             <media:thumbnail url="https://mzamin.com/uploads/news/09042026/1775742031_pic-DuSafiullahSir.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[শিক্ষার সংকট, অনলাইনের ফাঁদ ও পুনরুদ্ধারের চ্যালেঞ্জ]]></title>
-            <description><![CDATA[বাংলাদেশের শিক্ষা ব্যবস্থার সাম্প্রতিক ইতিহাস পর্যালোচনা করলে স্পষ্টভাবে বোঝা যায়, গত দেড় যুগে আমরা বারবার নানা পরীক্ষামূলক পদ্ধতি গ্রহণ করেছি, কিন্তু তার অধিকাংশই শিক্ষার গুণগত উন্নয়ন নিশ্চিত করতে পারেনি। বরং এসব পরিবর্তন, নীতির অস্থিরতা এবং বাস্তবায়নের দুর্বলতা মিলিয়ে শিক্ষার মানকে ধীরে ধীরে নিম্নমুখী করেছে। একটি জাতির ভবিষ্যৎ তার শিক্ষার ওপর...]]></description>
-            <link>https://mzamin.com/article/9783/শিক্ষার-সংকট-অনলাইনের-ফাঁদ-ও-পুনরুদ্ধারের-চ্যালেঞ্জ</link>
-            <guid isPermaLink="true">https://mzamin.com/article/9783/শিক্ষার-সংকট-অনলাইনের-ফাঁদ-ও-পুনরুদ্ধারের-চ্যালেঞ্জ</guid>
-            <category><![CDATA[মত-মতান্তর]]></category>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
