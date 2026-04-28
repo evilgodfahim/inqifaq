@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 05:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 08:03:14 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 05:19:47 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 08:03:14 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[পশ্চিমবঙ্গে নির্বাচন: এসআইআর আতঙ্ক, বাঙালি অহং এবং পরিচয়ের তালগোল পাকানো রাজনীতি]]></title>
+            <description><![CDATA[পশ্চিমবঙ্গ বিধানসভা নির্বাচনে বড় ইস্যুর ধার যেন ভোঁতা হয়ে গেছে রাজ্যের অসম, ভাঙাচোরা বাস্তবতায়। নির্বাচন কমিশনের বিতর্কিত স্পেশাল ইনটেনসিভ রিভিশন বা বিশেষ নিবিড় সংশোধনী (এসআইআর) ঘিরে যে প্রশ্ন, তা কোনোভাবেই এড়ানো যায় না। গণতান্ত্রিক চুক্তির কেন্দ্রবিন্দু হিসেবে নাগরিকের ভোটাধিকার অবাধ ও সুষ্ঠু]]></description>
+            <link>https://www.ajkerpatrika.com/analysis/ajpbgtasla7w8</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/analysis/ajpbgtasla7w8</guid>
+            <category><![CDATA[বিশ্লেষণ]]></category>
+            <pubDate>Tue, 28 Apr 2026 08:03:14 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/West-Bengal-Assembly-election.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/West-Bengal-Assembly-election.jpg"/>
+        </item>
         <item>
             <title><![CDATA[গুপ্ত ও নির্মূলের রাজনীতি]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdpewkhxdd6u</link>
@@ -4484,15 +4494,6 @@
             <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
             <media:content url="https://mzamin.com/uploads/news/09042026/1775721328_1775283480_bm-4.webp" medium="image"/>
             <media:thumbnail url="https://mzamin.com/uploads/news/09042026/1775721328_1775283480_bm-4.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[আওয়ামী লীগ নিষিদ্ধ: জনরায়, নাকি রাজনৈতিক হিসাব]]></title>
-            <link>https://mzamin.com/article/9754/আওয়ামী-লীগ-নিষিদ্ধ-জনরায়-নাকি-রাজনৈতিক-হিসাব</link>
-            <guid isPermaLink="true">https://mzamin.com/article/9754/আওয়ামী-লীগ-নিষিদ্ধ-জনরায়-নাকি-রাজনৈতিক-হিসাব</guid>
-            <category><![CDATA[মত-মতান্তর]]></category>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <media:content url="https://mzamin.com/uploads/news/09042026/1775711897_bm-5.webp" medium="image"/>
-            <media:thumbnail url="https://mzamin.com/uploads/news/09042026/1775711897_bm-5.webp"/>
         </item>
     </channel>
 </rss>
