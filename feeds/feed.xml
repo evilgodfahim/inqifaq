@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 13:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 15:51:40 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 13:18:01 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 15:51:40 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[‘ওপেক’-এর পর আমিরাত কি অন্যান্য জোটও ত্যাগ করবে]]></title>
+            <description><![CDATA[বহুপক্ষীয় সংগঠনগুলোর সঙ্গে নিজেদের সম্পর্ক ও ভূমিকা পুনর্মূল্যায়ন করছে সংযুক্ত আরব আমিরাত। তেল রপ্তানিকারক দেশগুলোর সংগঠন ‘ওপেক’ থেকে বেরিয়ে যাওয়ার পর আমিরাতের আপাতত আর কোনো সংগঠন থেকে বেরিয়ে যাওয়ার পরিকল্পনা নেই বলে জানিয়েছেন দেশটির এক কর্মকর্তা।]]></description>
+            <link>https://www.ajkerpatrika.com/analysis/ajpjyjmagzvm7</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/analysis/ajpjyjmagzvm7</guid>
+            <category><![CDATA[বিশ্লেষণ]]></category>
+            <pubDate>Wed, 29 Apr 2026 15:51:40 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/UAE-reviewing-multilateral-ties.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/UAE-reviewing-multilateral-ties.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ভ্যাটিকানের দ্বারস্থ সিলিকন ভ্যালি, ধর্ম ও বিজ্ঞানের বিরোধ কি মিটে যাচ্ছে]]></title>
             <description><![CDATA[১৬৩৩ সালে গ্যালিলিও গ্যালিলি যখন পৃথিবী সূর্যের চারদিকে ঘোরে—এই বৈজ্ঞানিক সত্য প্রচারের জন্য রোমের ক্যাথলিক চার্চের হাতে নির্যাতিত হয়েছিলেন, তখন বিজ্ঞান ও ধর্মের সংঘাত চূড়ান্ত রূপ নিয়েছিল। প্রায় চার শতাব্দী পর প্রেক্ষাপট নাটকীয়ভাবে বদলে গেছে। আজ খোদ সিলিকন ভ্যালির প্রযুক্তিবিদেরা তাঁদের তৈরি]]></description>
@@ -4485,14 +4495,6 @@
             <pubDate>Tue, 14 Apr 2026 06:45:49 GMT</pubDate>
             <media:content url="https://images.dailyamardesh.com/original_images/mrsd-gnr-chb.jpg" medium="image"/>
             <media:thumbnail url="https://images.dailyamardesh.com/original_images/mrsd-gnr-chb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ঐতিহ্য, অবক্ষয় ও অযাচিত বিতর্ক]]></title>
-            <description><![CDATA[বাংলা নববর্ষ বাঙালি সংস্কৃতির প্রাণস্পন্দন। এটি কেবল বর্ষ—পরিক্রমার সূচনা নয়; বরং ভাষা, জাতিসত্তা ও আবহমান ঐতিহ্যের এক গভীর প্রতীক। সংকটাকীর্ণ...]]></description>
-            <link>https://www.ittefaq.com.bd/784255/%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%9F-%E0%A6%93-%E0%A6%85%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95</link>
-            <guid isPermaLink="true">https://www.ittefaq.com.bd/784255/%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%9F-%E0%A6%93-%E0%A6%85%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95</guid>
-            <category><![CDATA[মামুন চাকলাদার]]></category>
-            <pubDate>Tue, 14 Apr 2026 06:28:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
