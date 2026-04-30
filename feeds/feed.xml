@@ -4,10 +4,19 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 10:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 12:07:59 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 10:03:56 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 12:07:59 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[নারী শ্রমের অবমূল্যায়ন: বাংলাদেশের প্রেক্ষাপট]]></title>
+            <link>https://www.dailyamardesh.com/op-ed/amdxylxptx33b</link>
+            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/amdxylxptx33b</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Thu, 30 Apr 2026 10:35:15 GMT</pubDate>
+            <media:content url="https://images.dailyamardesh.com/original_images/777_Bj1BDH4.jpg" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/777_Bj1BDH4.jpg"/>
+        </item>
         <item>
             <title><![CDATA[দেশের খাদ্য নিরাপত্তা নিশ্চিতে হাওরাঞ্চলের সুরক্ষা জরুরি]]></title>
             <link>https://www.mzamin.com/article/13763/দেশের-খাদ্য-নিরাপত্তা-নিশ্চিতে-হাওরাঞ্চলের-সুরক্ষা-জরুরি</link>
@@ -4520,13 +4529,6 @@
             <title><![CDATA[ইরান বনাম অদূরদর্শী এক বিশ্ব মোড়ল]]></title>
             <link>https://dailysangram.com/opinion/column/BKvVgjF8NP9I/</link>
             <guid isPermaLink="true">https://dailysangram.com/opinion/column/BKvVgjF8NP9I/</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বিচার বিভাগ আবার শৃঙ্খলিত হলো]]></title>
-            <link>https://dailysangram.com/opinion/column/cyQUhZPXMTE5/</link>
-            <guid isPermaLink="true">https://dailysangram.com/opinion/column/cyQUhZPXMTE5/</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Tue, 14 Apr 2026 11:58:12 GMT</pubDate>
         </item>
