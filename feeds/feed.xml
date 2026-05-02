@@ -4,10 +4,19 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 01:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 04:50:21 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 01:25:56 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 04:50:21 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[মে দিবসের চেতনা: কেবলই আনুষ্ঠানিকতা নয়, প্রয়োজন সংগঠিত সামাজিক কর্মসূচি]]></title>
+            <link>https://www.mzamin.com/article/14035/মে-দিবসের-চেতনা-কেবলই-আনুষ্ঠানিকতা-নয়-প্রয়োজন-সংগঠিত-সামাজিক-কর্মসূচি</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/14035/মে-দিবসের-চেতনা-কেবলই-আনুষ্ঠানিকতা-নয়-প্রয়োজন-সংগঠিত-সামাজিক-কর্মসূচি</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/02052026/1777691618_shayrul.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/02052026/1777691618_shayrul.webp"/>
+        </item>
         <item>
             <title><![CDATA[বুলেট বৈরাগীর মৃত্যু, হাজার প্রশ্ন: আমরা কি নিরাপদ?]]></title>
             <link>https://jatiyoarthoniti.com/2026/05/01/bulet-boirageer-mrritzu-hajar-prsn-amra-ki-nirapd</link>
@@ -4516,16 +4525,6 @@
             <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
             <media:content url="https://mzamin.com/uploads/news/15042026/1776229176_vnc.webp" medium="image"/>
             <media:thumbnail url="https://mzamin.com/uploads/news/15042026/1776229176_vnc.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[মাদক ও অনলাইন জুয়া : ধ্বংসের দ্বারপ্রান্তে যুবসমাজ’]]></title>
-            <description><![CDATA[বাংলাদেশের গ্রাম থেকে শহরÑ সবখানেই আজ এক নীরব বিপর্যয়ের নাম মাদক। মাদকের টাকা সংগ্রহ করতে, মাদকের বিকিকিনি করতে একটি মহল রাতদিন তৎপর। বিশেষ করে দক্ষিণ চট্টগ্রামের জনপদগুলোতে পরিস্থিতি এমন পর্যায়ে পৌঁছেছে যে, অনেক এলাকায় চুরি-ডাকাতি, মাদক ঠেকাতে এলাকাবাসীকে রাত জেগে পাহারা দিতে হচ্ছে। একটি সমাজ কতটা অরক্ষিত হলে...]]></description>
-            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/133215</link>
-            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/133215</guid>
-            <category><![CDATA[মুক্তবাক]]></category>
-            <pubDate>Sun, 12 Apr 2026 05:53:00 GMT</pubDate>
-            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sibbir-Ahmed-Rana-20260412055353.webp" medium="image"/>
-            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Sibbir-Ahmed-Rana-20260412055353.webp"/>
         </item>
     </channel>
 </rss>
