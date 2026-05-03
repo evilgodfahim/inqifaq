@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 14:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 15:37:05 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 14:04:48 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 15:37:05 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[ইসলামী ব্যাংকিং: কাঠামোগত চ্যালেঞ্জ ও কৌশলগত করণীয়]]></title>
+            <description><![CDATA[বাংলাদেশের শরিয়াহভিত্তিক ব্যাংকিং খাত সাম্প্রতিক বছরগুলোতে এক জটিল ও দ্বৈত বাস্তবতার মধ্য দিয়ে অগ্রসর হচ্ছে। একদিকে রয়েছে আস্থার ঘাটতি ও কাঠামোগত সীমাবদ্ধতা, অন্যদিকে রয়েছে পুনরুদ্ধার, স্থিতিশীলতা ও প্রবৃদ্ধির সুস্পষ্ট সম্ভাবনা।]]></description>
+            <link>https://jatiyoarthoniti.com/2026/05/03/islamee-bzangking-kathamogt-czalenj-oo-kouslgt-krneey</link>
+            <guid isPermaLink="true">https://jatiyoarthoniti.com/2026/05/03/islamee-bzangking-kathamogt-czalenj-oo-kouslgt-krneey</guid>
+            <category><![CDATA[মত-দ্বিমত]]></category>
+            <pubDate>Sun, 03 May 2026 20:49:19 GMT</pubDate>
+            <media:content url="https://jatiyoarthoniti.com/uploads/2026/05/xLjkb1c9HQNgLBAavAC2hc9NW80qvwOdz0zvUpGv.webp?v=1777819259" medium="image"/>
+            <media:thumbnail url="https://jatiyoarthoniti.com/uploads/2026/05/xLjkb1c9HQNgLBAavAC2hc9NW80qvwOdz0zvUpGv.webp?v=1777819259"/>
+        </item>
         <item>
             <title><![CDATA[মোড়কের আড়ালে স্বাস্থ্যঝুঁকি]]></title>
             <link>https://www.mzamin.com/article/14322/মোড়কের-আড়ালে-স্বাস্থ্যঝুঁকি</link>
@@ -4538,16 +4548,6 @@
             <pubDate>Fri, 17 Apr 2026 01:51:38 GMT</pubDate>
             <media:content url="https://jatiyoarthoniti.com/uploads/files/Fkupm21zrE00h1HgfbNXEAUU8biFiSaD88CFjvgF.webp" medium="image"/>
             <media:thumbnail url="https://jatiyoarthoniti.com/uploads/files/Fkupm21zrE00h1HgfbNXEAUU8biFiSaD88CFjvgF.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[নতুন বিনিয়োগকারীদের জন্য পুঁজিবাজারের প্রাথমিক পাঠ]]></title>
-            <description><![CDATA[হাসানুজ্জামান পিয়াস ।। পুঁজিবাজার এমন একটি স্থান, যেখানে মানুষের সঞ্চিত অর্থ বিভিন্ন কোম্পানি ও প্রতিষ্ঠানের মাধ্যমে বিনিয়োগের সুযোগ পায়। অনেকের কাছে পুঁজিবাজার মানে শুধু শেয়ার কেনাবেচা, দাম ওঠানামা বা দ্রুত...]]></description>
-            <link>https://jatiyoarthoniti.com/2026/04/17/ntun-biniyogkareeder-jnz-punnjibajarer-prathmik-path</link>
-            <guid isPermaLink="true">https://jatiyoarthoniti.com/2026/04/17/ntun-biniyogkareeder-jnz-punnjibajarer-prathmik-path</guid>
-            <category><![CDATA[মত-দ্বিমত]]></category>
-            <pubDate>Fri, 17 Apr 2026 00:24:50 GMT</pubDate>
-            <media:content url="https://jatiyoarthoniti.com/uploads/files/mK3XfGJlbhiSWOzSrSITc00wVcnwwL9JFJWy9URz.webp" medium="image"/>
-            <media:thumbnail url="https://jatiyoarthoniti.com/uploads/files/mK3XfGJlbhiSWOzSrSITc00wVcnwwL9JFJWy9URz.webp"/>
         </item>
     </channel>
 </rss>
