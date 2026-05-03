@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 07:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 09:11:22 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 07:44:37 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 09:11:22 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[সিএনএনের বিশ্লেষণ /]]></title>
+            <description><![CDATA[ইরান যুদ্ধের বাস্তব চিত্রে স্পষ্ট কোনো বিজয়ী নেই; বরং ইরানের জনগণ, লেবানন, উপসাগরীয় দেশ, যুক্তরাষ্ট্রের নাগরিক ও বৈশ্বিক অর্থনীতি বড় ক্ষতির মুখে পড়েছে, আর চীন, জ্বালানি কোম্পানি ও আংশিকভাবে রাশিয়া কিছু কৌশলগত ও অর্থনৈতিক সুবিধা পেলেও দীর্ঘমেয়াদে অনিশ্চয়তা রয়ে গেছে।]]></description>
+            <link>https://www.ajkerpatrika.com/analysis/ajpqirdj6leuc</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/analysis/ajpqirdj6leuc</guid>
+            <category><![CDATA[বিশ্লেষণ]]></category>
+            <pubDate>Sun, 03 May 2026 09:11:22 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/iran-oil-vs-us.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/iran-oil-vs-us.jpg"/>
+        </item>
         <item>
             <title><![CDATA[মধ্যপ্রাচ্য সংকট, বিশ্ব সাপ্লাই চেইন ভেঙে পড়ার আশঙ্কা]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amd8z5m1zns3e</link>
@@ -4526,13 +4536,6 @@
             <title><![CDATA[সরকার প্রধান ধর্মকে উচ্চকিত করছেন]]></title>
             <link>https://dailysangram.com/opinion/column/jiq43UahedQz/</link>
             <guid isPermaLink="true">https://dailysangram.com/opinion/column/jiq43UahedQz/</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Thu, 16 Apr 2026 18:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ইরান-আমেরিকা নতুন আলোচনার সম্ভাবনা]]></title>
-            <link>https://dailysangram.com/opinion/column/dWAz8qM7PdIu/</link>
-            <guid isPermaLink="true">https://dailysangram.com/opinion/column/dWAz8qM7PdIu/</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 16 Apr 2026 18:02:09 GMT</pubDate>
         </item>
