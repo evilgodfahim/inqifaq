@@ -4,10 +4,20 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 18:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 19:45:32 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 18:41:50 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 19:45:32 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[ইরানের ১৪ দফা কি যুদ্ধ থামাতে পারবে]]></title>
+            <description><![CDATA[গত বৃহস্পতিবার রাতে তেহরান এই প্রস্তাব পাকিস্তানের কাছে পাঠায়। এর আগে দুই দেশের মধ্যে যুদ্ধবিরতির বিষয়ে পাকিস্তানই মধ্যস্থতা করেছিল। ইরানি বার্তা সংস্থা তাসনিম নিউজের তথ্য অনুযায়ী, যুক্তরাষ্ট্রের ৯ দফা শান্তি প্রস্তাবের বিপরীতে ইরান এই ১৪ দফা পরিকল্পনা পেশ করেছে।]]></description>
+            <link>https://www.ajkerpatrika.com/analysis/ajpkrehhbuq0b</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/analysis/ajpkrehhbuq0b</guid>
+            <category><![CDATA[বিশ্লেষণ]]></category>
+            <pubDate>Sun, 03 May 2026 19:45:32 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/Untitled-2_6PJMaeG.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/Untitled-2_6PJMaeG.jpg"/>
+        </item>
         <item>
             <title><![CDATA[রাস্তা অবরোধ বন্ধ করতে হবে]]></title>
             <description><![CDATA[চট্টগ্রামে আজিম গ্রুপ নামের একটি প্রতিষ্ঠানের শ্রমিকরা বকেয়া ওভারটাইমসহ বিভিন্ন দাবিতে গত শনিবার চাঁদগাঁও থানার সিঅ্যান্ডবি মোড় এলাকায় রাস্তা অবরোধ করে বিক্ষোভ প্রদর্শন করে। সকাল সাড়ে ১১টায় শুরু হওয়া এই অবরোধ ও বিক্ষোভ চলে প্রায় ৫ ঘণ্টা। এই দীর্ঘ সময় যানচলাচল প্রায় বন্ধ হয়ে যায় এবং নগরজুড়ে যানজটের সৃষ্টি হয়। এতে বিভিন্ন শ্রেণি-পেশার মানুষের অশেষ দুর্ভোগের শিকার হতে হয়। অত্যন্ত...]]></description>
@@ -4535,15 +4545,6 @@
             <guid isPermaLink="true">https://dailysangram.com/opinion/column/Krmo25mxiMIh/</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Fri, 17 Apr 2026 18:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বিপর্যয়ের মুখে লেবার পার্টি]]></title>
-            <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdojtgvg0eiv</link>
-            <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdojtgvg0eiv</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Fri, 17 Apr 2026 06:43:48 GMT</pubDate>
-            <media:content url="https://images.dailyamardesh.com/original_images/strmr.jpg" medium="image"/>
-            <media:thumbnail url="https://images.dailyamardesh.com/original_images/strmr.jpg"/>
         </item>
     </channel>
 </rss>
