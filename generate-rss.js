@@ -40,8 +40,21 @@ function parseDate(raw) {
   // Strip parenthetical day-of-week: "১১ এপ্রিল (শনিবার), ২০২৬" → "১১ এপ্রিল ২০২৬"
   let str = raw.trim().replace(/\s*\([^)]+\),?\s*/g, ' ').trim();
 
+  // Strip "প্রকাশ: " / "আপডেট: " prefixes (Khoborer Kagoj)
+  str = str.replace(/^(প্রকাশ|আপডেট)\s*:\s*/u, '').trim();
+
   // Normalise space-separated datetime → ISO T form
   str = str.replace(/^(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}:\d{2})$/, '$1T$2');
+
+  // DD-MM-YYYY HH:MM:SS (Dhaka Mail datePublished: "03-05-2026 13:23:25")
+  const dmRe = /^(\d{2})-(\d{2})-(\d{4}) (\d{2}):(\d{2}):(\d{2})$/;
+  const dmm  = str.match(dmRe);
+  if (dmm) {
+    return new Date(
+      parseInt(dmm[3]), parseInt(dmm[2]) - 1, parseInt(dmm[1]),
+      parseInt(dmm[4]), parseInt(dmm[5]), parseInt(dmm[6])
+    );
+  }
 
   // ISO 8601 (includes +06:00 offset variants from AjkerPatrika)
   if (/^\d{4}-\d{2}-\d{2}T/.test(str)) {
@@ -656,6 +669,311 @@ function scrapeAjkerPatrika(html, seen, catLabel) {
   return items;
 }
 
+// ===== SCRAPER: DAINIK NAYA DIGANTA – মতামত =====
+// URL: https://dailynayadiganta.com/opinions
+// Framework: SvelteKit SSR
+//
+// Per article card:
+//   Container  → article.p-4
+//   Link/Title → h3.post-card-title a[href]  (absolute URL)
+//   Image      → img[src] inside a[data-sveltekit-reload] (the image anchor)
+//   Category   → derived from URL path:
+//                  /opinions/editorial/     → "সম্পাদকীয়"
+//                  /opinions/sub-editorial/ → "উপসম্পাদকীয়"
+//                  other                    → "মতামত"
+//   No date or description in listing view
+
+const ND_BASE = "https://dailynayadiganta.com";
+const ND_SUBCAT_MAP = {
+  "editorial":     "সম্পাদকীয়",
+  "sub-editorial": "উপসম্পাদকীয়",
+};
+
+function scrapeNayaDiganta(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  $("article.p-4").each((_, el) => {
+    const $el = $(el);
+
+    // Title & link from h3 anchor
+    const $titleAnchor = $el.find("h3.post-card-title a").first();
+    const href         = ($titleAnchor.attr("href") || "").trim();
+    if (!href) return;
+
+    const link = href.startsWith("http") ? href : ND_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    const title = $titleAnchor.text().trim();
+    if (!title) return;
+
+    // Image from the image-link anchor
+    const image = $el.find("a[data-sveltekit-reload] img").first().attr("src") || null;
+
+    // Category from URL path segment
+    const pathSegment = href.split("/opinions/")?.[1]?.split("/")?.[0] || "";
+    const category    = ND_SUBCAT_MAP[pathSegment] || "মতামত";
+
+    items.push({
+      title,
+      link,
+      description: "",
+      image,
+      date:     new Date(),
+      category,
+    });
+  });
+
+  console.log(`  [NayaDiganta] Scraped ${items.length} articles`);
+  return items;
+}
+
+// ===== SCRAPER: JAGO NEWS 24 – মতামত =====
+// URL: https://www.jagonews24.com/opinion
+// Framework: Custom PHP (SSR)
+//
+// Two zones on the same page:
+//   Lead  → div.lead-article > a[href]
+//           Image: img[data-src]  (lazy; src is placeholder)
+//           Title: div.inner-content h3
+//
+//   List  → ul.news-list > li > a[href]
+//           Image: img[data-src]
+//           Title: h3.news-title
+//
+// Links come as mobile URLs (/m/opinion/article/ID) → normalized to desktop
+// No dates or descriptions in listing view
+
+const JAGO_BASE = "https://www.jagonews24.com";
+
+function normalizeJagoUrl(href) {
+  if (!href) return null;
+  const full = href.startsWith("http") ? href : JAGO_BASE + href;
+  // /m/opinion/article/ID  →  /opinion/article/ID
+  return full.replace("jagonews24.com/m/", "jagonews24.com/");
+}
+
+function scrapeJagoNews(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  // ── Lead article ──────────────────────────────────────────────────────────
+  const $lead = $("div.lead-article > a").first();
+  if ($lead.length) {
+    const link = normalizeJagoUrl($lead.attr("href"));
+    if (link && !seen.has(link)) {
+      seen.add(link);
+      const title = $lead.find("div.inner-content h3").text().trim();
+      const image = $lead.find("img").first().attr("data-src") || null;
+      if (title) {
+        items.push({ title, link, description: "", image, date: new Date(), category: "মতামত" });
+      }
+    }
+  }
+
+  // ── News list ──────────────────────────────────────────────────────────────
+  $("ul.news-list > li > a").each((_, el) => {
+    const $a  = $(el);
+    const link = normalizeJagoUrl($a.attr("href"));
+    if (!link || seen.has(link)) return;
+    seen.add(link);
+
+    const title = $a.find("h3.news-title").text().trim();
+    if (!title) return;
+
+    const image = $a.find("img").first().attr("data-src") || null;
+
+    items.push({ title, link, description: "", image, date: new Date(), category: "মতামত" });
+  });
+
+  console.log(`  [JagoNews24] Scraped ${items.length} articles`);
+  return items;
+}
+
+// ===== SCRAPER: DHAKA POST – মতামত =====
+// URL: https://www.dhakapost.com/opinion
+// Framework: Next.js RSC (App Router)
+//
+// Article data in `initialContents` JSON array embedded in RSC payload scripts.
+// Fields per item:
+//   Heading       → title
+//   URL           → absolute link (https://www.dhakapost.com/opinion/ID)
+//   ImagePathMd   → image (560×315)
+//   Brief         → excerpt
+//   CreatedAtBangla → "৩ মে ২০২৬, ১৪:০৪" (day-first Bangla, 24h, no AM/PM)
+//   parseDate handles this via existing day-first branch (no AM/PM → no correction)
+
+function scrapeDhakaPost(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+  let stories = [];
+
+  $("script").each((_, el) => {
+    const raw = $(el).html() || "";
+    if (!raw.includes("initialContents")) return;
+
+    const decoded = raw
+      .replace(/\\"/g, '"')
+      .replace(/\\n/g,  '')
+      .replace(/\\r/g,  '')
+      .replace(/\\t/g,  '')
+      .replace(/\\u003c/gi, '<')
+      .replace(/\\u003e/gi, '>')
+      .replace(/\\u0026/gi, '&');
+
+    const arrayStr = extractJsonArray(decoded, "initialContents");
+    if (!arrayStr) return;
+
+    try {
+      stories = JSON.parse(arrayStr);
+    } catch (e) {
+      console.warn(`  [DhakaPost] JSON parse failed: ${e.message}`);
+    }
+  });
+
+  for (const s of stories) {
+    const link = (s.URL || "").trim();
+    if (!link || seen.has(link)) continue;
+    seen.add(link);
+
+    const title = (s.Heading || "").trim();
+    if (!title) continue;
+
+    items.push({
+      title,
+      link,
+      description: (s.Brief || "").trim(),
+      image:       s.ImagePathMd || null,
+      date:        parseDate(s.CreatedAtBangla || ""),
+      category:    "মতামত",
+    });
+  }
+
+  console.log(`  [DhakaPost] Scraped ${items.length} articles`);
+  return items;
+}
+
+// ===== SCRAPER: DHAKA MAIL – মতামত =====
+// URL: https://dhakamail.com/opinion
+// Framework: Next.js Pages Router
+//
+// Article data in __NEXT_DATA__ script tag JSON.
+// Path: props.pageProps.data.stories.model[]
+// Fields:
+//   mainTitle     → title
+//   canonicalUrl  → absolute link
+//   fileName      → absolute image URL (cdx.dhakamail.com)
+//   subtitle      → description
+//   datePublished → "03-05-2026 13:23:25" (DD-MM-YYYY HH:MM:SS)
+//   parseDate handles via new DD-MM-YYYY branch
+
+function scrapeDhakaMail(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  const $nd = $("script#__NEXT_DATA__").first();
+  if (!$nd.length) {
+    console.warn("  [DhakaMail] __NEXT_DATA__ not found");
+    return items;
+  }
+
+  let data;
+  try {
+    data = JSON.parse($nd.html());
+  } catch (e) {
+    console.warn(`  [DhakaMail] JSON parse failed: ${e.message}`);
+    return items;
+  }
+
+  const model = data?.props?.pageProps?.data?.stories?.model || [];
+
+  for (const s of model) {
+    const link = (s.canonicalUrl || "").trim();
+    if (!link || seen.has(link)) continue;
+    seen.add(link);
+
+    const title = (s.mainTitle || "").trim();
+    if (!title) continue;
+
+    items.push({
+      title,
+      link,
+      description: (s.subtitle || "").trim(),
+      image:       s.fileName || null,
+      date:        parseDate(s.datePublished || ""),
+      category:    "মতামত",
+    });
+  }
+
+  console.log(`  [DhakaMail] Scraped ${items.length} articles`);
+  return items;
+}
+
+// ===== SCRAPER: KHOBORER KAGOJ – মতামত =====
+// URL: https://www.khaborerkagoj.com/opinion
+// Framework: Custom PHP (SSR)
+//
+// All opinion article links: a[href*="/opinion/"][title]
+// Image: img[src] inside anchor — relative path (uploads/...) → prepend base URL
+// Date: <small> text inside anchor:
+//   "প্রকাশ: ২৯ এপ্রিল ২০২৬, ০৫:০২ পিএম" → strip prefix → day-first Bangla DT
+//   "আপডেট: ২৭ এপ্রিল ২০২৬, ০৯:৪৬ এএম"  → same
+//   "১৩ ঘণ্টা আগে" / "১ দিন আগে"         → parseDate fallback → new Date()
+// Description: <p> text inside anchor (present on some cards)
+
+const KKJ_BASE = "https://www.khaborerkagoj.com";
+
+function scrapeKhaborerKagoj(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  $("a[href]").each((_, el) => {
+    const $a  = $(el);
+    const href = ($a.attr("href") || "").trim();
+
+    // Must be an opinion article link (not the category page itself)
+    if (!href.match(/\/opinion\/\d+/)) return;
+
+    const link = href.startsWith("http") ? href : KKJ_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    // Title from title attribute (most reliable) or h5 text
+    const title = (
+      $a.attr("title") ||
+      $a.find("h5").first().text() ||
+      $a.find("h2").first().text()
+    ).trim();
+    if (!title) return;
+
+    // Image — relative src, prepend base
+    const $img   = $a.find("img").first();
+    const imgSrc = ($img.attr("src") || "").trim();
+    const image  = imgSrc
+      ? (imgSrc.startsWith("http") ? imgSrc : KKJ_BASE + "/" + imgSrc.replace(/^\//, ""))
+      : null;
+
+    // Date from <small>
+    const rawDate = $a.find("small").first().text().trim();
+
+    // Description from <p>
+    const description = $a.find("p").first().text().trim();
+
+    items.push({
+      title,
+      link,
+      description,
+      image,
+      date:     parseDate(rawDate),
+      category: "মতামত",
+    });
+  });
+
+  console.log(`  [KhaborerKagoj] Scraped ${items.length} articles`);
+  return items;
+}
+
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
   {
@@ -713,6 +1031,31 @@ const SOURCES = [
     label:   "Ajker Patrika – বিশ্লেষণ",
     url:     "https://www.ajkerpatrika.com/analysis",
     scraper: (html, seen) => scrapeAjkerPatrika(html, seen, "বিশ্লেষণ"),
+  },
+  {
+    label:   "Dainik Naya Diganta – মতামত",
+    url:     "https://dailynayadiganta.com/opinions",
+    scraper: scrapeNayaDiganta,
+  },
+  {
+    label:   "Jago News 24 – মতামত",
+    url:     "https://www.jagonews24.com/opinion",
+    scraper: scrapeJagoNews,
+  },
+  {
+    label:   "Dhaka Post – মতামত",
+    url:     "https://www.dhakapost.com/opinion",
+    scraper: scrapeDhakaPost,
+  },
+  {
+    label:   "Dhaka Mail – মতামত",
+    url:     "https://dhakamail.com/opinion",
+    scraper: scrapeDhakaMail,
+  },
+  {
+    label:   "Khoborer Kagoj – মতামত",
+    url:     "https://www.khaborerkagoj.com/opinion",
+    scraper: scrapeKhaborerKagoj,
   },
 ];
 
