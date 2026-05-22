@@ -114,13 +114,26 @@ function parseDate(raw) {
   return new Date();
 }
 
-// ===== FLARESOLVERR =====
-async function fetchWithFlareSolverr(url) {
+// ===== DIRECT FETCH (no FlareSolverr) =====
+// For sites with no bot protection — avoids Chromium overhead entirely.
+async function fetchDirect(url) {
+  console.log(`Fetching ${url} directly...`);
+  const response = await axios.get(url, {
+    timeout: 15_000,
+    headers: {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "Accept-Language": "bn,en;q=0.9",
+    },
+  });
+  console.log("✅ Direct fetch OK");
+  return response.data;
+}
+async function fetchWithFlareSolverr(url, timeoutMs = 60_000) {
   console.log(`Fetching ${url} via FlareSolverr...`);
   const response = await axios.post(
     `${flareSolverrURL}/v1`,
-    { cmd: "request.get", url, maxTimeout: 60_000 },
-    { headers: { "Content-Type": "application/json" }, timeout: 65_000 }
+    { cmd: "request.get", url, maxTimeout: timeoutMs },
+    { headers: { "Content-Type": "application/json" }, timeout: timeoutMs + 5_000 }
   );
   if (response.data?.solution) {
     console.log("✅ FlareSolverr OK");
@@ -1000,6 +1013,7 @@ const SOURCES = [
     label:   "ShareBiz – Editorial (সম্পাদকীয়)",
     url:     "https://sharebiz.net/category/daily-paper/editorial/",
     scraper: scrapeShareBiz,
+    direct:  true,
   },
   {
     label:   "Joban Magazine – Opinion",
@@ -1135,8 +1149,9 @@ async function generateRSS() {
     for (const source of SOURCES) {
       console.log(`\n--- ${source.label} ---`);
       try {
-        const html  = await fetchWithFlareSolverr(source.url);
-        const items = source.scraper(html, seen);
+        const html  = source.direct
+          ? await fetchDirect(source.url)
+          : await fetchWithFlareSolverr(source.url, source.timeout);        const items = source.scraper(html, seen);
         newItems = newItems.concat(items);
       } catch (err) {
         console.error(`❌ Failed to scrape ${source.url}: ${err.message}`);
