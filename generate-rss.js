@@ -987,6 +987,79 @@ function scrapeKhaborerKagoj(html, seen) {
   return items;
 }
 
+// ===== SCRAPER: AGAMIR SOMOY – মতামত =====
+// URL: https://www.agamirsomoy.com/opinion
+// Framework: Next.js SSR
+//
+// Page has a lead article (a.block.border-r.pr-2.group) + list items
+// (a.flex.flex-col.gap-3.group) + a grid section below. Rather than
+// targeting each container separately, we scrape all anchors matching
+// /opinion/{subcat}/{id} — the seen Set handles cross-section dedup.
+//
+// Per anchor:
+//   Link     → prepend AGAMI_BASE (all hrefs are relative)
+//   Title    → h2/h3/h4 text, fallback: img[alt] (Next.js always sets it)
+//   Image    → img[src] (absolute media.agamirsomoy.com URLs)
+//   Date     → p[class*="text-slate-500"] > span last child text
+//              "০৪ জুলাই ২০২৬" → Bangla date-only, handled by parseDate
+//              absent on lead and grid cards → new Date()
+//   Desc     → div.html-content text (present only on lead)
+//   Category → URL path segment: editorial/column/interview/Memoir/…
+
+const AGAMI_BASE    = "https://www.agamirsomoy.com";
+const AGAMI_CAT_MAP = {
+  "editorial": "সম্পাদকীয়",
+  "column":    "উপসম্পাদকীয়",
+  "interview": "সাক্ষাৎকার",
+  "Memoir":    "স্মৃতিকথা",
+  "analysis":  "বিশ্লেষণ",
+};
+const AGAMI_ARTICLE_RE = /^\/opinion\/[^/]+\/[A-Za-z0-9]+/;
+
+function scrapeAgamirSomoy(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  $("a[href]").each((_, el) => {
+    const $a  = $(el);
+    const href = ($a.attr("href") || "").trim();
+    if (!AGAMI_ARTICLE_RE.test(href)) return;
+
+    const link = AGAMI_BASE + href;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    // Title: heading element → font-bold div → img alt fallback
+    const title = (
+      $a.find("h2, h3, h4").first().text().trim() ||
+      $a.find("div[class*='font-bold']").first().find("span").first().text().trim() ||
+      $a.find("img").first().attr("alt") || ""
+    ).trim();
+    if (!title) return;
+
+    // Image
+    const image = $a.find("img").first().attr("src") || null;
+
+    // Date: last span inside the time-indicator paragraph
+    const $datePara = $a.find("p").filter((_, p) =>
+      ($(p).attr("class") || "").includes("text-slate-500")
+    ).first();
+    const rawDate = $datePara.find("span").last().text().trim();
+
+    // Description (lead article only)
+    const description = $a.find("div.html-content").first().text().trim();
+
+    // Category from path
+    const subcat   = href.split("/")[2] || "";
+    const category = AGAMI_CAT_MAP[subcat] || "মতামত";
+
+    items.push({ title, link, description, image, date: parseDate(rawDate), category });
+  });
+
+  console.log(`  [AgamirSomoy] Scraped ${items.length} articles`);
+  return items;
+}
+
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
   {
@@ -1071,6 +1144,12 @@ const SOURCES = [
     url:     "https://www.khaborerkagoj.com/opinion",
     scraper: scrapeKhaborerKagoj,
   },
+  {
+    label:   "Agamir Somoy – মতামত",
+    url:     "https://www.agamirsomoy.com/opinion",
+    scraper: scrapeAgamirSomoy,
+    direct:  true,
+  },
 ];
 
 // ===== LOAD EXISTING ITEMS FROM XML =====
@@ -1151,7 +1230,8 @@ async function generateRSS() {
       try {
         const html  = source.direct
           ? await fetchDirect(source.url)
-          : await fetchWithFlareSolverr(source.url, source.timeout);        const items = source.scraper(html, seen);
+          : await fetchWithFlareSolverr(source.url, source.timeout);
+        const items = source.scraper(html, seen);
         newItems = newItems.concat(items);
       } catch (err) {
         console.error(`❌ Failed to scrape ${source.url}: ${err.message}`);
