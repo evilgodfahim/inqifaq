@@ -1084,7 +1084,7 @@ const SOURCES = [
   },
   {
     label:   "ShareBiz – Editorial (সম্পাদকীয়)",
-    url:     "https://sharebiz.net/category/daily-paper/editorial/",
+    url:     "https://www.sharebiz.net/daily/editorial",
     scraper: scrapeShareBiz,
     direct:  true,
   },
