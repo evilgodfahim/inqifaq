@@ -350,53 +350,41 @@ function scrapeJatiyoArthoniti(html, seen) {
 }
 
 // ===== SCRAPER: SHAREBIZ – EDITORIAL (সম্পাদকীয়) =====
-const SHAREBIZ_BASE = "https://sharebiz.net";
+// URL: https://www.sharebiz.net/daily/editorial
+// Framework: Custom PHP (SSR) — site redesigned, no longer JNews/WordPress
+//
+// Two zones, both scraped by finding all a[href*="/daily/news/"] with h2/h3:
+//   Zone 1 (image cards): a[href] > img + div.Desc > h2/h3
+//   Zone 2 (text list):   a[href] > h2/h3  (no image)
+// No dates in listing view.
 
-function extractShareBizImage($el) {
-  const bgSrc   = ($el.find(".thumbnail-container").first().attr("data-src") || "").trim();
-  if (bgSrc && !bgSrc.startsWith("data:")) return bgSrc;
-  const lazySrc = ($el.find("img").first().attr("data-src") || "").trim();
-  if (lazySrc && !lazySrc.startsWith("data:")) return lazySrc;
-  const src     = ($el.find("img").first().attr("src") || "").trim();
-  return (src && !src.startsWith("data:")) ? src : null;
-}
+const SHAREBIZ_BASE = "https://www.sharebiz.net";
 
 function scrapeShareBiz(html, seen) {
   const $     = cheerio.load(html);
   const items = [];
 
-  $("article.jeg_post[class*='jeg_hero_item']").each((_, el) => {
-    const $el = $(el);
-    if (!$el.find("div.jeg_post_category a.category-editorial").length) return;
-    const href = ($el.find("div.jeg_thumb > a").first().attr("href") || "").trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : SHAREBIZ_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-    const title = $el.find("h2.jeg_post_title a").text().trim();
-    if (!title) return;
-    items.push({ title, link, description: "", image: extractShareBizImage($el), date: new Date(), category: "সম্পাদকীয়" });
-  });
+  $("a[href]").each((_, el) => {
+    const $a   = $(el);
+    const href = ($a.attr("href") || "").trim();
+    if (!href.includes("/daily/news/")) return;
 
-  $("article.jeg_post.jeg_pl_md_1").each((_, el) => {
-    const $el = $(el);
-    const href = (
-      $el.find("div.jeg_thumb > a").first().attr("href") ||
-      $el.find("h3.jeg_post_title a").first().attr("href") ||
-      ""
-    ).trim();
-    if (!href) return;
     const link = href.startsWith("http") ? href : SHAREBIZ_BASE + href;
     if (seen.has(link)) return;
     seen.add(link);
-    const title = $el.find("h3.jeg_post_title a").text().trim();
+
+    const title = $a.find("h2, h3").first().text().trim();
     if (!title) return;
-    items.push({ title, link, description: "", image: extractShareBizImage($el), date: new Date(), category: "সম্পাদকীয়" });
+
+    const image = $a.find("img").first().attr("src") || null;
+
+    items.push({ title, link, description: "", image, date: new Date(), category: "সম্পাদকীয়" });
   });
 
   console.log(`  [ShareBiz] Scraped ${items.length} articles`);
   return items;
 }
+
 
 // ===== SCRAPER: JOBAN MAGAZINE =====
 const JOBAN_BASE  = "https://jobanmagazine.com";
