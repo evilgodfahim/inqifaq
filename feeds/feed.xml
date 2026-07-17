@@ -4,10 +4,40 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 01:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 04:51:07 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 01:22:09 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 04:51:07 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[সড়ক ও সংস্কার]]></title>
+            <description><![CDATA[পাবনার ঈশ্বরদী থেকে রাজশাহীর বানেশ্বর পর্যন্ত ৫৫ কিলোমিটারের একটি আঞ্চলিক মহাসড়ক প্রশস্তকরণ ও সংস্কারকাজের বয়স হয়েছে মাত্র দুই বছর। কিন্তু এই স্বল্প সময়ের মধ্যেই সড়কের ঈশ্বরদী সীমানার বিভিন্ন অংশে ফাটল দেখা দিয়েছে, সড়ক দেবে বিভিন্ন স্থানে গর্তের মতো হয়ে গেছে।]]></description>
+            <link>https://www.ajkerpatrika.com/op-ed/editorial/ajpdwmeyyt0zp</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/op-ed/editorial/ajpdwmeyyt0zp</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Fri, 17 Jul 2026 04:50:29 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/smpdky.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/smpdky.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[জলাবদ্ধ নগরে জবাবদিহির খরা]]></title>
+            <description><![CDATA[কাঠফাটা রোদ আর হাড়মাংস আচার হয়ে যাওয়া গরমের পর বর্ষার বৃষ্টি আমাদের জীবনে প্রশান্তি বয়ে আনে। এটাই আবহমান বাংলার ষড়্ঋতুর রূপবৈচিত্র্যের অন্তহীন খেলা। কাজেই বর্ষা আর তার বিভিন্ন মাত্রার বারিধারা আমাদের জীবনযাত্রারও অবিচ্ছেদ্য অংশ। কিছু ঝক্কিঝামেলা বাদে বাংলার প্রকৃতি তার অন্যতম মোহনীয় রূপে...]]></description>
+            <link>https://www.ajkerpatrika.com/op-ed/column/ajpua4ltcutkt</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/op-ed/column/ajpua4ltcutkt</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Fri, 17 Jul 2026 04:50:29 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/1st-Post_NbKvDXP.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/1st-Post_NbKvDXP.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[সামাজিক অবক্ষয়ের উৎস কোথায়]]></title>
+            <description><![CDATA[সামাজিক অবক্ষয় রোধে আমরা কতটুকু ভূমিকা রাখতে পারছি, প্রশ্নটা এখন সামনে এসে দাঁড়িয়েছে। সরকার, সমাজবিজ্ঞানী, সুশীল সমাজইবা এই বিষয়ে কতটা সচেতন, সেই প্রশ্নও উঠছে। অনেকেই কথায় কথায় বলেন, সামাজিক অবক্ষয়ে ছেয়ে গেছে সমাজ, গোটা দেশ। সামাজিক অবক্ষয় রোধ করা না গেলে দেশ ও জাতি ক্ষতিগ্রস্ত হবে।]]></description>
+            <link>https://www.ajkerpatrika.com/op-ed/column/ajpfkl5rubfs5</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/op-ed/column/ajpfkl5rubfs5</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Fri, 17 Jul 2026 04:50:29 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/2y-pstr-ilstrsn_RLJPbbA.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/2y-pstr-ilstrsn_RLJPbbA.jpg"/>
+        </item>
         <item>
             <title><![CDATA[বন্যা-উত্তর স্বাস্থ্যসংকট ও পুনর্বাসন]]></title>
             <description><![CDATA[দেশের ২৮টি উপজেলার ১৬০টি ইউনিয়নে সম্প্রতি যে বন্যা পরিস্থিতির সৃষ্টি হইয়াছে, তাহা কেবল আর মানবিক সংকটের গণ্ডিতে সীমাবদ্ধ নাই; বরং ইহা এক ভয়াবহ...]]></description>
@@ -346,8 +376,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/467664</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 16 Jul 2026 11:07:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/saiful-2026-haor-20260716110725.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/saiful-2026-haor-20260716110725.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/saiful-2026-haor-20260716110725.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/saiful-2026-haor-20260716110725.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[মেল্টিং পট: যুক্তরাষ্ট্রের মহাসমৃদ্ধির রসায়ন]]></title>
@@ -415,8 +445,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/467657</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 16 Jul 2026 10:39:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/farah-2026-vaping-20260715143649.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/farah-2026-vaping-20260715143649.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/farah-2026-vaping-20260715143649.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/farah-2026-vaping-20260715143649.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[রথযাত্রা ও ধর্মীয় সম্প্রীতি]]></title>
@@ -425,8 +455,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/467656</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 16 Jul 2026 10:37:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/sanchita-2026-rathajatra-20260716104636.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/sanchita-2026-rathajatra-20260716104636.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/sanchita-2026-rathajatra-20260716104636.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/sanchita-2026-rathajatra-20260716104636.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[পাবলিক পরীক্ষা শুষ্ক মৌসুমে নেওয়া উচিত]]></title>
@@ -890,8 +920,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/467352</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Wed, 15 Jul 2026 10:20:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/rumman-2026-ctg-flood-20260714180242.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/rumman-2026-ctg-flood-20260714180242.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/rumman-2026-ctg-flood-20260714180242.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/rumman-2026-ctg-flood-20260714180242.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[স্বাস্থ্য খাতের এই নৈরাজ্যের অবসান হউক]]></title>
@@ -1290,8 +1320,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/467039</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Tue, 14 Jul 2026 09:05:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/aditya-2026-dhaka-waterlog-20260713123231.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/aditya-2026-dhaka-waterlog-20260713123231.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/aditya-2026-dhaka-waterlog-20260713123231.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/aditya-2026-dhaka-waterlog-20260713123231.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[বন্যার দুর্ভোগ  মোকাবিলার প্রস্তুতি ও  ভবিষ্যৎ চিন্তা]]></title>
@@ -1791,8 +1821,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/466753</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Mon, 13 Jul 2026 09:11:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/pavel-2026-porcupine-20260712153531.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/pavel-2026-porcupine-20260712153531.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/pavel-2026-porcupine-20260712153531.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/pavel-2026-porcupine-20260712153531.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[সম্পাদকীয়বন্যা মোকাবিলায় দীর্ঘমেয়াদি পরিকল্পনা জরুরি]]></title>
@@ -2081,8 +2111,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/466470</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sun, 12 Jul 2026 09:41:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/siraj-2026-flood-ctg-20260711144545.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/siraj-2026-flood-ctg-20260711144545.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/siraj-2026-flood-ctg-20260711144545.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/siraj-2026-flood-ctg-20260711144545.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[সম্পাদকীয়তত্ত্বাবধায়ক সরকার ও  গণভোট : ঐকমত্য, আস্থা  ও গণতন্ত্রের পরীক্ষা]]></title>
@@ -2315,8 +2345,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/466236</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sat, 11 Jul 2026 10:52:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/mithun-2026-population-day-20260709132133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/mithun-2026-population-day-20260709132133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/mithun-2026-population-day-20260709132133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/mithun-2026-population-day-20260709132133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[ড. এম জহির ছিলেন দক্ষিণ-পূর্ব এশিয়ার অন্যতম কোম্পানি আইন বিশেষজ্ঞ]]></title>
@@ -2945,8 +2975,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/466002</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Fri, 10 Jul 2026 10:30:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/kamruzzaman-2026-sound-pollution-20260709142054.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/kamruzzaman-2026-sound-pollution-20260709142054.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/kamruzzaman-2026-sound-pollution-20260709142054.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/kamruzzaman-2026-sound-pollution-20260709142054.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[জাতীয় ও আন্তর্জাতিক প্রেক্ষাপটে আজকের ভাবনা]]></title>
@@ -3258,8 +3288,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/465726</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 09 Jul 2026 10:25:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/development-communication-20260709102543.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/development-communication-20260709102543.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/development-communication-20260709102543.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/development-communication-20260709102543.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[বিশ্বকাপ ফুটবল উন্মাদনা ও আমাদের ক্ষতগুলো]]></title>
@@ -3268,8 +3298,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/465714</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 09 Jul 2026 09:12:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/iraz-2026-fwc-20260706122834.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/iraz-2026-fwc-20260706122834.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/iraz-2026-fwc-20260706122834.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/iraz-2026-fwc-20260706122834.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[পরকীয়া প্রতিরোধে ইসলামের নির্দেশনা]]></title>
@@ -3757,8 +3787,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/465461</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Wed, 08 Jul 2026 10:51:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/samiran-2026-ctg-waterlog-20260707181448.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/samiran-2026-ctg-waterlog-20260707181448.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/samiran-2026-ctg-waterlog-20260707181448.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/samiran-2026-ctg-waterlog-20260707181448.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[কমাতে হবে ঋণ নির্ভরতা]]></title>
@@ -4050,8 +4080,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/465147</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Tue, 07 Jul 2026 11:16:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/huda-2026-abul-kasem-20260707111655.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/huda-2026-abul-kasem-20260707111655.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/huda-2026-abul-kasem-20260707111655.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/huda-2026-abul-kasem-20260707111655.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[সম্পাদকীয়রাষ্ট্রীয় নজরদারিতে স্বচ্ছতা ও জবাবদিহি নিশ্চিত হোক]]></title>
@@ -4400,8 +4430,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/464865</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Mon, 06 Jul 2026 09:54:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/uday-2026-ru-20260705164133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/uday-2026-ru-20260705164133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026July/uday-2026-ru-20260705164133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026July/uday-2026-ru-20260705164133.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[সম্পাদকীয়ডিজিটাল জুয়ার লাগাম টানতে হবে]]></title>
@@ -4486,36 +4516,6 @@
             <pubDate>Mon, 06 Jul 2026 00:04:00 GMT</pubDate>
             <media:content url="https://dailyinqilab.com/mediaStorage/content/images/2026July/SM/5-20260705221551.jpg" medium="image"/>
             <media:thumbnail url="https://dailyinqilab.com/mediaStorage/content/images/2026July/SM/5-20260705221551.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[উপকারী ফল তরমুজ]]></title>
-            <description><![CDATA[ইউসুফ আলহাজ আহমাদ হলেন সুপরিচিত আন্তর্জাতিক ইসলামি চিন্তাবিদ ও লেখক। ইসলামি অনুশাসন, বিজ্ঞান ও পবিত্র কোরআনের সম্পর্ক এবং স্বাস্থ্য বিষয়ে অনেক বই লিখেছেন তিনি। তার লেখা সর্বাপেক্ষা পাঠকনন্দিত বইগুলোর মধ্যে...]]></description>
-            <link>https://jatiyoarthoniti.com/2026/07/05/upkaree-fl-trmuj</link>
-            <guid isPermaLink="true">https://jatiyoarthoniti.com/2026/07/05/upkaree-fl-trmuj</guid>
-            <category><![CDATA[মত-দ্বিমত]]></category>
-            <pubDate>Sun, 05 Jul 2026 23:36:10 GMT</pubDate>
-            <media:content url="https://jatiyoarthoniti.com/uploads/2026/07/1783272962_6a4a960201730.webp?v=1783272962" medium="image"/>
-            <media:thumbnail url="https://jatiyoarthoniti.com/uploads/2026/07/1783272962_6a4a960201730.webp?v=1783272962"/>
-        </item>
-        <item>
-            <title><![CDATA[রাজধানীর জলাবদ্ধতা রোধে খাল নদী পুনরুদ্ধারের বিকল্প নেই]]></title>
-            <description><![CDATA[ভরাট, দখল ও দূষণের কারণে রাজধানীর খাল এবং নদীগুলো ক্রমেই হারিয়ে যাচ্ছে। খালগুলো এখন নর্দমায় পরিণত হয়েছে, আবার কিছু নদী সংকুচিত হয়ে খালে রূপ নিয়েছে। ঢাকার চারপাশের বুড়িগঙ্গা, তুরাগ, শীতলক্ষ্যা,...]]></description>
-            <link>https://jatiyoarthoniti.com/2026/07/05/rajdhaneer-jlabddhta-rodhe-khal-ndee-punruddharer-biklp-nei</link>
-            <guid isPermaLink="true">https://jatiyoarthoniti.com/2026/07/05/rajdhaneer-jlabddhta-rodhe-khal-ndee-punruddharer-biklp-nei</guid>
-            <category><![CDATA[মত-দ্বিমত]]></category>
-            <pubDate>Sun, 05 Jul 2026 23:33:06 GMT</pubDate>
-            <media:content url="https://jatiyoarthoniti.com/uploads/2026/07/1783272777_6a4a9549eca1d.webp?v=1783272778" medium="image"/>
-            <media:thumbnail url="https://jatiyoarthoniti.com/uploads/2026/07/1783272777_6a4a9549eca1d.webp?v=1783272778"/>
-        </item>
-        <item>
-            <title><![CDATA[ইরান-যুক্তরাষ্ট্র-ইসরায়েল এই ত্রিমুখী যুদ্ধে জয়ী কে?]]></title>
-            <description><![CDATA[ইরান, যুক্তরাষ্ট্র ও ইসরায়েল এই ত্রিমুখী যুদ্ধ যখন শেষ হওয়ার দারপ্রান্তে এবং এখন আলোচনা শুরু হয়েছে যুদ্ধের জয়-পরাজয় নিয়ে। এই যুদ্ধে কে জয়লাভ করেছে এবং পরাজিত শক্তির পরাজিত হওয়ার কারণ...]]></description>
-            <link>https://jatiyoarthoniti.com/2026/07/05/iran-zuktrashtr-israyel-ei-trimukhee-zuddhe-jyee-ke</link>
-            <guid isPermaLink="true">https://jatiyoarthoniti.com/2026/07/05/iran-zuktrashtr-israyel-ei-trimukhee-zuddhe-jyee-ke</guid>
-            <category><![CDATA[মত-দ্বিমত]]></category>
-            <pubDate>Sun, 05 Jul 2026 23:30:52 GMT</pubDate>
-            <media:content url="https://jatiyoarthoniti.com/uploads/2026/07/1783272646_6a4a94c6d3ab4.webp?v=1783272647" medium="image"/>
-            <media:thumbnail url="https://jatiyoarthoniti.com/uploads/2026/07/1783272646_6a4a94c6d3ab4.webp?v=1783272647"/>
         </item>
     </channel>
 </rss>
