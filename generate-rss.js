@@ -96,7 +96,22 @@ function parseDate(raw) {
     return new Date(year, month, day, hour, min, 0);
   }
 
-  // Bangla date-only: "০৩ এপ্রিল ২০২৬"
+  // Relative Bangla dates: "X মিনিট আগে", "X ঘণ্টা আগে", "X দিন আগে", "X সপ্তাহ আগে"
+  const relRe = /^([০-৯\d]+)\s*(মিনিট|ঘণ্টা|ঘন্টা|দিন|সপ্তাহ|মাস)\s*আগে/;
+  const relm  = str.match(relRe);
+  if (relm) {
+    const n    = parseInt(banglaToAscii(relm[1]), 10);
+    const unit = relm[2];
+    const ms   = unit.startsWith('মিনিট') ? n * 60_000
+               : unit.startsWith('ঘণ্টা') || unit.startsWith('ঘন্টা') ? n * 3_600_000
+               : unit.startsWith('দিন')   ? n * 86_400_000
+               : unit.startsWith('সপ্তাহ') ? n * 604_800_000
+               : unit.startsWith('মাস')   ? n * 30 * 86_400_000
+               : 0;
+    return new Date(Date.now() - ms);
+  }
+
+
   const dRe = /^([০-৯]+)\s+(\S+)\s+([০-৯]+)/;
   const m2 = str.match(dRe);
   if (m2) {
@@ -577,6 +592,57 @@ function extractJsonArray(text, key) {
   return null;
 }
 
+// Properly decode a Next.js RSC __next_f.push([1,"..."]) JS string payload.
+// Character-by-character walk handles all escape sequences correctly,
+// including invalid ones like \ফ (unknown escape → drop backslash, keep char).
+function decodeRscPayload(raw) {
+  const MARKER = '__next_f.push([1,"';
+  const results = [];
+  let searchFrom = 0;
+
+  while (searchFrom < raw.length) {
+    const idx = raw.indexOf(MARKER, searchFrom);
+    if (idx === -1) break;
+
+    let i   = idx + MARKER.length;
+    let out = '';
+
+    while (i < raw.length) {
+      const ch = raw[i];
+      if (ch === '"') break; // end of JS string
+      if (ch !== '\\') { out += ch; i++; continue; }
+
+      i++;
+      const esc = raw[i] || '';
+      switch (esc) {
+        case '"':  out += '"';  break;
+        case '\\': out += '\\'; break;
+        case '/':  out += '/';  break;
+        case 'n':               break; // drop newlines
+        case 'r':               break;
+        case 't':  out += '\t'; break;
+        case 'b':  out += '\b'; break;
+        case 'f':  out += '\f'; break;
+        case 'u': {
+          const hex = raw.slice(i + 1, i + 5);
+          if (/^[0-9a-fA-F]{4}$/.test(hex)) {
+            out += String.fromCharCode(parseInt(hex, 16));
+            i += 4;
+          } else { out += 'u'; }
+          break;
+        }
+        default: out += esc; // unknown escape (e.g., \ফ) → drop backslash, keep char
+      }
+      i++;
+    }
+
+    results.push(out);
+    searchFrom = idx + MARKER.length;
+  }
+
+  return results;
+}
+
 function scrapeAjkerPatrika(html, seen, catLabel) {
   const $     = cheerio.load(html);
   const items = [];
@@ -585,27 +651,27 @@ function scrapeAjkerPatrika(html, seen, catLabel) {
   let stories = [];
 
   $("script").each((_, el) => {
+    if (stories.length) return; // already found
     const raw = $(el).html() || "";
     if (!raw.includes("categoryStories")) return;
 
-    // The payload is a JS string literal inside self.__next_f.push([1,"..."])
-    // Un-escape the most common escape sequences to recover the embedded JSON
-    const decoded = raw
-      .replace(/\\"/g,   '"')
-      .replace(/\\n/g,   '')
-      .replace(/\\r/g,   '')
-      .replace(/\\t/g,   '')
-      .replace(/\\u003c/gi, '<')
-      .replace(/\\u003e/gi, '>')
-      .replace(/\\u0026/gi, '&');
-
-    const arrayStr = extractJsonArray(decoded, "categoryStories");
-    if (!arrayStr) return;
-
-    try {
-      stories = JSON.parse(arrayStr);
-    } catch (e) {
-      console.warn(`  [AjkerPatrika] JSON parse failed: ${e.message}`);
+    for (const decoded of decodeRscPayload(raw)) {
+      if (!decoded.includes("categoryStories")) continue;
+      const arrayStr = extractJsonArray(decoded, "categoryStories");
+      if (!arrayStr) continue;
+      try {
+        stories = JSON.parse(arrayStr);
+        break;
+      } catch (e) {
+        // Retry: strip backslashes before non-JSON-escape characters (e.g. \ফ, \: in captions)
+        try {
+          const fixed = arrayStr.replace(/\\(?!["\\\/bfnrtu])/g, '');
+          stories = JSON.parse(fixed);
+          break;
+        } catch (e2) {
+          console.warn(`  [AjkerPatrika] JSON parse failed: ${e2.message}`);
+        }
+      }
     }
   });
 
@@ -731,56 +797,30 @@ function scrapeNayaDiganta(html, seen) {
 }
 
 // ===== SCRAPER: JAGO NEWS 24 – মতামত =====
-// URL: https://www.jagonews24.com/opinion
+// URL: https://www.jagonews24.com/m/opinion  (mobile site — all article links have /m/opinion/article/ID)
 // Framework: Custom PHP (SSR)
 //
-// Two zones on the same page:
-//   Lead  → div.lead-article > a[href]
-//           Image: img[data-src]  (lazy; src is placeholder)
-//           Title: div.inner-content h3
-//
-//   List  → ul.news-list > li > a[href]
-//           Image: img[data-src]
-//           Title: h3.news-title
-//
-// Links come as mobile URLs (/m/opinion/article/ID) → normalized to desktop
-// No dates or descriptions in listing view
+// All article anchors: a[href*="/m/opinion/article/"]
+//   Image: img[data-src]
+//   Title: h3 text (any h3 inside the anchor)
+// No dates or descriptions in listing view.
 
 const JAGO_BASE = "https://www.jagonews24.com";
-
-function normalizeJagoUrl(href) {
-  if (!href) return null;
-  const full = href.startsWith("http") ? href : JAGO_BASE + href;
-  // /m/opinion/article/ID  →  /opinion/article/ID
-  return full.replace("jagonews24.com/m/", "jagonews24.com/");
-}
 
 function scrapeJagoNews(html, seen) {
   const $     = cheerio.load(html);
   const items = [];
 
-  // ── Lead article ──────────────────────────────────────────────────────────
-  const $lead = $("div.lead-article > a").first();
-  if ($lead.length) {
-    const link = normalizeJagoUrl($lead.attr("href"));
-    if (link && !seen.has(link)) {
-      seen.add(link);
-      const title = $lead.find("div.inner-content h3").text().trim();
-      const image = $lead.find("img").first().attr("data-src") || null;
-      if (title) {
-        items.push({ title, link, description: "", image, date: new Date(), category: "মতামত" });
-      }
-    }
-  }
-
-  // ── News list ──────────────────────────────────────────────────────────────
-  $("ul.news-list > li > a").each((_, el) => {
+  $("a[href]").each((_, el) => {
     const $a  = $(el);
-    const link = normalizeJagoUrl($a.attr("href"));
-    if (!link || seen.has(link)) return;
+    const href = ($a.attr("href") || "").trim();
+    if (!href.includes("/m/opinion/article/")) return;
+
+    const link = href.startsWith("http") ? href : JAGO_BASE + href;
+    if (seen.has(link)) return;
     seen.add(link);
 
-    const title = $a.find("h3.news-title").text().trim();
+    const title = $a.find("h3").first().text().trim();
     if (!title) return;
 
     const image = $a.find("img").first().attr("data-src") || null;
@@ -1114,7 +1154,7 @@ const SOURCES = [
   },
   {
     label:   "Jago News 24 – মতামত",
-    url:     "https://www.jagonews24.com/opinion",
+    url:     "https://www.jagonews24.com/m/opinion",
     scraper: scrapeJagoNews,
   },
   {
@@ -1136,7 +1176,6 @@ const SOURCES = [
     label:   "Agamir Somoy – মতামত",
     url:     "https://www.agamirsomoy.com/opinion",
     scraper: scrapeAgamirSomoy,
-    direct:  true,
   },
 ];
 
