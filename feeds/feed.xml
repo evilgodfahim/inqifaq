@@ -4,10 +4,48 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 06:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 11:21:29 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 06:37:28 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 11:21:29 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[সিলেটবাসীর ভোগান্তি: রেলেও নেই স্বস্তি, নেই সময়ের নিশ্চয়তা]]></title>
+            <link>https://www.mzamin.com/article/40612</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/40612</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/12092026/1789201401_rail.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/12092026/1789201401_rail.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[শিল্পায়নের নতুন অগ্রযাত্রায় ট্রিলিয়ন ডলারের অর্থনীতির হাতছানি]]></title>
+            <link>https://www.mzamin.com/article/38327</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/38327</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/02092026/1788361842_Untitled-19.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/02092026/1788361842_Untitled-19.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[মার্কিন এআই ‘ক্লদ’ দিয়েই যুক্তরাষ্ট্রের যুদ্ধজাহাজে নজর রাখছে ইরান]]></title>
+            <description><![CDATA[মার্কিন কৃত্রিম বুদ্ধিমত্তা (এআই) গবেষণা প্রতিষ্ঠান অ্যানথ্রোপিক স্বীকার করেছে, মধ্যপ্রাচ্যে মোতায়েন মার্কিন নৌবাহিনীর যুদ্ধজাহাজগুলোকে লক্ষ্যবস্তু করতে এবং সেগুলোর দুর্বলতা খুঁজে বের করতে তাদের তৈরি কৃত্রিম বুদ্ধিমত্তা মডেল ‘ক্লদ’ ব্যবহার করেছে ইরান।]]></description>
+            <link>https://www.ajkerpatrika.com/analysis/ajpqf7n762itg</link>
+            <guid isPermaLink="true">https://www.ajkerpatrika.com/analysis/ajpqf7n762itg</guid>
+            <category><![CDATA[বিশ্লেষণ]]></category>
+            <pubDate>Sat, 12 Sep 2026 11:21:00 GMT</pubDate>
+            <media:content url="https://images.ajkerpatrika.com/original_images/US-Navys-LHA-7.jpg" medium="image"/>
+            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/US-Navys-LHA-7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ভোটের হাওয়া, কূটনীতির সমীকরণ আর মশার রাজত্ব]]></title>
+            <description><![CDATA[শনিবারের সকালটি একটু অবকাশের—কিন্তু পৃথিবীটি বেচারা অবকাশ মানে না।]]></description>
+            <link>https://dhakamail.com/opinion/329015</link>
+            <guid isPermaLink="true">https://dhakamail.com/opinion/329015</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Sat, 12 Sep 2026 12:53:30 GMT</pubDate>
+            <media:content url="https://cdx.dhakamail.com/media/images/2026September/samsul-alom_20260909_115221654.jpg" medium="image"/>
+            <media:thumbnail url="https://cdx.dhakamail.com/media/images/2026September/samsul-alom_20260909_115221654.jpg"/>
+        </item>
         <item>
             <title><![CDATA[মক্কা চুক্তি সম্প্রসারণ ও বাংলাদেশের ভূমিকা]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdyyczwhad3z</link>
@@ -23,8 +61,8 @@
             <guid isPermaLink="true">https://www.dailyamardesh.com/op-ed/sub-editorial/amdqselwbp4bp</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sat, 12 Sep 2026 03:46:35 GMT</pubDate>
-            <media:content url="https://images.dailyamardesh.com/original_images/PM&apos;sChinavisit-7654ce-256x144.webp" medium="image"/>
-            <media:thumbnail url="https://images.dailyamardesh.com/original_images/PM&apos;sChinavisit-7654ce-256x144.webp"/>
+            <media:content url="https://images.dailyamardesh.com/original_images/PM&amp;apos;sChinavisit-7654ce-256x144.webp" medium="image"/>
+            <media:thumbnail url="https://images.dailyamardesh.com/original_images/PM&amp;apos;sChinavisit-7654ce-256x144.webp"/>
         </item>
         <item>
             <title><![CDATA[সামাজিক যোগাযোগমাধ্যম: স্বাধীনতা নাকি দায়িত্ব]]></title>
@@ -92,8 +130,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/482209</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sat, 12 Sep 2026 11:16:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/brata-2026-amirul-islam-20260912111632.jpg?width=560&amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/brata-2026-amirul-islam-20260912111632.jpg?width=560&amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/brata-2026-amirul-islam-20260912111632.jpg?width=560&amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/brata-2026-amirul-islam-20260912111632.jpg?width=560&amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[শিক্ষার মেরুদণ্ডেই যদি পচন ধরে!]]></title>
@@ -551,8 +589,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/482029</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Fri, 11 Sep 2026 10:53:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pallab-2026-mobeile-video-20260910180911.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pallab-2026-mobeile-video-20260910180911.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pallab-2026-mobeile-video-20260910180911.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pallab-2026-mobeile-video-20260910180911.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[বাংলাদেশে কেন নেই কার্যকর কনটেন্ট ফিল্টারিং?]]></title>
@@ -1020,8 +1058,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/481759</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 10 Sep 2026 09:59:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/helal-2026-suicide-20260909172203.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/helal-2026-suicide-20260909172203.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/helal-2026-suicide-20260909172203.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/helal-2026-suicide-20260909172203.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[প্রাসঙ্গিক প্রযুক্তিজ্ঞানই হতে পারে আগামীর বড় সম্পদ]]></title>
@@ -1496,8 +1534,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/481486</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Wed, 09 Sep 2026 11:16:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/iraz-2026-children-missing-20260909111645.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/iraz-2026-children-missing-20260909111645.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/iraz-2026-children-missing-20260909111645.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/iraz-2026-children-missing-20260909111645.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[এপারে মৃত্যুর মিছিল, ওপারে নীরবতা]]></title>
@@ -2000,8 +2038,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/481155</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Tue, 08 Sep 2026 09:23:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/parvin-2026-mogra-river-20260905132730.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/parvin-2026-mogra-river-20260905132730.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/parvin-2026-mogra-river-20260905132730.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/parvin-2026-mogra-river-20260905132730.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[মাদকের ভয়াবহতা রুখতে সামাজিক উদ্যোগ জরুরি]]></title>
@@ -2502,8 +2540,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/480890</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Mon, 07 Sep 2026 12:25:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-tourism-20260907122508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-tourism-20260907122508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-tourism-20260907122508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-tourism-20260907122508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[‘সাংবাদিকের বক্তব্যের জবাব তথ্য দিয়ে দেওয়াই সভ্যতার লক্ষণ’]]></title>
@@ -2641,8 +2679,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/480841</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Mon, 07 Sep 2026 09:12:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/samiran-2026-nepal-flood-20260907091237.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/samiran-2026-nepal-flood-20260907091237.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/samiran-2026-nepal-flood-20260907091237.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/samiran-2026-nepal-flood-20260907091237.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[লোমহর্ষক পারিবারিক হত্যাকাণ্ড আর কত বাড়িবে?]]></title>
@@ -3097,8 +3135,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/480585</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sun, 06 Sep 2026 10:14:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/lelin-2026-diabetes-20260906101432.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/lelin-2026-diabetes-20260906101432.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/lelin-2026-diabetes-20260906101432.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/lelin-2026-diabetes-20260906101432.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[রাজনীতির পুরোনো খেলা, বাংলাদেশের নতুন চ্যালেঞ্জ]]></title>
@@ -3561,8 +3599,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/480339</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sat, 05 Sep 2026 10:33:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/moin-2026-nepal-flood-20260903122336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/moin-2026-nepal-flood-20260903122336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/moin-2026-nepal-flood-20260903122336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/moin-2026-nepal-flood-20260903122336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[এল নিনো নিয়ে আতঙ্কের কারণ নেই, দরকার প্রস্তুতি]]></title>
@@ -3946,8 +3984,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/480138</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Fri, 04 Sep 2026 09:51:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sanchita-2026-shrrkrishna-20260903135315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sanchita-2026-shrrkrishna-20260903135315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sanchita-2026-shrrkrishna-20260903135315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sanchita-2026-shrrkrishna-20260903135315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[আমানতের হক আদায়েই রাষ্ট্রের প্রকৃত উন্নয়ন]]></title>
@@ -4212,8 +4250,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/480106</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 03 Sep 2026 23:34:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/boieng-0-20260903233401.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/boieng-0-20260903233401.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/boieng-0-20260903233401.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/boieng-0-20260903233401.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[৫ই আগস্টের পর রাষ্ট্র সংকট, পুনর্গঠন ও অন্তর্বর্তী সরকারের দায়]]></title>
@@ -4451,8 +4489,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/479871</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 03 Sep 2026 09:22:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/zahid-2026-mobile-20260902173315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/zahid-2026-mobile-20260902173315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/zahid-2026-mobile-20260902173315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/zahid-2026-mobile-20260902173315.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[হৃদয়ের ৩৫০: সংকটের বাংলাদেশে সাহসের নতুন গল্প]]></title>
@@ -4550,42 +4588,6 @@
             <guid isPermaLink="true">https://dailysangram.com/opinion/6eS2Y4SYyaoN/</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Wed, 02 Sep 2026 21:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[জুলাই চেতনার আলোকেই রাষ্ট্র সংস্কার অপরিহার্য]]></title>
-            <link>https://dailysangram.com/opinion/column/ZfBu1dJKyaoJ/</link>
-            <guid isPermaLink="true">https://dailysangram.com/opinion/column/ZfBu1dJKyaoJ/</guid>
-            <category><![CDATA[মতামত]]></category>
-            <pubDate>Wed, 02 Sep 2026 21:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[দৌড়ে ৫ নারী, ৩ পুরুষ—কীভাবে নির্বাচিত হবেন জাতিসংঘের পরবর্তী মহাসচিব]]></title>
-            <description><![CDATA[আগামী ৩১ ডিসেম্বর মেয়াদ শেষ হবে জাতিসংঘের বর্তমান মহাসচিব আন্তোনিও গুতেরেসের। পর্তুগালের সাবেক প্রধানমন্ত্রী ছিলেন তিনি। সবকিছু ঠিক থাকলে আগামী ১ জানুয়ারি দায়িত্ব নেবেন জাতিসংঘের দশম মহাসচিব। তাঁকে বেছে নিতে নিরাপত্তা পরিষদে ইতিমধ্যে দুই দফা অনানুষ্ঠানিক ভোট হয়েছে।]]></description>
-            <link>https://www.ajkerpatrika.com/analysis/ajpa9ocrneng3</link>
-            <guid isPermaLink="true">https://www.ajkerpatrika.com/analysis/ajpa9ocrneng3</guid>
-            <category><![CDATA[বিশ্লেষণ]]></category>
-            <pubDate>Sun, 23 Aug 2026 14:55:24 GMT</pubDate>
-            <media:content url="https://images.ajkerpatrika.com/original_images/race-to-be-next-UN-leader.jpg" medium="image"/>
-            <media:thumbnail url="https://images.ajkerpatrika.com/original_images/race-to-be-next-UN-leader.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ডিজিটাল সার্বভৌমত্ব নিয়ে আপসের সুযোগ নেই]]></title>
-            <description><![CDATA[তথ্যপ্রযুক্তির বিশ্বায়ণ ও ক্রমবর্ধমান ডিজিটালাইজেশনের মধ্য দিয়ে আমাদের সামগ্রিক জীবনধারা ক্রমেই ইন্টারনেট-অনলাইন নির্ভর হয়ে পড়ছে। গতানুগতিক ম্যানুয়েল তথ্য পরিষেবার যুগ পেরিয়ে আমরা যতই ডিজিটালাইজেশনকে আত্মস্থ করছি, গতির সাথে সাথে আমরা ভিন্ন রকমের নিরাপত্তাহীনতার অনিশ্চিত এক জটিল আবর্তে নিপতিত হতে শুরু করেছি। এটি কমবেশি একটি বৈশ্বিক বাস্তবতা হলেও বাংলাদেশে এ খাতের নিরাপত্তাহীনতার সাথে দেশে বিদ্যমান দুর্নীতি ও ভূরাজনৈতিক দুষ্টচক্রের দ্বারা বন্দি...]]></description>
-            <link>https://dailyinqilab.com/editorial/news/935513</link>
-            <guid isPermaLink="true">https://dailyinqilab.com/editorial/news/935513</guid>
-            <category><![CDATA[সম্পাদকীয়]]></category>
-            <pubDate>Wed, 02 Sep 2026 18:11:11 GMT</pubDate>
-            <media:content url="https://dailyinqilab.com/mediaStorage/content/images/2026September/editorial-inq-20260902214324.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyinqilab.com/mediaStorage/content/images/2026September/editorial-inq-20260902214324.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[বাংলাদেশের সার্বভৌমত্বের গ্যারান্টি : পূর্বে গণচীন এবং পশ্চিমে মক্কা যৌথ প্রতিরক্ষা জোট]]></title>
-            <link>https://dailyinqilab.com/editorial/news/935511</link>
-            <guid isPermaLink="true">https://dailyinqilab.com/editorial/news/935511</guid>
-            <category><![CDATA[সম্পাদকীয়]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-            <media:content url="https://dailyinqilab.com/mediaStorage/content/images/2026September/SM/9-20260902214226.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyinqilab.com/mediaStorage/content/images/2026September/SM/9-20260902214226.jpg"/>
         </item>
     </channel>
 </rss>
