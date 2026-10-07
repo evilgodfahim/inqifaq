@@ -4,10 +4,38 @@
         <description><![CDATA[Editorial, opinion and analysis from major Bangladeshi newspapers]]></description>
         <link>https://dailyinqilab.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 07:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 14:50:28 GMT</lastBuildDate>
         <atom:link href="https://dailyinqilab.com/editorial" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 07:49:21 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 14:50:28 GMT</pubDate>
         <language><![CDATA[bn]]></language>
+        <item>
+            <title><![CDATA[সাংবাদিকের পিতাও যখন চাঁদাবাজির শিকার!]]></title>
+            <link>https://www.mzamin.com/article/47601</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/47601</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/07102026/1791360724_barun.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/07102026/1791360724_barun.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[আমীরুলকে লেখা চিঠি]]></title>
+            <link>https://www.mzamin.com/article/44197</link>
+            <guid isPermaLink="true">https://www.mzamin.com/article/44197</guid>
+            <category><![CDATA[মত-মতান্তর]]></category>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://www.mzamin.com/uploads/news/25092026/1790347591_1.webp" medium="image"/>
+            <media:thumbnail url="https://www.mzamin.com/uploads/news/25092026/1790347591_1.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[গাধা পানি খায়, কিন্তু ঘোলা করে খায়]]></title>
+            <description><![CDATA[বাংলাদেশের আজকের রাজনীতির দিকে তাকালে এই প্রবাদটি অনেকটাই প্রাসঙ্গিক বলে মনে হয়। দেশের মানুষের আশা-আকাঙ্ক্ষা]]></description>
+            <link>https://dhakamail.com/opinion/334639</link>
+            <guid isPermaLink="true">https://dhakamail.com/opinion/334639</guid>
+            <category><![CDATA[মতামত]]></category>
+            <pubDate>Wed, 07 Oct 2026 15:10:25 GMT</pubDate>
+            <media:content url="https://cdx.dhakamail.com/media/images/2026October/Untitled-1_20261007_151024814.png" medium="image"/>
+            <media:thumbnail url="https://cdx.dhakamail.com/media/images/2026October/Untitled-1_20261007_151024814.png"/>
+        </item>
         <item>
             <title><![CDATA[কুষ্টিয়ায় আওয়ামী পান্ডাদের অনুসরণ করছে ক্ষমতাসীনরা]]></title>
             <link>https://www.dailyamardesh.com/op-ed/sub-editorial/amdynto44lcda</link>
@@ -129,8 +157,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/488571</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Wed, 07 Oct 2026 09:04:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shoyib-2026-inflation-20261006173929.jpg?width=560&amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shoyib-2026-inflation-20261006173929.jpg?width=560&amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shoyib-2026-inflation-20261006173929.jpg?width=560&amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shoyib-2026-inflation-20261006173929.jpg?width=560&amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[ঢাকার সড়ক কি শুধু খোঁড়াখুঁড়ির জন্য?]]></title>
@@ -499,8 +527,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/488317</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Tue, 06 Oct 2026 09:13:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/samiran-2026-food-insecurity-20261001143859.jpg?width=560&amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/samiran-2026-food-insecurity-20261001143859.jpg?width=560&amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/samiran-2026-food-insecurity-20261001143859.jpg?width=560&amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/samiran-2026-food-insecurity-20261001143859.jpg?width=560&amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[শিশুরা হারানোর আগে আমরা কোথায় ছিলাম]]></title>
@@ -893,8 +921,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/488038</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Mon, 05 Oct 2026 08:57:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/prashanta-2026-teachers-day-20261004143135.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/prashanta-2026-teachers-day-20261004143135.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/prashanta-2026-teachers-day-20261004143135.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/prashanta-2026-teachers-day-20261004143135.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[মানুষের স্বস্তিই উন্নয়নের শেষ কথা]]></title>
@@ -1272,8 +1300,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/487776</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sun, 04 Oct 2026 09:13:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/ashish-2026-animal-day-20261004091338.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/ashish-2026-animal-day-20261004091338.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/ashish-2026-animal-day-20261004091338.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/ashish-2026-animal-day-20261004091338.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[প্রবাসে সিলেটি ভাষার বিকৃত উপস্থাপন: আমাদের পরিচয় পুনরুদ্ধারের আহ্বান]]></title>
@@ -1698,8 +1726,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/487571</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sat, 03 Oct 2026 11:54:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/rajib-2026-towfiq-20261003115457.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/rajib-2026-towfiq-20261003115457.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/rajib-2026-towfiq-20261003115457.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/rajib-2026-towfiq-20261003115457.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[নিরাপত্তাব্যবস্থাই যেথায় নিরাপত্তাহীন!]]></title>
@@ -2186,8 +2214,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/487359</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Fri, 02 Oct 2026 10:46:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shahana-2026-street-children-20261001143406.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shahana-2026-street-children-20261001143406.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shahana-2026-street-children-20261001143406.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026October/shahana-2026-street-children-20261001143406.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[টার্মিনাল পরিচালনার চুক্তি হবে জাতির সঙ্গে বিশ্বাসঘাতকতা]]></title>
@@ -2448,8 +2476,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/487105</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Thu, 01 Oct 2026 09:04:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/dulal-2026-older-day-20260930153014.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/dulal-2026-older-day-20260930153014.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/dulal-2026-older-day-20260930153014.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/dulal-2026-older-day-20260930153014.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[কিউআর বদলেছে, নাগরিকের প্রশ্ন বদলায়নি]]></title>
@@ -2861,8 +2889,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/486815</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Wed, 30 Sep 2026 09:12:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/runa-2026-kids-20260929170329.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/runa-2026-kids-20260929170329.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/runa-2026-kids-20260929170329.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/runa-2026-kids-20260929170329.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[খাদ্য জাদুঘর নয় চাই জীবন্ত খাদ্যসংস্কৃতি]]></title>
@@ -3368,8 +3396,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/486541</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Tue, 29 Sep 2026 09:04:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pavel-2026-waste-food-20260928172810.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pavel-2026-waste-food-20260928172810.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pavel-2026-waste-food-20260928172810.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/pavel-2026-waste-food-20260928172810.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[ডেঙ্গু মোকাবিলায় কৌশল বদলানো জরুরি]]></title>
@@ -3835,8 +3863,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/486270</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Mon, 28 Sep 2026 10:03:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sultan-2026-pilice-20260928100336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sultan-2026-pilice-20260928100336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sultan-2026-pilice-20260928100336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/sultan-2026-pilice-20260928100336.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[যুদ্ধের বাজেট নয়, প্রয়োজন শান্তির বিনিয়োগ]]></title>
@@ -4197,8 +4225,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/486025</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sun, 27 Sep 2026 11:49:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-price-hike-20260927114924.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-price-hike-20260927114924.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-price-hike-20260927114924.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/kamrul-2026-price-hike-20260927114924.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[পর্যটন অর্থনীতি প্রবৃদ্ধিতে কৃত্রিম বুদ্ধিমত্তা]]></title>
@@ -4207,8 +4235,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/485997</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sun, 27 Sep 2026 09:53:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/santos-2026-tourism-20260926175508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/santos-2026-tourism-20260926175508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/santos-2026-tourism-20260926175508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/santos-2026-tourism-20260926175508.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA[‘ক্যাশলেস সোসাইটি চাই, চাই পেপারলেস প্রশাসন’]]></title>
@@ -4624,8 +4652,8 @@
             <guid isPermaLink="true">https://www.dhakapost.com/opinion/485729</guid>
             <category><![CDATA[মতামত]]></category>
             <pubDate>Sat, 26 Sep 2026 10:54:00 GMT</pubDate>
-            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/mithun-2026-contraception-day-20260924114153.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
-            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/mithun-2026-contraception-day-20260924114153.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
+            <media:content url="https://assets.dhakapost.com/media/imgAll/BG/2026September/mithun-2026-contraception-day-20260924114153.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315" medium="image"/>
+            <media:thumbnail url="https://assets.dhakapost.com/media/imgAll/BG/2026September/mithun-2026-contraception-day-20260924114153.jpg?width=560&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;height=315"/>
         </item>
         <item>
             <title><![CDATA['মানুষ সমস্যা নহে, মানুষই সমাধান']]></title>
@@ -4663,51 +4691,6 @@
             <pubDate>Thu, 24 Sep 2026 07:08:00 GMT</pubDate>
             <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Aysha-Siddika-20260924070819.webp" medium="image"/>
             <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Aysha-Siddika-20260924070819.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[বিশ্বমঞ্চে বাংলাদেশের নতুন অধ্যায়]]></title>
-            <description><![CDATA[প্রধানমন্ত্রী তারেক রহমানের যুক্তরাষ্ট্র যাত্রা ইতিহাসের পাতায় বাঙালি জাতির অস্তিত্ব, অখ-তা ও ভবিষ্যৎ আত্মপরিচয়ের এক নতুন মাইলফলক। জাতিসংঘের ৮১তম সাধারণ পরিষদের অধিবেশনে বাংলাদেশের প্রতিনিধিত্ব করতে নিউইয়র্কে তার এই সফর কেবল একটি রাষ্ট্রীয় কর্মসূচি নয়; এর মধ্য দিয়ে বিশ্বমঞ্চে বাংলাদেশের নতুন অগ্রাধিকার, জাতীয় স্বার্থ এবং ভবিষ্যৎ কূটনৈতিক অবস্থান তুলে...]]></description>
-            <link>https://www.rupalibangladesh.com/ajkerpatrika/opinion/168188</link>
-            <guid isPermaLink="true">https://www.rupalibangladesh.com/ajkerpatrika/opinion/168188</guid>
-            <category><![CDATA[মুক্তবাক]]></category>
-            <pubDate>Thu, 24 Sep 2026 07:07:00 GMT</pubDate>
-            <media:content url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Bayzid-20260924070742.webp" medium="image"/>
-            <media:thumbnail url="https://www.rupalibangladesh.com/media/imgAll/2025July/SM/Bayzid-20260924070742.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[উন্নয়নে উপেক্ষিত জাতির মানসিক স্বাস্থ্য]]></title>
-            <description><![CDATA[সামাজিক
-যোগাযোগমাধ্যমে প্রায়ই দেখা যায়, কারও
-মন্তব্য কেউ পছন্দ না
-করলে দ্বিমত প্রকাশ করতে গিয়ে ব্যক্তিগত
-আক্রমণ ও অকথ্য ভাষার
-ব্যবহার করে। এ ছাড়া
-নিজের মত জোর করে
-চাপিয়ে দেওয়ার চেষ্টা তো রয়েছেই। প্রশ্ন
-জাগে– জাতিগতভাবে আমরা কি ক্রমে
-মানসিক সুস্থতা হারিয়ে ফেলছি? মানুষের মতামতের সঙ্গে দ্বিমত থাকতেই পারে; কিন্তু সেই দ্বিমত প্রকাশ
-করতে গিয়ে এমন অসহিষ্ণু
-আচরণ কোনোভাবেই কাম্য নয়। 
-
-মতপ্রকাশের
-স্বাধীনতা আর ভাষার যথেচ্ছ
-ব্যবহার এক বিষয় নয়।
-মতপ্রকাশের স্বাধীনতার সঙ্গে সংযম, দায়িত্ববোধ...]]></description>
-            <link>https://www.agamirsomoy.com/opinion/column/j5grrflg3skw</link>
-            <guid isPermaLink="true">https://www.agamirsomoy.com/opinion/column/j5grrflg3skw</guid>
-            <category><![CDATA[উপসম্পাদকীয়]]></category>
-            <pubDate>Sat, 26 Sep 2026 01:01:36 GMT</pubDate>
-            <media:content url="https://files.agamirsomoy.com/bn-media/uploads/2026/09/b80c8b77-8520-4630-acec-b8bcfe6d8913.webp" medium="image"/>
-            <media:thumbnail url="https://files.agamirsomoy.com/bn-media/uploads/2026/09/b80c8b77-8520-4630-acec-b8bcfe6d8913.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[জাপানের কৃষি সমবায় থেকে আমরা যা শিখতে পারি]]></title>
-            <link>https://www.agamirsomoy.com/opinion/column/awt0t3amz1xd</link>
-            <guid isPermaLink="true">https://www.agamirsomoy.com/opinion/column/awt0t3amz1xd</guid>
-            <category><![CDATA[উপসম্পাদকীয়]]></category>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-            <media:content url="https://files.agamirsomoy.com/bn-media/uploads/2026/09/2a98c8c0-ce58-420e-80e2-b4aec943e748.webp" medium="image"/>
-            <media:thumbnail url="https://files.agamirsomoy.com/bn-media/uploads/2026/09/2a98c8c0-ce58-420e-80e2-b4aec943e748.webp"/>
         </item>
     </channel>
 </rss>
